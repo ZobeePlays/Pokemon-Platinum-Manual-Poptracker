@@ -225,6 +225,11 @@
 						"opt_defog_cross",
 						"opt_defog_items",
 						"event_toggle"
+					],
+					[
+						"opt_suny",
+						"opt_roadblocks",
+						"opt_early_fly"
 					]
 				]
 			}
