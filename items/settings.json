@@ -230,13 +230,13 @@
 		"allow_disabled": false,
 		"stages": [
 			{
-				"name": "Route 217 - Dowsing Not Required",
+				"name": "No Roadblocks",
 				"img": "/images/Items/AddRoadblocks.png",
 				"codes": "opt_roadblocks_off",
 				"inherit_codes": false
 			},
 			{
-				"name": "Route 217 - Dowsing Required",
+				"name": "Roadblocks are Added",
 				"img": "/images/Items/NoRoadblocks.png",
 				"codes": "opt_roadblocks_on",
 				"inherit_codes": false
