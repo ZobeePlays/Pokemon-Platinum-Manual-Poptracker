@@ -199,5 +199,72 @@
 			}
 		],
 		"codes": "opt_217"
+	},
+	{
+		"name": "Open Sunyshore",
+		"type": "progressive",
+		"loop": false,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Sunyshore is Closed",
+				"img": "/images/Items/ClosedSunyshore.png",
+				"codes": "opt_suny_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Sunyshore is Open",
+				"img": "/images/Items/OpenSunyshore.png",
+				"codes": "opt_suny_on",
+				"inherit_codes": false
+			}
+		],
+		"codes": "opt_suny"
+	},
+	{
+		"name": "Add Roadblocks",
+		"type": "progressive",
+		"loop": false,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Route 217 - Dowsing Not Required",
+				"img": "/images/Items/AddRoadblocks.png",
+				"codes": "opt_roadblocks_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Route 217 - Dowsing Required",
+				"img": "/images/Items/NoRoadblocks.png",
+				"codes": "opt_roadblocks_on",
+				"inherit_codes": false
+			}
+		],
+		"codes": "opt_roadblocks"
+	},
+	{
+		"name": "Early Fly",
+		"type": "progressive",
+		"loop": false,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Early Fly Off",
+				"img": "/images/Items/Fly.png",
+				"img_mods": "@disabled",
+				"codes": "opt_early_fly_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Early Fly On",
+				"img": "/images/Items/Fly.png",
+				"codes": "opt_early_fly_on",
+				"inherit_codes": false
+			}
+		],
+		"codes": "opt_early_fly"
 	}
 ]
