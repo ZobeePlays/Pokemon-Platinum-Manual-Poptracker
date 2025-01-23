@@ -1,10 +1,12 @@
-
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/setting_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/sectionID.lua")
 
 CUR_INDEX = -1
 --SLOT_DATA = nil
+LOCAL_ITEMS = {}
+GLOBAL_ITEMS = {}
 
 SLOT_DATA = {}
 
@@ -73,7 +75,7 @@ function onClear(slot_data)
     for _, v in pairs(ITEM_MAPPING) do
         if v[1] and v[2] then
             if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-            --    print(string.format("onClear: clearing item %s of type %s", v[1], v[2]))
+                print(string.format("onClear: clearing item %s of type %s", v[1], v[2]))
             end
             local obj = Tracker:FindObjectForCode(v[1])
             if obj then
@@ -92,13 +94,33 @@ function onClear(slot_data)
             end
         end
     end
-    LOCAL_ITEMS = {}
-    GLOBAL_ITEMS = {}
-    get_slot_options(slot_data)
 end
 
-function onItem(index, item_id, item_name, player_number)
+--called when a location gets cleared
+function onLocation(location_id, location_name)
+    local location_array = LOCATION_MAPPING[location_id]
+    if not location_array or not location_array[1] then
+        print(string.format("onLocation: could not find location mapping for id %s", location_id))
+        return
+    end
 
+    for _, location in pairs(location_array) do
+        local location_obj = Tracker:FindObjectForCode(location)
+        -- print(location, location_obj)
+        if location_obj then
+            if location:sub(1, 1) == "@" then
+                location_obj.AvailableChestCount = location_obj.AvailableChestCount - 1
+            else
+                location_obj.Active = true
+            end
+        else
+            print(string.format("onLocation: could not find location_object for code %s", location))
+        end
+    end
+end
+
+-- called when an item gets collected
+function onItem(index, item_id, item_name, player_number)
     if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("called onItem: %s, %s, %s, %s, %s", index, item_id, item_name, player_number, CUR_INDEX))
     end
@@ -143,28 +165,9 @@ function onItem(index, item_id, item_name, player_number)
     elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("onItem: could not find object for code %s", v[1]))
     end
-end
-
---called when a location gets cleared
-function onLocation(location_id, location_name)
-    local location_array = LOCATION_MAPPING[location_id]
-    if not location_array or not location_array[1] then
-        print(string.format("onLocation: could not find location mapping for id %s", location_id))
-        return
-    end
-
-    for _, location in pairs(location_array) do
-        local location_obj = Tracker:FindObjectForCode(location)
-        -- print(location, location_obj)
-        if location_obj then
-            if location:sub(1, 1) == "@" then
-                location_obj.AvailableChestCount = location_obj.AvailableChestCount - 1
-            else
-                location_obj.Active = true
-            end
-        else
-            print(string.format("onLocation: could not find location_object for code %s", location))
-        end
+    if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+        print(string.format("local items: %s", dump_table(LOCAL_ITEMS)))
+        print(string.format("global items: %s", dump_table(GLOBAL_ITEMS)))
     end
 end
 
@@ -175,6 +178,47 @@ end
 function onEventsLaunch(key, value)
     updateEvents(value)
 end
+
+ScriptHost:AddOnLocationSectionChangedHandler("manual", function(section)
+    local sectionID = section.FullID
+    if sectionID == "Sinnoh/Pokemon League/Event: Become Champion" then
+        if section.AvailableChestCount == 0 then
+            local res = Archipelago:StatusUpdate(Archipelago.ClientStatus.GOAL)
+            if res then
+                print("Sent Victory")
+                local obj = Tracker:FindObjectForCode("event_cynthia")
+                obj.Active = true
+            else
+                print("Error sending Victory")
+            end
+        end
+    elseif sectionID == "Sinnoh/Spear Pillar/Event: Defeat Arceus in Hall of Origin" then
+        if section.AvailableChestCount == 0 then
+            local res = Archipelago:StatusUpdate(Archipelago.ClientStatus.GOAL)
+            if res then
+                print("Sent Victory")
+                local obj = Tracker:FindObjectForCode("event_arceus")
+                obj.Active = true
+            else
+                print("Error sending Victory")
+            end
+        end
+    elseif (section.AvailableChestCount == 0) then  -- this only works for 1 chest per section
+        -- AP location cleared
+        local sectionID = section.FullID
+        local apID = sectionIDToAPID[sectionID]
+        if apID ~= nil then
+            local res = Archipelago:LocationChecks({apID})
+            if res then
+                print("Sent " .. tostring(apID) .. " for " .. tostring(sectionID))
+            else
+                print("Error sending " .. tostring(apID) .. " for " .. tostring(sectionID))
+            end
+        else
+            print(tostring(sectionID) .. " is not an AP location")
+        end
+    end
+end)
 
 -- function autoFill()
 --     if SLOT_DATA == nil  then
