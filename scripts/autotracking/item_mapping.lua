@@ -90,6 +90,7 @@ ITEM_MAPPING = {
 	[391] = {"event_galactichq", "toggle"},
 	[392] = {"event_warehouse", "toggle"},
 	[393] = {"azureflute", "toggle"},
+	[394] = {"membercard", "toggle"},
 	[395] = {"oaksletter", "toggle"},
-	[394] = {"membercard", "toggle"}
+	[396] = {"storagekey", "toggle"}
 }
