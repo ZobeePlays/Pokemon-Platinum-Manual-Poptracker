@@ -219,6 +219,13 @@
 				"sections": [
 					{"ref": "Sinnoh/Floaroma Meadow/Hidden Item 10"}
 				]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map":  "floaromameadow", "x": 680, "y": 291}],
+				"sections": [
+					{"ref": "Sinnoh/Floaroma Meadow/Hidden Item 11"}
+				]
 			}
 		]
 	},
@@ -529,6 +536,11 @@
 		"name": "Amity Square",
 		"children": [
 			{
+				"name": "partneritem",
+				"map_locations": [{"map":  "amitysquare", "x": 20, "y": 20}],
+				"sections": [{"ref": "Sinnoh/Amity Square/Partner Pokémon Pickup"}]
+			},
+			{
 				"name": "middleisland",
 				"map_locations": [{"map":  "amitysquare", "x": 437, "y": 471}],
 				"sections": [{"ref": "Sinnoh/Amity Square/(Left) Item on Middle of Island"}]
@@ -562,6 +574,11 @@
 				"name": "",
 				"map_locations": [{"map":  "pokemonmansion", "x": 91, "y": 65}],
 				"sections": [{"ref": "Sinnoh/Pokemon Mansion/Item in Westernmost Bedroom"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map":  "pokemonmansion", "x": 231, "y": 110}],
+				"sections": [{"ref": "Sinnoh/Pokemon Mansion/Soothe Bell from Maid in Center Bedroom"}]
 			},
 			{
 				"name": "",
@@ -617,6 +634,11 @@
 				"name": "",
 				"map_locations": [{"map":  "solaceonruins", "x": 56, "y": 80}],
 				"sections": [{"ref": "Sinnoh/Solaceon Ruins/B1F - Hidden Item Down Top Left Staircase"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map":  "solaceonruins", "x": 384, "y": 96}],
+				"sections": [{"ref": "Sinnoh/Solaceon Ruins/B1F - Gift for Lending Defog to Hiker"}]
 			},
 			{
 				"name": "",

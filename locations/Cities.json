@@ -77,6 +77,11 @@
 			},
 			{
 				"name": "",
+				"map_locations": [{"map": "jubilifecity", "x": 592, "y": 182}],
+				"sections": [{"ref": "Sinnoh/Jubilife City/Jubilife TV - Mask from Man on 2F"}]
+			},
+			{
+				"name": "",
 				"map_locations": [{"map": "jubilifecity", "x": 752, "y": 108}],
 				"sections": [{"ref": "Sinnoh/Jubilife City/Fashion Case from Overalls Man"}]
 			},

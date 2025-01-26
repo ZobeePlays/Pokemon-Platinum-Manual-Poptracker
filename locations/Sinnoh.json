@@ -426,6 +426,12 @@
                         "item_count": 1
                     },
                     {
+                        "name": "Jubilife TV - Mask from Man on 2F",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Fashion Case from Overalls Man",
                         "visibility_rules": [""],
                         "access_rules": ["event_oreburgh"],
@@ -1347,6 +1353,14 @@
                     },
                     {
                         "name": "Hidden Item 10",
+                        "chest_unopened_img": "/images/items/Hidden.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "visibility_rules": ["$hidden_on"],
+                        "access_rules": ["$surf,[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hidden Item 11",
                         "chest_unopened_img": "/images/items/Hidden.png",
                         "chest_opened_img": "/images/items/open.png",
                         "visibility_rules": ["$hidden_on"],
@@ -2634,6 +2648,12 @@
                 ],
                 "sections": [
                     {
+                        "name": "Partner Pokémon Pickup",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
                         "name": "(Left) Item on Middle of Island",
                         "visibility_rules": [""],
                         "access_rules": [""],
@@ -2894,9 +2914,9 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Clifftop Item from Maniac Tunnel Exit",
+                        "name": "B1F - Gift for Lending Defog to Hiker",
                         "visibility_rules": [""],
-                        "access_rules": [""],
+                        "access_rules": ["[HM05Defog]"],
                         "item_count": 1
                     },
                     {
@@ -2935,6 +2955,12 @@
                     },
                     {
                         "name": "B5F - FRIENDSHIP Room Item 4",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Clifftop Item from Maniac Tunnel Exit",
                         "visibility_rules": [""],
                         "access_rules": [""],
                         "item_count": 1
@@ -4101,6 +4127,12 @@
                 "sections": [
                     {
                         "name": "Item in Mr. Backlot's Office",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Soothe Bell from Maid in Center Bedroom",
                         "visibility_rules": [""],
                         "access_rules": [""],
                         "item_count": 1
