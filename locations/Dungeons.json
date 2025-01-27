@@ -215,6 +215,7 @@
 			},
 			{
 				"name": "",
+				"map_locations": [{"map":  "floaromameadow", "x": 679, "y": 293}],
 				"map_locations": [{"map":  "floaromameadow", "x": 470, "y": 194}],
 				"sections": [
 					{"ref": "Sinnoh/Floaroma Meadow/Hidden Item 10"}
@@ -881,7 +882,7 @@
 			{
 				"name": "",
 				"map_locations": [{"map":  "ironisland", "x": 355, "y": 81}],
-				"sections": [{"ref": "Sinnoh/Iron Island/HM04 from Ridley"}]
+				"sections": [{"ref": "Sinnoh/Iron Island/HM04 from Riley"}]
 			},
 			{
 				"name": "",

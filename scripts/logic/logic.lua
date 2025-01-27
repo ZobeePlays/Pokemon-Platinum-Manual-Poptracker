@@ -131,7 +131,7 @@ function defogcross()
 	return defog() or has("opt_defog_cross_on")
 end
 
-function defogitem()
+function defogitems()
 	return defog() or (has("opt_defog_cross_on") and has("opt_defog_items_on"))
 end
 
@@ -147,14 +147,9 @@ function battlezone()
 end
 
 function vrbonus()
-	return fareast() and waterfall() and has("progdex3") and rocksmash() and defogcross()
+	return fareast() and waterfall() and rocksmash() and defogcross()
 end
 
 function battlezoneon()
 	return has("opt_bz_on")
-end
-
-function ssb()
-  return east()
-  and has("event_distortion")
 end
