@@ -40,8 +40,8 @@
 						"S.S.Ticket",
 						"Parcel",
 						"OldCharm",
-						"OldRod",
-						"azureflute"
+						"pad",
+						"OldRod"
 					],
 					[
 						"Coupon1",
@@ -50,8 +50,8 @@
 						"GalacticKey",
 						"WorksKey",
 						"SuiteKey",
-						"GoodRod",
-						"oaksletter"
+						"StorageKey",
+						"GoodRod"
 					],
 					[
 						"Poketch",
@@ -59,9 +59,9 @@
 						"ProgressivePokedex",
 						"Pachirisu",
 						"Snorlax",
-						"KEcleon",
-						"SuperRod",
-						"membercard"
+						"Kecleon",
+						"pad",
+						"SuperRod"
 					]
 				]
 			}
@@ -154,6 +154,12 @@
 						"IciclePlate",
 						"DracoPlate",
 						"DreadPlate"
+					],
+					[
+						"AzureFlute",
+						"MemberCard",
+						"OaksLetter",
+						"SecretKey"
 					]
 				]
 			}
@@ -220,11 +226,17 @@
 						"opt_victory"
 					],
 					[
-						"opt_flash",
-						"opt_fly",
+						"opt_fly_early",
+						"opt_fly_north",
 						"opt_defog_cross",
 						"opt_defog_items",
 						"event_toggle"
+					],
+					[
+						"opt_flash",
+						"opt_skey",
+						"opt_extra_blocks",
+						"opt_open_sshore"
 					]
 				]
 			}

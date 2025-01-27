@@ -60,14 +60,54 @@ SLOT_CODES =
       [1] = 1  -- Logic Buyable Flash
     }
   },
+  storage_key =
+  {
+    code = "opt_skey",
+	type = "progressive",
+    mapping =
+    {
+      [0] = 0, -- Don't Add Storage Key to Pool
+      [1] = 1  -- Add Storage Key to Pool
+    }
+  },
+  early_fly =
+  {
+    code = "opt_fly_early",
+	type = "progressive",
+    mapping =
+    {
+      [0] = 0, -- Don't Require Fly Past Floaroma
+      [1] = 1  -- Require Fly Past Floaroma
+    }
+  },
   northern_sinnoh_fly =
   {
-    code = "opt_fly",
+    code = "opt_fly_north",
 	type = "progressive",
     mapping =
     {
       [0] = 0, -- Don't Require Fly for Northern Sinnoh
       [1] = 1  -- Require Fly for Northern Sinnoh
+    }
+  },
+  open_sunyshore =
+  {
+    code = "opt_open_sshore",
+	type = "progressive",
+    mapping =
+    {
+      [0] = 0, -- Don't Remove Roadblock to Route 222
+      [1] = 1  -- Remove Roadblock to Route 222
+    }
+  },
+  extra_roadblocks =
+  {
+    code = "opt_extra_blocks",
+	type = "progressive",
+    mapping =
+    {
+      [0] = 0, -- Don't Require Surf for Routes 212 and 214 to reach Pastoria City
+      [1] = 1  -- Require Surf for Routes 212 and 214 to reach Pastoria City
     }
   },
   defog_traversal =

@@ -112,6 +112,13 @@
 	},
 	
 	{
+		"name": "Storagte Key",
+		"type": "toggle",
+		"img": "/images/Items/StorageKey.png",
+		"codes": "StorageKey"
+	},
+	
+	{
 		"name": "Poke Radar",
 		"type": "toggle",
 		"img": "/images/Items/PokeRadar.png",
@@ -584,21 +591,21 @@
 		"name": "Azure Flute",
 		"type": "toggle",
 		"img": "/images/Items/azureflute.png",
-		"codes": "azureflute"
+		"codes": "AzureFlute"
 	},
 
 	{
 		"name": "Oak's Letter",
 		"type": "toggle",
 		"img": "/images/Items/oaksletter.png",
-		"codes": "oaksletter"
+		"codes": "OaksLetter"
 	},
 
 	{
 		"name": "Member Card",
 		"type": "toggle",
 		"img": "/images/Items/membercard.png",
-		"codes": "membercard"
+		"codes": "MemberCard"
 	},
 	
 	{
