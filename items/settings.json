@@ -22,22 +22,44 @@
 		]
 	},
 	{
-		"name": "North Fly Logic",
+		"name": "Early Fly Logic",
 		"type": "progressive",
 		"allow_disabled": false,
 		"loop": true,
-		"codes": "opt_fly",
+		"codes": "opt_fly_early",
 		"stages": [
 			{
 				"img": "/images/Items/Fly.png",
 				"img_mods": "@disabled",
-				"codes": "opt_fly_off",
+				"codes": "opt_fly_early_off",
+				"inherit_codes": false,
+				"name": "Fly not required beyond Floaroma"
+			},
+			{
+				"img": "/images/Items/Fly.png",
+				"codes": "opt_fly_early_on",
+				"inherit_codes": false,
+				"name": "Fly required beyond Floaroma"
+			}
+		]
+	},
+	{
+		"name": "North Fly Logic",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": true,
+		"codes": "opt_fly_north",
+		"stages": [
+			{
+				"img": "/images/Items/Fly.png",
+				"img_mods": "@disabled",
+				"codes": "opt_fly_north_off",
 				"inherit_codes": false,
 				"name": "Fly not required for North Sinnoh"
 			},
 			{
 				"img": "/images/Items/Fly.png",
-				"codes": "opt_fly_on",
+				"codes": "opt_fly_north_on",
 				"inherit_codes": false,
 				"name": "Fly required for North Sinnoh"
 			}
@@ -199,5 +221,74 @@
 			}
 		],
 		"codes": "opt_217"
+	},
+	{
+		"name": "Storage Key in Pool",
+		"type": "progressive",
+		"loop": false,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"codes": "opt_skey",
+		"stages": [
+			{
+				"name": "Storage Key is not in the Item Pool",
+				"img": "/images/Items/StorageKey.png",
+				"img_mods": "@disabled",
+				"codes": "opt_skey_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Storage Key is in the Item Pool",
+				"img": "/images/Items/StorageKey.png",
+				"codes": "opt_skey_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Open Sunnyshore City",
+		"type": "progressive",
+		"loop": false,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"codes": "opt_open_sshore",
+		"stages": [
+			{
+				"name": "Sunnyshore is Closed",
+				"img": "/images/Items/OpenSunyshore.png",
+				"img_mods": "@disabled",
+				"codes": "opt_open_sshore_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Sunnyshore is Open",
+				"img": "/images/Items/OpenSunyshore.png",
+				"codes": "opt_open_sshore_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Pastoria Roadblocks",
+		"type": "progressive",
+		"loop": false,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"codes": "opt_extra_blocks",
+		"stages": [
+			{
+				"name": "Roadblocks not on 212 and 214",
+				"img": "/images/Items/Surf.png",
+				"img_mods": "@disabled",
+				"codes": "opt_extra_blocks_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Roadblocks on 212 and 214",
+				"img": "/images/Items/Surf.png",
+				"codes": "opt_extra_blocks_on",
+				"inherit_codes": false
+			}
+		]
 	}
 ]
