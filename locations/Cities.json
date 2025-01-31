@@ -462,7 +462,7 @@
 			{
 				"name": "",
 				"map_locations": [{"map": "veilstonecity", "x": 343, "y": 155}],
-				"sections": [{"ref": "Sinnoh/Veilstone City/Item between Galactic Warehouses"}]
+				"sections": [{"ref": "Sinnoh/Veilstone City/Item Between Galactic Warehouses"}]
 			},
 			{
 				"name": "",

@@ -85,7 +85,7 @@ function hidden_on()
 end
 
 function champ()
-  return has("ForestBadge") and has("CobbleBadge") and has("FenBadge") and has("MineBadge") and has("RelicBadge") and has("CoalBadge") and has("BeaconBadge") and has("IcicleBadge") and has("HM07WaterFall") and has("HM06RockSmash")
+  return badges(8) and waterfall() and rocksmash()
  end
 
 function vict_arceus()

@@ -6,115 +6,15 @@
             "margin": "0,0",
             "content": [
                 {
-				"type": "itemgrid",
-				"item_margin": "2,2",
-				"h_alignment": "left",
-				"item_h_alignment": "center",
-				"item_v_alignment": "center",
-				"item_height": 36,
-				"item_width": 36,
-				"rows": [
-					[
-						 "CoalBadge",
-						 "ForestBadge",
-						 "CobbleBadge",
-						 "FenBadge",
-						 "RelicBadge",
-						 "MineBadge",
-						 "IcicleBadge",
-						 "BeaconBadge"
-					],
-					[
-						 "HM01Cut",
-						 "HM02Fly",
-						 "HM03Surf",
-						 "HM04Strength",
-						 "HM05Defog",
-						 "HM06RockSmash",
-						 "HM07Waterfall",
-						 "HM08RockClimb"
-					],
-					[
-						 "TM70-Flash",
-						 "Bicycle",
-						 "SecretPotion",
-						 "S.S.Ticket",
-						 "Parcel",
-						 "OldCharm",
-						 "OldRod",
-						 "azureflute"
-					],
-					[
-						 "Coupon1",
-						 "Coupon2",
-						 "Coupon3",
-						 "GalacticKey",
-						 "WorksKey",
-						 "SuiteKey",
-						 "GoodRod",
-						 "oaksletter"
-					],
-					[
-						 "Poketch",
-						 "DowsingMachineApp",
-						 "ProgressivePokedex",
-						 "Pachirisu",
-						 "Snorlax",
-						 "KEcleon",
-						 "SuperRod",
-						 "membercard"
-					],
-					[
-                         "DigitalWatchApp",
-                         "CalculatorApp",
-                         "MemoPadApp",
-                         "PedometerApp",
-                         "PokemonListApp",
-                         "FriendshipCheckerApp",
-                         "StopwatchApp",
-                         "BerrySearcherApp"
-                    ],
-                    [
-                         "Day-CareCheckerApp",
-                         "PokemonHistoryApp",
-                         "CounterApp",
-                         "AnalogWatchApp",
-                         "MarkingMapApp",
-                         "LinkSearcherApp",
-                         "CoinTossApp",
-                         "MoveTesterApp"
-                    ],
-                    [
-                         "CalendarApp",
-                         "DotArtistApp",
-                         "RouletteApp",
-                         "ChainCounterApp",
-                         "KitchenTimerApp",
-                         "ColorChangerApp",
-                         "MatchupCheckerApp",
-                         "AlarmClockApp"
-					],
-					[
-                         "FistPlate",
-                         "SkyPlate",
-                         "ToxicPlate",
-                         "EarthPlate",
-                         "StonePlate",
-                         "InsectPlate",
-                         "SpookyPlate",
-                         "IronPlate"
-                    ],
-                    [
-                         "ZapPlate",
-                         "FlamePlate",
-                         "SplashPlate",
-                         "MeadowPlate",
-                         "MindPlate",
-                         "IciclePlate",
-                         "DracoPlate",
-                         "DreadPlate"
-					]
-					]
+                    "type": "array",
+                    "orientation": "vertical",
+                    "margin": "0,0",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "shared_item_grid_vertical"
+                         }
+                    ]
                 }
             ]
         }

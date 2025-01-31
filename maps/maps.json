@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Sinnoh",
-		"location_size": 32,
+		"location_size": 22,
 		"location_border_thickness": 2,
 		"img": "images/maps/map.png"
 	},
