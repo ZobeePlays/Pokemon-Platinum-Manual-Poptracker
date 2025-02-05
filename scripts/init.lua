@@ -6,7 +6,6 @@ local variant = Tracker.ActiveVariantUID
 -- check variant info
 IS_ITEMS_ONLY = variant:find("itemsonly")
 
-print("-- Example Tracker --")
 print("Loaded variant: ", variant)
 if ENABLE_DEBUG_LOG then
     print("Debug logging is enabled!")
@@ -16,15 +15,10 @@ ScriptHost:LoadScript("scripts/utils.lua")
 ScriptHost:LoadScript("scripts/watch.lua")
 ScriptHost:LoadScript("scripts/logic/logic.lua")
 
-
--- Custom Items
--- ScriptHost:LoadScript("scripts/custom_items/class.lua")
--- ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlus.lua")
--- ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlusWrapper.lua")
-
 -- Items
 Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/settings.json")
+Tracker:AddItems("items/map_tab_items.json")
 
 
 if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
@@ -36,6 +30,7 @@ if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     Tracker:AddLocations("locations/Routes.json")
     Tracker:AddLocations("locations/Dungeons.json")
     Tracker:AddLocations("locations/Mt Coronet.json")
+    Tracker:AddLocations("locations/tabswitch_locations.json")
 end
 
 -- Layout
@@ -44,9 +39,7 @@ Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/broadcast.json")
 Tracker:AddLayouts("layouts/tabs.json")
 
--- AutoTracking for Poptracker
-if PopVersion and PopVersion >= "0.18.0" then
-    ScriptHost:LoadScript("scripts/autotracking.lua")
-end
+-- Autotracking
+ScriptHost:LoadScript("scripts/autotracking.lua")
 
 initialize_watch_items()

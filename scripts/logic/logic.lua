@@ -231,3 +231,7 @@ function vrbonus()
 	return vroadback()
 	and defogcross()
 end
+
+function blue()
+    return AccessibilityLevel.Inspect
+end

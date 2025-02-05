@@ -1,0 +1,1910 @@
+[
+    {
+        "name": "Tab-Switch Locations",
+        "chest_unopened_img": "/images/items/Enter.png",
+        "chest_opened_img": "/images/items/Enter.png",
+        "overlay_background": "#000000",
+        "children": [
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Twinleaf Town",
+                        "hosted_item": "tabto_Cities_and_Twinleaf Town",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Sandgem Town",
+                        "hosted_item": "tabto_Cities_and_Sandgem Town",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 10,
+                        "y": 10,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Jubilife City",
+                        "hosted_item": "tabto_Cities_and_Jubilife City",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Oreburgh City",
+                        "hosted_item": "tabto_Cities_and_Oreburgh City",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Floaroma Town",
+                        "hosted_item": "tabto_Cities_and_Floaroma Town",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Eterna City",
+                        "hosted_item": "tabto_Cities_and_Eterna City",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Hearthome City",
+                        "hosted_item": "tabto_Cities_and_Hearthome City",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Solaceon Town",
+                        "hosted_item": "tabto_Cities_and_Solaceon Town",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Veilstone City",
+                        "hosted_item": "tabto_Cities_and_Veilstone City",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Pastoria City",
+                        "hosted_item": "tabto_Cities_and_Pastoria City",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Celestic Town",
+                        "hosted_item": "tabto_Cities_and_Celestic Town",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Canalave City",
+                        "hosted_item": "tabto_Cities_and_Canalave City",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Snowpoint City",
+                        "hosted_item": "tabto_Cities_and_Snowpoint City",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Sunyshore City",
+                        "hosted_item": "tabto_Cities_and_Sunyshore City",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Pokemon League",
+                        "hosted_item": "tabto_Cities_and_Pokemon League",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Fight Area",
+                        "hosted_item": "tabto_Cities_and_Fight Area",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Survival Area",
+                        "hosted_item": "tabto_Cities_and_Survival Area",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Resort Area",
+                        "hosted_item": "tabto_Cities_and_Resort Area",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Verity Lakefront",
+                        "hosted_item": "tabto_Routes_and_Verity Lakefront",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 201",
+                        "hosted_item": "tabto_Routes_and_Route 201",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 202",
+                        "hosted_item": "tabto_Routes_and_Route 202",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 203",
+                        "hosted_item": "tabto_Routes_and_Route 203",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 204",
+                        "hosted_item": "tabto_Routes_and_Route 204",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Valley Windworks",
+                        "hosted_item": "tabto_Routes_and_Valley Windworks",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 205 South",
+                        "hosted_item": "tabto_Routes_and_Route 205 South",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Fuego Ironworks (Outside)",
+                        "hosted_item": "tabto_Routes_and_Fuego Ironworks (Outside)",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Eterna Forest Side Route",
+                        "hosted_item": "tabto_Routes_and_Eterna Forest Side Route",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 205 North",
+                        "hosted_item": "tabto_Routes_and_Route 205 North",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 206",
+                        "hosted_item": "tabto_Routes_and_Route 206",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 207",
+                        "hosted_item": "tabto_Routes_and_Route 207",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 208",
+                        "hosted_item": "tabto_Routes_and_Route 208",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 209",
+                        "hosted_item": "tabto_Routes_and_Route 209",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 210 South",
+                        "hosted_item": "tabto_Routes_and_Route 210 South",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 210 Mid",
+                        "hosted_item": "tabto_Routes_and_Route 210 Mid",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 210 North",
+                        "hosted_item": "tabto_Routes_and_Route 210 North",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 211 West",
+                        "hosted_item": "tabto_Routes_and_Route 211 West",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 211 East",
+                        "hosted_item": "tabto_Routes_and_Route 211 East",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 212 North",
+                        "hosted_item": "tabto_Routes_and_Route 212 North",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 212 South",
+                        "hosted_item": "tabto_Routes_and_Route 212 South",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 213",
+                        "hosted_item": "tabto_Routes_and_Route 213",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Valor Lakefront",
+                        "hosted_item": "tabto_Routes_and_Valor Lakefront",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 214",
+                        "hosted_item": "tabto_Routes_and_Route 214",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 215",
+                        "hosted_item": "tabto_Routes_and_Route 215",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 216",
+                        "hosted_item": "tabto_Routes_and_Route 216",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 217",
+                        "hosted_item": "tabto_Routes_and_Route 217",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Acuity Lakefront",
+                        "hosted_item": "tabto_Routes_and_Acuity Lakefront",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 218",
+                        "hosted_item": "tabto_Routes_and_Route 218",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 219",
+                        "hosted_item": "tabto_Routes_and_Route 219",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 220",
+                        "hosted_item": "tabto_Routes_and_Route 220",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 221",
+                        "hosted_item": "tabto_Routes_and_Route 221",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 222",
+                        "hosted_item": "tabto_Routes_and_Route 222",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 223",
+                        "hosted_item": "tabto_Routes_and_Route 223",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 224",
+                        "hosted_item": "tabto_Routes_and_Route 224",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 225",
+                        "hosted_item": "tabto_Routes_and_Route 225",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 226",
+                        "hosted_item": "tabto_Routes_and_Route 226",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 227",
+                        "hosted_item": "tabto_Routes_and_Route 227",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Stark Mountain Exterior",
+                        "hosted_item": "tabto_Routes_and_Stark Mountain Exterior",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 228",
+                        "hosted_item": "tabto_Routes_and_Route 228",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 229",
+                        "hosted_item": "tabto_Routes_and_Route 229",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Route 230",
+                        "hosted_item": "tabto_Routes_and_Route 230",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Oreburgh Gate",
+                        "hosted_item": "tabto_Dungeons_and_Oreburgh Gate",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Oreburgh Mine",
+                        "hosted_item": "tabto_Dungeons_and_Oreburgh Mine",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Ravaged Path",
+                        "hosted_item": "tabto_Dungeons_and_Ravaged Path",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Floaroma Meadow",
+                        "hosted_item": "tabto_Dungeons_and_Floaroma Meadow",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Fuego Ironworks",
+                        "hosted_item": "tabto_Dungeons_and_Fuego Ironworks",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Eterna Forest",
+                        "hosted_item": "tabto_Dungeons_and_Eterna Forest",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Old Chateau",
+                        "hosted_item": "tabto_Dungeons_and_Old Chateau",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Team Galactic Eterna Building",
+                        "hosted_item": "tabto_Dungeons_and_Team Galactic Eterna Building",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Wayward Cave",
+                        "hosted_item": "tabto_Dungeons_and_Wayward Cave",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Amity Square",
+                        "hosted_item": "tabto_Dungeons_and_Amity Square",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Pokemon Mansion",
+                        "hosted_item": "tabto_Dungeons_and_Pokemon Mansion",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Lost Tower",
+                        "hosted_item": "tabto_Dungeons_and_Lost Tower",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Solaceon Ruins",
+                        "hosted_item": "tabto_Dungeons_and_Solaceon Ruins",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Galactic Warehouse",
+                        "hosted_item": "tabto_Dungeons_and_Galactic Warehouse",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Galactic HQ",
+                        "hosted_item": "tabto_Dungeons_and_Galactic HQ",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Maniac Tunnel",
+                        "hosted_item": "tabto_Dungeons_and_Maniac Tunnel",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Great Marsh",
+                        "hosted_item": "tabto_Dungeons_and_Great Marsh",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Iron Island",
+                        "hosted_item": "tabto_Dungeons_and_Iron Island",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Lake Valor",
+                        "hosted_item": "tabto_Dungeons_and_Lake Valor",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Lake Verity",
+                        "hosted_item": "tabto_Dungeons_and_Lake Verity",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Lake Acuity",
+                        "hosted_item": "tabto_Dungeons_and_Lake Acuity",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Snowpoint Temple",
+                        "hosted_item": "tabto_Dungeons_and_Snowpoint Temple",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Distortion World",
+                        "hosted_item": "tabto_Dungeons_and_Distortion World",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Victory Road",
+                        "hosted_item": "tabto_Dungeons_and_Victory Road",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Victory Road Foggy Basement",
+                        "hosted_item": "tabto_Dungeons_and_Victory Road Foggy Basement",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Pal Park",
+                        "hosted_item": "tabto_Dungeons_and_Pal Park",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Stark Mountain Cavern",
+                        "hosted_item": "tabto_Dungeons_and_Stark Mountain Cavern",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Mt. Coronet (Route 211 Tunnel Room)",
+                        "hosted_item": "tabto_Mt. Coronet_and_Mt. Coronet (Route 211 Tunnel Room)",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Mt. Coronet (Routes 207-208 Room)",
+                        "hosted_item": "tabto_Mt. Coronet_and_Mt. Coronet (Routes 207-208 Room)",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Mt. Coronet (Exit to Route 216 Room)",
+                        "hosted_item": "tabto_Mt. Coronet_and_Mt. Coronet (Exit to Route 216 Room)",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Mt. Coronet 2F-3F",
+                        "hosted_item": "tabto_Mt. Coronet_and_Mt. Coronet 2F-3F",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Mt. Coronet 4F-6F",
+                        "hosted_item": "tabto_Mt. Coronet_and_Mt. Coronet 4F-6F",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Mt. Coronet B1F",
+                        "hosted_item": "tabto_Mt. Coronet_and_Mt. Coronet B1F",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Mt. Coronet Outside",
+                        "hosted_item": "tabto_Mt. Coronet_and_Mt. Coronet Outside",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "sections": [
+                    {
+                        "name": "Go to Mt. Coronet Tunnel to 1F",
+                        "hosted_item": "tabto_Mt. Coronet_and_Mt. Coronet Tunnel to 1F",
+                        "access_rules": [
+                            "^$blue"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "",
+                        "x": 1,
+                        "y": 1,
+                        "shape": "diamond"
+                    }
+                ]
+            }
+        ]
+    }
+]

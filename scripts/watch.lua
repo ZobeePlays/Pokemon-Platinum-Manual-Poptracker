@@ -10,4 +10,6 @@ function initialize_watch_items()
     for _, code in pairs(HOSTED_ITEMS) do
         ScriptHost:AddWatchForCode(code, code, toggle_item)
     end
+    
+    ScriptHost:AddWatchForCode("Map Tabbing", "*", tabswitch)
 end
