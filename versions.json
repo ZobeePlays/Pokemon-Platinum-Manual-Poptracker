@@ -1,0 +1,10 @@
+{
+	"versions": [
+		{
+			"package_version": "1.0.0",
+			"download_url": "",
+			"sha256": "",
+			"changelog": ["Initial Release"]
+		}
+	]
+}
