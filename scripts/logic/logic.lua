@@ -33,7 +33,7 @@ function cut()
 end
 
 function fly()
-  return has("HM02Fly") and has("CobbleBadge")
+  return has("opt_fly_early_off") or (has("HM02Fly") and has("CobbleBadge"))
 end
 
 function surf()
@@ -118,15 +118,11 @@ end
 
 -- Beeg Access
 function floaroma()
-	return rocksmash() or has("Bicycle")
+	return rocksmash() --or has("Bicycle")
 end
 
 function canalave()
 	return surf()
-	and (
-		fly()
-		or has("opt_fly_early_off")
-	)
 end
 function eterna()
 	return (
@@ -135,10 +131,6 @@ function eterna()
 			rocksmash()
 			and r205river()
 		)
-	)
-	and (
-		fly()
-		or has("opt_fly_early_off")
 	)
 end
 
@@ -152,10 +144,6 @@ function central()
 			and defogcross()
 			and has("SecretPotion")
 		)
-	)
-	and (
-		fly()
-		or has("opt_fly_early_off")
 	)
 end
 

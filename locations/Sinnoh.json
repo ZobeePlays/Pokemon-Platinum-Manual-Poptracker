@@ -318,7 +318,7 @@
 			{
 				"name": "Canalave City",
 				"map_locations": [{"map": "Sinnoh", "x": 49, "y": 485}],
-				"access_rules": ["$canalave"],
+				"access_rules": ["$canalave,[$fly]"],
 				"sections": [
 					{
 						"name": "Gift in First House",
@@ -361,7 +361,7 @@
 			{
 				"name": "Iron Island",
 				"map_locations": [{"map": "Sinnoh", "x": 104, "y": 280}],
-				"access_rules": ["$canalave"],
+				"access_rules": ["$canalave,[$fly]"],
 				"sections": [
 					{
 						"name": "Hidden Item on Rock Outside",
@@ -620,53 +620,53 @@
 					},
 					{
 						"name": "First Gift from Dawn or Lucas",
-						"access_rules": ["$central"],
+						"access_rules": ["$central,[$fly]"],
 						"item_count": 1
 					},
 					{
 						"name": "Second Gift from Dawn or Lucas",
-						"access_rules": ["$central"],
+						"access_rules": ["$central,[$fly]"],
 						"item_count": 1
 					},
 					{
 						"name": "Hidden Item Behind Hiker Next to Wooden Bridge",
 						"chest_unopened_img": "/images/items/hidden.png",
 						"visibility_rules": ["$hidden_on"],
-						"access_rules": ["$central,[$hidden]"],
+						"access_rules": ["$central,[$hidden],[$fly]"],
 						"item_count": 1
 					},
 					{
 						"name": "Item Across Wooden Bridge",
-						"access_rules": ["$central"],
+						"access_rules": ["$central,[$fly]"],
 						"item_count": 1
 					},
 					{
 						"name": "Item Between Vents",
-						"access_rules": ["$central"],
+						"access_rules": ["$central,[$fly]"],
 						"item_count": 1
 					},
 					{
 						"name": "Hidden Item on Ledge",
 						"chest_unopened_img": "/images/items/hidden.png",
 						"visibility_rules": ["$hidden_on"],
-						"access_rules": ["$central,[$hidden]"],
+						"access_rules": ["$central,[$hidden],[$fly]"],
 						"item_count": 1
 					},
 					{
 						"name": "Hidden Item in Front of Cave Entrance",
 						"chest_unopened_img": "/images/items/hidden.png",
 						"visibility_rules": ["$hidden_on"],
-						"access_rules": ["$central,[$hidden]"],
+						"access_rules": ["$central,[$hidden],[$fly]"],
 						"item_count": 1
 					},
 					{
 						"name": "Item Above Rock Climb Slope",
-						"access_rules": ["$central,$surf,$rockclimb,$strength"],
+						"access_rules": ["$central,$surf,$rockclimb,$strength,[$fly]"],
 						"item_count": 1
 					},
 					{
 						"name": "Item Below Rock Climb Slope",
-						"access_rules": ["$central,$surf,$rockclimb,$strength"],
+						"access_rules": ["$central,$surf,$rockclimb,$strength,[$fly]"],
 						"item_count": 1
 					},
 					{
@@ -675,8 +675,8 @@
                         "chest_opened_img": "/images/items/open.png",
                         "visibility_rules": ["$hidden_on"],
                         "access_rules": [
-							"$central,$cut,[$flash],$rocksmash,[$hidden]",
-							"$central,$surf,$rockclimb,$strength,[$hidden]"
+							"$central,$cut,[$flash],$rocksmash,[$hidden],[$fly]",
+							"$central,$surf,$rockclimb,$strength,[$hidden],[$fly]"
 						],
                         "item_count": 1,
 						"clear_as_group": true
@@ -731,21 +731,21 @@
 			{
 				"name": "Upper Route 204",
 				"map_locations": [{"map": "Sinnoh", "x": 160, "y": 444}],
-				"access_rules": ["$floaroma"],
+				"access_rules": ["$floaroma", "Bicycle,[$fly]"],
 				"sections": [
 					{
 						"name": "Item Above Cave Entrance",
-						"access_rules": ["$rocksmash","Bicycle"],
+						"access_rules": [""],
 						"item_count": 1
 					},
 					{
 						"name": "Item on Left",
-						"access_rules": ["$rocksmash","Bicycle"],
+						"access_rules": [""],
 						"item_count": 1
 					},
 					{
 						"name": "Woman Behind Cut Tree",
-						"access_rules": ["$rocksmash,$cut","Bicycle,$cut"],
+						"access_rules": ["$cut"],
 						"item_count": 1
 					}
 				]
@@ -753,7 +753,7 @@
 			{
 				"name": "Floaroma Town",
 				"map_locations": [{"map": "Sinnoh", "x": 160, "y": 418}],
-				"access_rules": ["$floaroma"],
+				"access_rules": ["$floaroma", "Bicycle,[$fly]"],
 				"sections": [
 					{
 						"name": "Girl in Northwest House",
@@ -771,7 +771,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$floaroma"
+                    "$floaroma","Bicycle,[$fly]"
                 ],
                 "sections": [
                     {
@@ -914,7 +914,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$eterna"
+                    "$eterna,[$fly]"
                 ],
                 "sections": [
                     {
@@ -965,7 +965,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$floaroma"
+                    "$floaroma", "Bicycle,[$fly]"
                 ],
                 "sections": [
                     {
@@ -1010,7 +1010,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$eterna,$surf"
+                    "$eterna,$surf,[$fly]"
                 ],
                 "sections": [
                     {
@@ -1045,7 +1045,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$eterna,$surf"
+                    "$eterna,$surf,[$fly]"
                 ],
                 "sections": [
                     {
@@ -1134,7 +1134,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$eterna,$cut"
+                    "$eterna,$cut,[$fly]"
                 ],
                 "sections": [
                     {
@@ -1171,7 +1171,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$eterna"
+                    "$eterna,[$fly]"
                 ],
                 "sections": [
                     {
@@ -1240,7 +1240,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$eterna,$cut"
+                    "$eterna,$cut,[$fly]"
                 ],
                 "sections": [
                     {
@@ -1297,7 +1297,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$eterna"
+                    "$eterna,[$fly]"
                 ],
                 "sections": [
                     {
@@ -1330,7 +1330,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$eterna"
+                    "$eterna,[$fly]"
                 ],
                 "sections": [
                     {
@@ -1425,7 +1425,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$eterna,$cut"
+                    "$eterna,$cut,[$fly]"
                 ],
                 "sections": [
                     {
@@ -1474,7 +1474,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$eterna"
+                    "$eterna,[$fly]"
                 ],
                 "sections": [
                     {
@@ -1507,7 +1507,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$eterna"
+                    "$eterna,[$fly]"
                 ],
                 "sections": [
                     {
@@ -1596,7 +1596,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$north,[$defogitems]"
+                    "$north,[$defogitems],[$fly]"
                 ],
                 "sections": [
 {
@@ -1689,13 +1689,13 @@
                     {
                         "name": "(North Gate) Reward For 35 Pokemon Seen",
                         "visibility_rules": [""],
-                        "access_rules": ["$eterna"],
+                        "access_rules": ["$eterna,[$fly]"],
                         "item_count": 1
                     },
                     {
                         "name": "(South Gate) Girl in Southern Gate",
                         "visibility_rules": [""],
-                        "access_rules": ["$central"],
+                        "access_rules": ["$central,[$fly]"],
                         "item_count": 1
                     },
                     {
@@ -1703,13 +1703,13 @@
                         "chest_unopened_img": "/images/items/Hidden.png",
                         "chest_opened_img": "/images/items/open.png",
                         "visibility_rules": ["$hidden_on"],
-                        "access_rules": ["$cut,$central,[$hidden]"],
+                        "access_rules": ["$cut,$central,[$hidden],[$fly]"],
                         "item_count": 1
                     },
                     {
                         "name": "Item Under Split Cycling Road Section",
                         "visibility_rules": [""],
-                        "access_rules": ["$cut,$central"],
+                        "access_rules": ["$cut,$central,[$fly]"],
                         "item_count": 1
                     },
                     {
@@ -1717,25 +1717,25 @@
                         "chest_unopened_img": "/images/items/Hidden.png",
                         "chest_opened_img": "/images/items/open.png",
                         "visibility_rules": ["$hidden_on"],
-                        "access_rules": ["$cut,$central,[$hidden]"],
+                        "access_rules": ["$cut,$central,[$hidden],[$fly]"],
                         "item_count": 1
                     },
                     {
                         "name": "Item Behind Cut Tree South of Wooden Bridge",
                         "visibility_rules": [""],
-                        "access_rules": ["$cut,$central"],
+                        "access_rules": ["$cut,$central,[$fly]"],
                         "item_count": 1
                     },
                     {
                         "name": "Item Against East Wall",
                         "visibility_rules": [""],
-                        "access_rules": ["$cut,$central"],
+                        "access_rules": ["$cut,$central,[$fly]"],
                         "item_count": 1
                     },
                     {
                         "name": "Item Above Berry Patch",
                         "visibility_rules": [""],
-                        "access_rules": ["$cut,$central"],
+                        "access_rules": ["$cut,$central,[$fly]"],
                         "item_count": 1
                     }
                 ],
@@ -1754,7 +1754,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$central"
+                    "$central,[$fly]"
                 ],
                 "sections": [
                     {
@@ -1883,7 +1883,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$eterna"
+                    "$eterna,[$fly]"
                 ],
                 "sections": [
                     {
@@ -1938,7 +1938,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$central,$surf,$rockclimb"
+                    "$central,$surf,$rockclimb,[$fly]"
                 ],
                 "sections": [
                     {
@@ -2011,7 +2011,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$central"
+                    "$central,[$fly]"
                 ],
                 "sections": [
                     {
@@ -2120,7 +2120,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$central"
+                    "$central,[$fly]"
                 ],
                 "sections": [
                     {
@@ -2177,7 +2177,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$central,Pachirisu"
+                    "$central,Pachirisu,[$fly]"
                 ],
                 "sections": [
                     {
@@ -2226,7 +2226,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$central"
+                    "$central,[$fly]"
                 ],
                 "sections": [
                     {
@@ -2319,7 +2319,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$central"
+                    "$central,[$fly]"
                 ],
                 "sections": [
                     {
@@ -2384,7 +2384,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$central"
+                    "$central,[$fly]"
                 ],
                 "sections": [
                     {
@@ -2435,7 +2435,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$central"
+                    "$central,[$fly]"
                 ],
                 "sections": [
                     {
@@ -2514,7 +2514,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$central"
+                    "$central,[$fly]"
                 ],
                 "sections": [
                     {
@@ -2559,7 +2559,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$central"
+                    "$central,[$fly]"
                 ],
                 "sections": [
                     {
@@ -2644,7 +2644,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$central"
+                    "$central,[$fly]"
                 ],
                 "sections": [
                     {
@@ -2768,7 +2768,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$central,event_warehouse"
+                    "$central,event_warehouse,[$fly]"
                 ],
                 "sections": [
                     {
@@ -2843,7 +2843,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$central,"
+                    "$central,[$fly]"
                 ],
                 "sections": [
                     {
@@ -2953,7 +2953,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$pastoria"
+                    "$pastoria,[$fly]"
                 ],
                 "sections": [
                     {
@@ -3026,7 +3026,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$pastoria"
+                    "$pastoria,[$fly]"
                 ],
                 "sections": [
                     {
@@ -3091,7 +3091,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$pastoria"
+                    "$pastoria,[$fly]"
                 ],
                 "sections": [
                     {
@@ -3268,7 +3268,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$pastoria"
+                    "$pastoria,[$fly]"
                 ],
                 "sections": [
                     {
@@ -3326,7 +3326,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$pastoria"
+                    "$pastoria,[$fly]"
                 ],
                 "sections": [
                     {
@@ -3448,7 +3448,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$pastoria"
+                    "$pastoria,[$fly]"
                 ],
                 "sections": [
                     {
@@ -3585,7 +3585,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$pastoria"
+                    "$pastoria,[$fly]"
                 ],
                 "sections": [
                     {
@@ -3650,7 +3650,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$pastoria"
+                    "$pastoria,[$fly]"
                 ],
                 "sections": [
                     {
@@ -3695,7 +3695,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "Bicycle,SecretPotion,opt_fly_early_off","Bicycle,SecretPotion,$fly,opt_fly_early_on","$celestic,$defogcross"
+                    "Bicycle,SecretPotion,[$fly]","$celestic,$defogcross,[$fly]"
                 ],
                 "sections": [
                     {
@@ -3764,7 +3764,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$celestic,[$defogitems],$defogcross"
+                    "$celestic,[$defogitems],$defogcross,[$fly]"
                 ],
                 "sections": [
                     {
@@ -3829,7 +3829,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$celestic"
+                    "$celestic,[$fly]"
                 ],
                 "sections": [
                     {
@@ -3898,7 +3898,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$celestic"
+                    "$celestic,[$fly]"
                 ],
                 "sections": [
                     {
@@ -3943,7 +3943,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$north"
+                    "$north,[$fly]"
                 ],
                 "sections": [
                     {
@@ -3984,7 +3984,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$north"
+                    "$north,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4047,7 +4047,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$north"
+                    "$north,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4194,7 +4194,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$north"
+                    "$north,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4225,7 +4225,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$north,$rockclimb"
+                    "$north,$rockclimb,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4257,7 +4257,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$pastoria,event_bombs"
+                    "$pastoria,event_bombs,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4297,7 +4297,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$north"
+                    "$north,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4342,7 +4342,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$north,ProgDex3"
+                    "$north,ProgDex3,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4381,7 +4381,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$north"
+                    "$north,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4412,7 +4412,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$battlezone"
+                    "$battlezone,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4517,7 +4517,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$battlezone"
+                    "$battlezone,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4562,7 +4562,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$battlezone"
+                    "$battlezone,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4639,7 +4639,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$battlezone,$surf,$rocksmash"
+                    "$battlezone,$surf,$rocksmash,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4686,7 +4686,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$battlezone"
+                    "$battlezone,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4743,7 +4743,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$battlezone,$surf"
+                    "$battlezone,$surf,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4776,7 +4776,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$battlezone,$surf"
+                    "$battlezone,$surf,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4887,7 +4887,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$battlezone,$surf,Bicycle"
+                    "$battlezone,$surf,Bicycle,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4940,7 +4940,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$battlezone,$surf,Bicycle"
+                    "$battlezone,$surf,Bicycle,[$fly]"
                 ],
                 "sections": [
                     {
@@ -4971,7 +4971,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$battlezone,$surf,Bicycle"
+                    "$battlezone,$surf,Bicycle,[$fly]"
                 ],
                 "sections": [
                     {
@@ -5126,7 +5126,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$uppercoronet"
+                    "$uppercoronet,[$fly]"
                 ],
                 "sections": [
                     {
@@ -5211,7 +5211,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$uppercoronet"
+                    "$uppercoronet,[$fly]"
                 ],
                 "sections": [
                     {
@@ -5244,7 +5244,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$uppercoronet"
+                    "$uppercoronet,[$fly]"
                 ],
                 "sections": [
                     {
@@ -5299,7 +5299,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$uppercoronet"
+                    "$uppercoronet,[$fly]"
                 ],
                 "sections": [
                     {
@@ -5400,7 +5400,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$sunnyshore"
+                    "$sunnyshore,[$fly]"
                 ],
                 "sections": [
                     {
@@ -5513,7 +5513,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$sunnyshore"
+                    "$sunnyshore,[$fly]"
                 ],
                 "sections": [
                     {
@@ -5590,7 +5590,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$sunnyshore,$surf"
+                    "$sunnyshore,$surf,[$fly]"
                 ],
                 "sections": [
                     {
@@ -5649,7 +5649,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$vroad"
+                    "$vroad,[$fly]"
                 ],
                 "sections": [
                     {
@@ -5796,7 +5796,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$vrbonus,[$defogitems]"
+                    "$vrbonus,[$defogitems],[$fly]"
                 ],
                 "sections": [
                     {
@@ -5879,7 +5879,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$vrbonus"
+                    "$vrbonus,[$fly]"
                 ],
                 "sections": [
                     {
@@ -5996,7 +5996,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$vroadback"
+                    "$vroadback,[$fly]"
                 ],
                 "sections": [
                     {
@@ -6030,7 +6030,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "$pastoria"
+                    "$pastoria,[$fly]"
                 ],
                 "sections": [
                     {
