@@ -4225,7 +4225,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "^$north,$rockclimb"
+                    "^$north,$rockclimb,event_mars"
                 ],
                 "sections": [
                     {
@@ -4233,7 +4233,7 @@
                         "chest_unopened_img": "/images/items/Jupiter.png",
                         "chest_opened_img": "/images/items/JupiterDim.png",
                         "visibility_rules": ["event_toggle"],
-                        "access_rules": ["event_mars"]
+                        "access_rules": [""]
                     },
                     {
                         "name": "Item in Northeast Corner of Lake",
