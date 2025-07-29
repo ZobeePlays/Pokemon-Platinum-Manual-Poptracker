@@ -718,5 +718,647 @@
 		"type": "toggle",
 		"img": "images/Items/Arceus.png",
 		"codes": "event_arceus"
+	},
+	{
+		"name": "Cheri Berry",
+		"type": "toggle",
+		"img": "images/Items/cheri.png",
+		"codes": "CheriBerry"
+	},
+	{
+		"name": "Chesto Berry",
+		"type": "toggle",
+		"img": "images/Items/Chesto.png",
+		"codes": "ChestoBerry"
+	},
+	{
+		"name": "Pecha Berry",
+		"type": "toggle",
+		"img": "images/Items/Pecha.png",
+		"codes": "PechaBerry"
+	},
+	{
+		"name": "Oran Berry",
+		"type": "toggle",
+		"img": "images/Items/Oran.png",
+		"codes": "OranBerry"
+	},
+	{
+		"name": "Rawst Berry",
+		"type": "toggle",
+		"img": "images/Items/Rawst.png",
+		"codes": "RawstBerry"
+	},
+	{
+		"name": "Aspear Berry",
+		"type": "toggle",
+		"img": "images/Items/Aspear.png",
+		"codes": "AspearBerry"
+	},
+	{
+		"name": "Leppa Berry",
+		"type": "toggle",
+		"img": "images/Items/Leppa.png",
+		"codes": "LeppaBerry"
+	},
+	{
+		"name": "Persim Berry",
+		"type": "toggle",
+		"img": "images/Items/Persim.png",
+		"codes": "PersimBerry"
+	},
+	{
+		"name": "Razz Berry",
+		"type": "toggle",
+		"img": "images/Items/Razz.png",
+		"codes": "RazzBerry"
+	},
+	{
+		"name": "Bluk Berry",
+		"type": "toggle",
+		"img": "images/Items/Bluk.png",
+		"codes": "BlukBerry"
+	},
+	{
+		"name": "Nanab Berry",
+		"type": "toggle",
+		"img": "images/Items/Nanab.png",
+		"codes": "NanabBerry"
+	},
+	{
+		"name": "Wepear Berry",
+		"type": "toggle",
+		"img": "images/Items/Wepear.png",
+		"codes": "WepearBerry"
+	},
+	{
+		"name": "Pinap Berry",
+		"type": "toggle",
+		"img": "images/Items/Pinap.png",
+		"codes": "PinapBerry"
+	},
+	
+	{
+		"name": "Cornn Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": true,
+		"stages": [
+			{
+				"name": "0 Cornn Berries",
+				"img": "/images/Items/cornn0.png",
+				"inherit_codes": false,
+				"codes": "Cornn0"
+			},
+			{
+				"name": "1 Cornn Berry",
+				"img": "/images/Items/cornn1.png",
+				"inherit_codes": false,
+				"codes": "Cornn1"
+			},
+			{
+				"name": "2 Cornn Berries",
+				"img": "/images/Items/cornn2.png",
+				"inherit_codes": false,
+				"codes": "Cornn2"
+			},
+			{
+				"name": "3 Cornn Berries",
+				"img": "/images/Items/cornn3.png",
+				"inherit_codes": false,
+				"codes": "Cornn3"
+			},
+			{
+				"name": "4 Cornn Berries",
+				"img": "/images/Items/cornn4.png",
+				"inherit_codes": false,
+				"codes": "Cornn4"
+			},
+			{
+				"name": "5 Cornn Berries",
+				"img": "/images/Items/cornn5.png",
+				"inherit_codes": false,
+				"codes": "Cornn5"
+			}
+		],
+		"codes": "CornnBerries"
+	},
+	
+	{
+		"name": "Pamtre Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": true,
+		"stages": [
+			{
+				"name": "0 Pamtre Berries",
+				"img": "/images/Items/pamtre0.png",
+				"inherit_codes": false,
+				"codes": "Pamtre0"
+			},
+			{
+				"name": "1 Pamtre Berry",
+				"img": "/images/Items/pamtre1.png",
+				"inherit_codes": false,
+				"codes": "Pamtre1"
+			},
+			{
+				"name": "2 Pamtre Berries",
+				"img": "/images/Items/pamtre2.png",
+				"inherit_codes": false,
+				"codes": "Pamtre2"
+			},
+			{
+				"name": "3 Pamtre Berries",
+				"img": "/images/Items/pamtre3.png",
+				"inherit_codes": false,
+				"codes": "Pamtre3"
+			},
+			{
+				"name": "4 Pamtre Berries",
+				"img": "/images/Items/pamtre4.png",
+				"inherit_codes": false,
+				"codes": "Pamtre4"
+			},
+			{
+				"name": "5 Pamtre Berries",
+				"img": "/images/Items/pamtre5.png",
+				"inherit_codes": false,
+				"codes": "Pamtre5"
+			},
+			{
+				"name": "6 Pamtre Berries",
+				"img": "/images/Items/pamtre6.png",
+				"inherit_codes": false,
+				"codes": "Pamtre6"
+			},
+			{
+				"name": "7 Pamtre Berries",
+				"img": "/images/Items/pamtre7.png",
+				"inherit_codes": false,
+				"codes": "Pamtre7"
+			},
+			{
+				"name": "8 Pamtre Berries",
+				"img": "/images/Items/pamtre8.png",
+				"inherit_codes": false,
+				"codes": "Pamtre8"
+			},
+			{
+				"name": "9 Pamtre Berries",
+				"img": "/images/Items/pamtre9.png",
+				"inherit_codes": false,
+				"codes": "Pamtre9"
+			},
+			{
+				"name": "10 Pamtre Berries",
+				"img": "/images/Items/pamtre10.png",
+				"inherit_codes": false,
+				"codes": "Pamtre10"
+			}
+		],
+		"codes": "PamtreBerries"
+	},
+	
+	{
+		"name": "Magost Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": true,
+		"stages": [
+			{
+				"name": "0 Magost Berries",
+				"img": "/images/Items/magost0.png",
+				"inherit_codes": false,
+				"codes": "Magost0"
+			},
+			{
+				"name": "1 Magost Berry",
+				"img": "/images/Items/magost1.png",
+				"inherit_codes": false,
+				"codes": "Magost1"
+			},
+			{
+				"name": "2 Magost Berries",
+				"img": "/images/Items/magost2.png",
+				"inherit_codes": false,
+				"codes": "Magost2"
+			},
+			{
+				"name": "3 Magost Berries",
+				"img": "/images/Items/magost3.png",
+				"inherit_codes": false,
+				"codes": "Magost3"
+			},
+			{
+				"name": "4 Magost Berries",
+				"img": "/images/Items/magost4.png",
+				"inherit_codes": false,
+				"codes": "Magost4"
+			},
+			{
+				"name": "5 Magost Berries",
+				"img": "/images/Items/magost5.png",
+				"inherit_codes": false,
+				"codes": "Magost5"
+			}
+		],
+		"codes": "MagostBerries"
+	},
+	
+	{
+		"name": "Watmel Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": true,
+		"stages": [
+			{
+				"name": "0 Watmel Berries",
+				"img": "/images/Items/watmel0.png",
+				"inherit_codes": false,
+				"codes": "Watmel0"
+			},
+			{
+				"name": "1 Watmel Berry",
+				"img": "/images/Items/watmel1.png",
+				"inherit_codes": false,
+				"codes": "Watmel1"
+			},
+			{
+				"name": "2 Watmel Berries",
+				"img": "/images/Items/watmel2.png",
+				"inherit_codes": false,
+				"codes": "Watmel2"
+			},
+			{
+				"name": "3 Watmel Berries",
+				"img": "/images/Items/watmel3.png",
+				"inherit_codes": false,
+				"codes": "Watmel3"
+			},
+			{
+				"name": "4 Watmel Berries",
+				"img": "/images/Items/watmel4.png",
+				"inherit_codes": false,
+				"codes": "Watmel4"
+			},
+			{
+				"name": "5 Watmel Berries",
+				"img": "/images/Items/watmel5.png",
+				"inherit_codes": false,
+				"codes": "Watmel5"
+			},
+			{
+				"name": "6 Watmel Berries",
+				"img": "/images/Items/watmel6.png",
+				"inherit_codes": false,
+				"codes": "Watmel6"
+			},
+			{
+				"name": "7 Watmel Berries",
+				"img": "/images/Items/watmel7.png",
+				"inherit_codes": false,
+				"codes": "Watmel7"
+			},
+			{
+				"name": "8 Watmel Berries",
+				"img": "/images/Items/watmel8.png",
+				"inherit_codes": false,
+				"codes": "Watmel8"
+			},
+			{
+				"name": "9 Watmel Berries",
+				"img": "/images/Items/watmel9.png",
+				"inherit_codes": false,
+				"codes": "Watmel9"
+			},
+			{
+				"name": "10 Watmel Berries",
+				"img": "/images/Items/watmel10.png",
+				"inherit_codes": false,
+				"codes": "Watmel10"
+			}
+		],
+		"codes": "WatmelBerries"
+	},
+	
+	{
+		"name": "Rabuta Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": true,
+		"stages": [
+			{
+				"name": "0 Rabuta Berries",
+				"img": "/images/Items/rabuta0.png",
+				"inherit_codes": false,
+				"codes": "Rabuta0"
+			},
+			{
+				"name": "1 Rabuta Berry",
+				"img": "/images/Items/rabuta1.png",
+				"inherit_codes": false,
+				"codes": "Rabuta1"
+			},
+			{
+				"name": "2 Rabuta Berries",
+				"img": "/images/Items/rabuta2.png",
+				"inherit_codes": false,
+				"codes": "Rabuta2"
+			},
+			{
+				"name": "3 Rabuta Berries",
+				"img": "/images/Items/rabuta3.png",
+				"inherit_codes": false,
+				"codes": "Rabuta3"
+			},
+			{
+				"name": "4 Rabuta Berries",
+				"img": "/images/Items/rabuta4.png",
+				"inherit_codes": false,
+				"codes": "Rabuta4"
+			},
+			{
+				"name": "5 Rabuta Berries",
+				"img": "/images/Items/rabuta5.png",
+				"inherit_codes": false,
+				"codes": "Rabuta5"
+			}
+		],
+		"codes": "RabutaBerries"
+	},
+	
+	{
+		"name": "Nomel Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": true,
+		"stages": [
+			{
+				"name": "0 Nomel Berries",
+				"img": "/images/Items/nomel0.png",
+				"inherit_codes": false,
+				"codes": "Nomel0"
+			},
+			{
+				"name": "1 Nomel Berry",
+				"img": "/images/Items/nomel1.png",
+				"inherit_codes": false,
+				"codes": "Nomel1"
+			},
+			{
+				"name": "2 Nomel Berries",
+				"img": "/images/Items/nomel2.png",
+				"inherit_codes": false,
+				"codes": "Nomel2"
+			},
+			{
+				"name": "3 Nomel Berries",
+				"img": "/images/Items/nomel3.png",
+				"inherit_codes": false,
+				"codes": "Nomel3"
+			},
+			{
+				"name": "4 Nomel Berries",
+				"img": "/images/Items/nomel4.png",
+				"inherit_codes": false,
+				"codes": "Nomel4"
+			},
+			{
+				"name": "5 Nomel Berries",
+				"img": "/images/Items/nomel5.png",
+				"inherit_codes": false,
+				"codes": "Nomel5"
+			}
+		],
+		"codes": "NomelBerries"
+	},
+	
+	{
+		"name": "Durin Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": true,
+		"stages": [
+			{
+				"name": "0 Durin Berries",
+				"img": "/images/Items/durin0.png",
+				"inherit_codes": false,
+				"codes": "Durin0"
+			},
+			{
+				"name": "1 Durin Berry",
+				"img": "/images/Items/durin1.png",
+				"inherit_codes": false,
+				"codes": "Durin1"
+			},
+			{
+				"name": "2 Durin Berries",
+				"img": "/images/Items/durin2.png",
+				"inherit_codes": false,
+				"codes": "Durin2"
+			},
+			{
+				"name": "3 Durin Berries",
+				"img": "/images/Items/durin3.png",
+				"inherit_codes": false,
+				"codes": "Durin3"
+			},
+			{
+				"name": "4 Durin Berries",
+				"img": "/images/Items/durin4.png",
+				"inherit_codes": false,
+				"codes": "Durin4"
+			},
+			{
+				"name": "5 Durin Berries",
+				"img": "/images/Items/durin5.png",
+				"inherit_codes": false,
+				"codes": "Durin5"
+			},
+			{
+				"name": "6 Durin Berries",
+				"img": "/images/Items/durin6.png",
+				"inherit_codes": false,
+				"codes": "Durin6"
+			},
+			{
+				"name": "7 Durin Berries",
+				"img": "/images/Items/durin7.png",
+				"inherit_codes": false,
+				"codes": "Durin7"
+			},
+			{
+				"name": "8 Durin Berries",
+				"img": "/images/Items/durin8.png",
+				"inherit_codes": false,
+				"codes": "Durin8"
+			},
+			{
+				"name": "9 Durin Berries",
+				"img": "/images/Items/durin9.png",
+				"inherit_codes": false,
+				"codes": "Durin9"
+			},
+			{
+				"name": "10 Durin Berries",
+				"img": "/images/Items/durin10.png",
+				"inherit_codes": false,
+				"codes": "Durin10"
+			}
+		],
+		"codes": "DurinBerries"
+	},
+	
+	{
+		"name": "Spelon Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": true,
+		"stages": [
+			{
+				"name": "0 Spelon Berries",
+				"img": "/images/Items/spelon0.png",
+				"inherit_codes": false,
+				"codes": "Spelon0"
+			},
+			{
+				"name": "1 Spelon Berry",
+				"img": "/images/Items/spelon1.png",
+				"inherit_codes": false,
+				"codes": "Spelon1"
+			},
+			{
+				"name": "2 Spelon Berries",
+				"img": "/images/Items/spelon2.png",
+				"inherit_codes": false,
+				"codes": "Spelon2"
+			},
+			{
+				"name": "3 Spelon Berries",
+				"img": "/images/Items/spelon3.png",
+				"inherit_codes": false,
+				"codes": "Spelon3"
+			},
+			{
+				"name": "4 Spelon Berries",
+				"img": "/images/Items/spelon4.png",
+				"inherit_codes": false,
+				"codes": "Spelon4"
+			},
+			{
+				"name": "5 Spelon Berries",
+				"img": "/images/Items/spelon5.png",
+				"inherit_codes": false,
+				"codes": "Spelon5"
+			},
+			{
+				"name": "6 Spelon Berries",
+				"img": "/images/Items/spelon6.png",
+				"inherit_codes": false,
+				"codes": "Spelon6"
+			},
+			{
+				"name": "7 Spelon Berries",
+				"img": "/images/Items/spelon7.png",
+				"inherit_codes": false,
+				"codes": "Spelon7"
+			},
+			{
+				"name": "8 Spelon Berries",
+				"img": "/images/Items/spelon8.png",
+				"inherit_codes": false,
+				"codes": "Spelon8"
+			},
+			{
+				"name": "9 Spelon Berries",
+				"img": "/images/Items/spelon9.png",
+				"inherit_codes": false,
+				"codes": "Spelon9"
+			},
+			{
+				"name": "10 Spelon Berries",
+				"img": "/images/Items/spelon10.png",
+				"inherit_codes": false,
+				"codes": "Spelon10"
+			}
+		],
+		"codes": "SpelonBerries"
+	},
+	
+	{
+		"name": "Belue Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": true,
+		"stages": [
+			{
+				"name": "0 Belue Berries",
+				"img": "/images/Items/belue0.png",
+				"inherit_codes": false,
+				"codes": "Belue0"
+			},
+			{
+				"name": "1 Belue Berry",
+				"img": "/images/Items/belue1.png",
+				"inherit_codes": false,
+				"codes": "Belue1"
+			},
+			{
+				"name": "2 Belue Berries",
+				"img": "/images/Items/belue2.png",
+				"inherit_codes": false,
+				"codes": "Belue2"
+			},
+			{
+				"name": "3 Belue Berries",
+				"img": "/images/Items/belue3.png",
+				"inherit_codes": false,
+				"codes": "Belue3"
+			},
+			{
+				"name": "4 Belue Berries",
+				"img": "/images/Items/belue4.png",
+				"inherit_codes": false,
+				"codes": "Belue4"
+			},
+			{
+				"name": "5 Belue Berries",
+				"img": "/images/Items/belue5.png",
+				"inherit_codes": false,
+				"codes": "Belue5"
+			},
+			{
+				"name": "6 Belue Berries",
+				"img": "/images/Items/belue6.png",
+				"inherit_codes": false,
+				"codes": "Belue6"
+			},
+			{
+				"name": "7 Belue Berries",
+				"img": "/images/Items/belue7.png",
+				"inherit_codes": false,
+				"codes": "Belue7"
+			},
+			{
+				"name": "8 Belue Berries",
+				"img": "/images/Items/belue8.png",
+				"inherit_codes": false,
+				"codes": "Belue8"
+			},
+			{
+				"name": "9 Belue Berries",
+				"img": "/images/Items/belue9.png",
+				"inherit_codes": false,
+				"codes": "Belue9"
+			},
+			{
+				"name": "10 Belue Berries",
+				"img": "/images/Items/belue10.png",
+				"inherit_codes": false,
+				"codes": "Belue10"
+			}
+		],
+		"codes": "BelueBerries"
 	}
 ]
