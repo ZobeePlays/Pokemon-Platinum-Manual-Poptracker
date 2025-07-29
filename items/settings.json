@@ -347,13 +347,13 @@
 			{
 				"img": "/images/Items/pickapeck.png",
 				"img_mods": "@disabled",
-				"codes": "opt_berry_shop_on",
+				"codes": "opt_berry_shop_off",
 				"inherit_codes": false,
 				"name": "Accessory Shop Off"
 			},
 			{
 				"img": "/images/Items/pickapeck.png",
-				"codes": "opt_berry_shop_off",
+				"codes": "opt_berry_shop_on",
 				"inherit_codes": false,
 				"name": "Accessory Shop On"
 			}
