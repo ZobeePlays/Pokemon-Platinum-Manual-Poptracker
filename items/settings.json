@@ -313,5 +313,50 @@
 				"inherit_codes": false
 			}
 		]
+	},
+	{
+		"name": "Berry Trees Shuffled",
+		"type": "progressive",
+		"codes": "opt_berry_trees",
+		"loop": true,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Berry Trees Off",
+				"img": "/images/Items/NoBerryTrees.png",
+				"img_mods": "@disabled",
+				"codes": "opt_berry_trees_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Berry Trees On",
+				"img": "/images/Items/BerryTrees.png",
+				"codes": "opt_berry_trees_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Pick a Peck Accessories",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": true,
+		"codes": "opt_berry_shop",
+		"stages": [
+			{
+				"img": "/images/Items/pickapeck.png",
+				"img_mods": "@disabled",
+				"codes": "opt_berry_shop_on",
+				"inherit_codes": false,
+				"name": "Accessory Shop Off"
+			},
+			{
+				"img": "/images/Items/pickapeck.png",
+				"codes": "opt_berry_shop_off",
+				"inherit_codes": false,
+				"name": "Accessory Shop On"
+			}
+		]
 	}
 ]
