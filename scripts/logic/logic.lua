@@ -98,6 +98,14 @@ function hidden_on()
 	return has("opt_hidden_on")
 end
 
+function berries_on()
+  return has("opt_berries_on")
+end
+
+function pickapeck()
+  return has("opt_berry_shop_on")
+end
+
 function defogcross()
     if defog() or has("opt_defog_cross_on") then
         return AccessibilityLevel.Normal
