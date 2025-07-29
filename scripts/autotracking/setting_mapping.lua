@@ -156,8 +156,8 @@ SLOT_CODES =
 	type = "progressive",
     mapping =
     {
-      [0] = 0, -- Accessory Shop On
-      [1] = 1  -- Accessory Shop Off
+      [0] = 0, -- Accessory Shop Off
+      [1] = 1  -- Accessory Shop On
     }
   }
 }
