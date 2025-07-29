@@ -139,5 +139,25 @@ SLOT_CODES =
       [0] = 0, -- Don't Require Defog
       [1] = 1  -- Require Defog
     }
+  },
+  berry_tree_shuffle =
+  {
+    code = "opt_berry_trees",
+	type = "progressive",
+    mapping =
+    {
+      [0] = 0, -- Berry Trees Off
+      [1] = 1  -- Berry Trees On
+    }
+  },
+  pick_a_peck_accessories =
+  {
+    code = "opt_berry_shop",
+	type = "progressive",
+    mapping =
+    {
+      [0] = 0, -- Accessory Shop On
+      [1] = 1  -- Accessory Shop Off
+    }
   }
 }
