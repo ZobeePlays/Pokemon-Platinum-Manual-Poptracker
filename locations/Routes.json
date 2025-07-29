@@ -111,6 +111,20 @@
 				"name": "",
 				"map_locations": [{"map": "route205south", "x": 438, "y": 441}],
 				"sections": [{"ref": "Sinnoh/Route 205 South/Item South of House"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route205south", "x": 175, "y": 1061, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 205 South/South Berry Tree 1"},
+					{"ref": "Sinnoh/Route 205 South/South Berry Tree 2"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route205south", "x": 318, "y": 516, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 205 South/North Berry Tree 1"},
+					{"ref": "Sinnoh/Route 205 South/North Berry Tree 2"}]
 			}
 		]
 	},
@@ -126,6 +140,15 @@
 				"name": "",
 				"map_locations": [{"map": "route205north", "x": 294, "y": 364}],
 				"sections": [{"ref": "Sinnoh/Route 205 North/Item South of Pond"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route205north", "x": 366, "y": 89, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 205 North/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 205 North/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 205 North/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 205 North/Berry Tree 4"}]
 			}
 		]
 	},
@@ -181,6 +204,20 @@
 				"name": "waywardvace",
 				"map_locations": [{"map": "route206", "x": 174, "y": 455}],
 				"sections": [{"ref": "Sinnoh/Route 206/"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route206", "x": 81, "y": 1463, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 206/South Gate Berry Tree 1"},
+					{"ref": "Sinnoh/Route 206/South Gate Berry Tree 2"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route206", "x": 49, "y": 703, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 206/Berry Tree Under Road 1"},
+					{"ref": "Sinnoh/Route 206/Berry Tree Under Road 2"}]
 			}
 		]
 	},
@@ -1063,6 +1100,15 @@
 				"name": "",
 				"map_locations": [{"map": "route221", "x": 1130, "y": 314}],
 				"sections": [{"ref": "Sinnoh/Route 221/Hidden Item in Southeast Grass"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route221", "x": 675, "y": 299, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 221/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 221/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 221/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 221/Berry Tree 4"}]
 			}
 		]
 	},
