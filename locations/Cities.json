@@ -196,8 +196,47 @@
 			},
 			{
 				"name": "",
-				"map_locations": [{"map": "floaromatown", "x": 328, "y": 119}],
-				"sections": [{"ref": "Sinnoh/Floaroma Town/Sprayduck from Flower Shop"}]
+				"map_locations": [ {"map": "floaromatown", "x": 296, "y": 143}],
+				"sections": [{"ref": "Sinnoh/Floaroma Town/Berry Tree 1"}]
+			},
+			{
+				"name": "",
+				"map_locations": [ {"map": "floaromatown", "x": 360, "y": 143}],
+				"sections": [{"ref": "Sinnoh/Floaroma Town/Berry Tree 2"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "floaromatown", "x": 328, "y": 137}],
+				"sections": [{"ref": "Sinnoh/Floaroma Town/Sprayduck from Flower Shop"},
+					{"ref": "Sinnoh/Floaroma Town/Daily Berry from Flower Shop"}]
+			},
+			{
+				"name": "Pick a Peck of Colors",
+				"map_locations": [{"map": "floaromatown", "x": 328, "y": 70, "size": 30}],
+				"sections": [
+					{"ref": "Sinnoh/Floaroma Flower Shop/Red Flower"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Pink Flower"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/White Flower"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Blue Flower"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Orange Flower"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Yellow Flower"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Googly Specs"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Black Specs"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Gorgeous Specs"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Sweet Candy"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Confetti"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Colored Parasol"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Old Umbrella"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Spotlight"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Cape"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Standing Mike"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Surfboard"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Carpet"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Retro Pipe"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Fluffy Bed"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Mirror Ball"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Photo Board"}
+				]
 			}
 		]
 	},
@@ -326,6 +365,14 @@
 				"name": "",
 				"map_locations": [{"map": "solaceontown", "x": 826, "y": 16}],
 				"sections": [{"ref": "Sinnoh/Solaceon Town/Hidden Item in Northeast Corner"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "solaceontown", "x": 390, "y": 302, "size": 25}],
+				"sections": [{"ref": "Sinnoh/Solaceon Town/Berry Tree 1"},
+					{"ref": "Sinnoh/Solaceon Town/Berry Tree 2"},
+					{"ref": "Sinnoh/Solaceon Town/Berry Tree 3"},
+					{"ref": "Sinnoh/Solaceon Town/Berry Tree 4"}]
 			}
 		]
 	},
@@ -405,6 +452,14 @@
 				"name": "",
 				"map_locations": [{"map": "pastoriacity", "x": 119, "y": 759}],
 				"sections": [{"ref": "Sinnoh/Pastoria City/Hidden Item in Southwest Puddle"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "pastoriacity", "x": 542, "y": 397, "size": 25}],
+				"sections": [{"ref": "Sinnoh/Pastoria City/Berry Tree 1"},
+					{"ref": "Sinnoh/Pastoria City/Berry Tree 2"},
+					{"ref": "Sinnoh/Pastoria City/Berry Tree 3"},
+					{"ref": "Sinnoh/Pastoria City/Berry Tree 4"}]
 			}
 		]
 	},
@@ -542,6 +597,14 @@
 				"name": "",
 				"map_locations": [{"map": "fightarea", "x": 328, "y": 89}],
 				"sections": [{"ref": "Sinnoh/Fight Area/Super Rod from Fisherman"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "fightarea", "x": 527, "y": 166, "size": 25}],
+				"sections": [{"ref": "Sinnoh/Fight Area/Berry Tree 1"},
+					{"ref": "Sinnoh/Fight Area/Berry Tree 2"},
+					{"ref": "Sinnoh/Fight Area/Berry Tree 3"},
+					{"ref": "Sinnoh/Fight Area/Berry Tree 4"}]
 			}
 		]
 	},
@@ -582,6 +645,18 @@
 				"name": "",
 				"map_locations": [{"map": "resortarea", "x": 361, "y": 326}],
 				"sections": [{"ref": "Sinnoh/Resort Area/Hidden Item in Front of Villa"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "resortarea", "x": 272, "y": 277, "size": 20}],
+				"sections": [{"ref": "Sinnoh/Resort Area/Berry Tree 2"},
+					{"ref": "Sinnoh/Resort Area/Berry Tree 3"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "resortarea", "x": 449, "y": 277, "size": 20}],
+				"sections": [{"ref": "Sinnoh/Resort Area/Berry Tree 4"},
+					{"ref": "Sinnoh/Resort Area/Berry Tree 1"}]
 			}
 		]
 	}
