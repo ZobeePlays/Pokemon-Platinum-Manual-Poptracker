@@ -111,6 +111,20 @@
 				"name": "",
 				"map_locations": [{"map": "route205south", "x": 438, "y": 441}],
 				"sections": [{"ref": "Sinnoh/Route 205 South/Item South of House"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route205south", "x": 175, "y": 1061, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 205 South/South Berry Tree 1"},
+					{"ref": "Sinnoh/Route 205 South/South Berry Tree 2"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route205south", "x": 318, "y": 516, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 205 South/North Berry Tree 1"},
+					{"ref": "Sinnoh/Route 205 South/North Berry Tree 2"}]
 			}
 		]
 	},
@@ -126,6 +140,15 @@
 				"name": "",
 				"map_locations": [{"map": "route205north", "x": 294, "y": 364}],
 				"sections": [{"ref": "Sinnoh/Route 205 North/Item South of Pond"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route205north", "x": 366, "y": 89, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 205 North/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 205 North/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 205 North/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 205 North/Berry Tree 4"}]
 			}
 		]
 	},
@@ -181,6 +204,20 @@
 				"name": "waywardvace",
 				"map_locations": [{"map": "route206", "x": 174, "y": 455}],
 				"sections": [{"ref": "Sinnoh/Route 206/"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route206", "x": 81, "y": 1463, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 206/South Gate Berry Tree 1"},
+					{"ref": "Sinnoh/Route 206/South Gate Berry Tree 2"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route206", "x": 49, "y": 703, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 206/Berry Tree Under Road 1"},
+					{"ref": "Sinnoh/Route 206/Berry Tree Under Road 2"}]
 			}
 		]
 	},
@@ -242,6 +279,15 @@
 				"name": "",
 				"map_locations": [{"map": "route207", "x": 987, "y": 229}],
 				"sections": [{"ref": "Sinnoh/Route 207/Hidden Item That's Either South of Hikers in Wayward Cave or Next to Rock Climb Slope on Route 207"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route207", "x": 65, "y": 47, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 207/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 207/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 207/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 207/Berry Tree 4"}]
 			}
 		]
 	},
@@ -282,6 +328,15 @@
 				"name": "",
 				"map_locations": [{"map": "route208", "x": 918, "y": 204}],
 				"sections": [{"ref": "Sinnoh/Route 208/Berry Searcher App from Berry Master's Daughter"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route208", "x": 848, "y": 191, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 208/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 208/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 208/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 208/Berry Tree 4"}]
 			}
 		]
 	},
@@ -342,6 +397,20 @@
 				"name": "",
 				"map_locations": [{"map": "route209", "x": 974, "y": 285}],
 				"sections": [{"ref": "Sinnoh/Route 209/Item Behind Cut Tree"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route209", "x": 308, "y": 534, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 209/West Berry Tree 1"},
+					{"ref": "Sinnoh/Route 209/West Berry Tree 2"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route209", "x": 886, "y": 350, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 209/East Berry Tree 1"},
+					{"ref": "Sinnoh/Route 209/East Berry Tree 2"}]
 			}
 		]
 	},
@@ -367,6 +436,15 @@
 				"name": "",
 				"map_locations": [{"map": "route210south", "x": 220, "y": 62}],
 				"sections": [{"ref": "Sinnoh/Route 210 South/Old Charm from Cynthia"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route210south", "x": 387, "y": 524, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 210 South/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 210 South/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 210 South/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 210 South/Berry Tree 4"}]
 			}
 		]
 	},
@@ -447,6 +525,15 @@
 				"name": "",
 				"map_locations": [{"map": "route210north", "x": 737, "y": 305}],
 				"sections": [{"ref": "Sinnoh/Route 210 North/Item Under Bridge Next to Ninja Boy Under Grass"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route210north", "x": 221, "y": 88, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 210 North/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 210 North/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 210 North/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 210 North/Berry Tree 4"}]
 			}
 		]
 	},
@@ -487,6 +574,15 @@
 				"name": "",
 				"map_locations": [{"map": "route211east", "x": 160, "y": 34}],
 				"sections": [{"ref": "Sinnoh/Route 211 East/Item Up Rock Climb Slope"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route211east", "x": 361, "y": 207, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 211 East/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 211 East/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 211 East/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 211 East/Berry Tree 4"}]
 			}
 		]
 	},
@@ -527,6 +623,20 @@
 				"name": "",
 				"map_locations": [{"map": "route212north", "x": 226, "y": 381}],
 				"sections": [{"ref": "Sinnoh/Route 212 North/Item Between Trees Next to Pond"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route212north", "x": 24, "y": 1013, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 212 North/Berry Tree Behind Pond 1"},
+					{"ref": "Sinnoh/Route 212 North/Berry Tree Behind Pond 2"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route212north", "x": 217, "y": 769, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 212 North/Berry Tree By Fence 1"},
+					{"ref": "Sinnoh/Route 212 North/Berry Tree By Fence 2"}]
 			}
 		]
 	},
@@ -617,6 +727,15 @@
 				"name": "",
 				"map_locations": [{"map": "route212south", "x": 82, "y": 99}],
 				"sections": [{"ref": "Sinnoh/Route 212 South/Item in Top Left of Western Grass Area"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route212south", "x": 1817, "y": 271, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 212 South/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 212 South/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 212 South/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 212 South/Berry Tree 4"}]
 			}
 		]
 	},
@@ -728,6 +847,15 @@
 				"name": "",
 				"map_locations": [{"map": "route213", "x": 1383, "y": 548}],
 				"sections": [{"ref": "Sinnoh/Route 213/Item on Small Island Above Swimmers"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route213", "x": 287, "y": 182, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 213/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 213/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 213/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 213/Berry Tree 4"}]
 			}
 		]
 	},
@@ -778,6 +906,15 @@
 				"name": "",
 				"map_locations": [{"map": "route214", "x": 223, "y": 799}],
 				"sections": [{"ref": "Sinnoh/Route 214/Hidden Item in Corner of Long Grass"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route214", "x": 344, "y": 257, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 214/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 214/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 214/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 214/Berry Tree 4"}]
 			}
 		]
 	},
@@ -833,6 +970,20 @@
 				"name": "",
 				"map_locations": [{"map": "route215", "x": 951, "y": 297}],
 				"sections": [{"ref": "Sinnoh/Route 215/Item West of Ace Trainers"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route215", "x": 815, "y": 245, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 215/Berry Tree Behind Cut Tree 1"},
+					{"ref": "Sinnoh/Route 215/Berry Tree Behind Cut Tree 2"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route215", "x": 1328, "y": 269, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 215/East Berry Tree 1"},
+					{"ref": "Sinnoh/Route 215/East Berry Tree 2"}]
 			}
 		]
 	},
@@ -998,6 +1149,15 @@
 				"name": "",
 				"map_locations": [{"map": "route218", "x": 91, "y": 217}],
 				"sections": [{"ref": "Sinnoh/Route 218/Pokedex Upgrade from Dawn or Lucas' Father"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route218", "x": 392, "y": 194, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 218/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 218/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 218/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 218/Berry Tree 4"}]
 			}
 		]
 	},
@@ -1063,6 +1223,15 @@
 				"name": "",
 				"map_locations": [{"map": "route221", "x": 1130, "y": 314}],
 				"sections": [{"ref": "Sinnoh/Route 221/Hidden Item in Southeast Grass"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route221", "x": 675, "y": 299, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 221/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 221/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 221/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 221/Berry Tree 4"}]
 			}
 		]
 	},
@@ -1133,6 +1302,15 @@
 				"name": "",
 				"map_locations": [{"map": "route222", "x": 1501, "y": 343}],
 				"sections": [{"ref": "Sinnoh/Route 222/Hidden Item in Grass Below Far Right Fence"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route222", "x": 578, "y": 130, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 222/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 222/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 222/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 222/Berry Tree 4"}]
 			}
 		]
 	},
@@ -1248,6 +1426,15 @@
 				"name": "BONUS: Talk to Shaymin (Game Crash)",
 				"map_locations": [{"map": "route224", "x": 748, "y": 95}],
 				"sections": [{"ref": "Sinnoh/Route 224/"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route224", "x": 703, "y": 506, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 224/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 224/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 224/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 224/Berry Tree 4"}]
 			}
 		]
 	},
@@ -1318,6 +1505,15 @@
 				"name": "",
 				"map_locations": [{"map": "route225", "x": 326, "y": 29}],
 				"sections": [{"ref": "Sinnoh/Route 225/Item on Northern Ledge"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route225", "x": 64, "y": 269, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 225/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 225/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 225/Berry Tree 4"},
+					{"ref": "Sinnoh/Route 225/Berry Tree 2"}]
 			}
 		]
 	},
@@ -1363,6 +1559,15 @@
 				"name": "",
 				"map_locations": [{"map": "route226", "x": 1099, "y": 94}],
 				"sections": [{"ref": "Sinnoh/Route 226/Hidden Item in the Tree Gap Northeast of Meister's House"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route226", "x": 244, "y": 23, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 226/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 226/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 226/Berry Tree 4"},
+					{"ref": "Sinnoh/Route 226/Berry Tree 2"}]
 			}
 		]
 	},
@@ -1468,6 +1673,15 @@
 				"name": "",
 				"map_locations": [{"map": "route228", "x": 758, "y": 390}],
 				"sections": [{"ref": "Sinnoh/Route 228/Rock Peak Ruins - Hidden Item Near Top Right"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route228", "x": 208, "y": 900, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 228/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 228/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 228/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 228/Berry Tree 4"}]
 			}
 		]
 	},
@@ -1499,6 +1713,15 @@
 				"name": "",
 				"map_locations": [{"map": "route229", "x": 876, "y": 364}],
 				"sections": [{"ref": "Sinnoh/Route 229/Hidden Item Southwest of Pond"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route229", "x": 707, "y": 234, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 229/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 229/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 229/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 229/Berry Tree 4"}]
 			}
 		]
 	},
@@ -1524,6 +1747,15 @@
 				"name": "",
 				"map_locations": [{"map": "route230", "x": 889, "y": 130}],
 				"sections": [{"ref": "Sinnoh/Route 230/Item on Far Right of Island"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route230", "x": 224, "y": 51, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 230/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 230/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 230/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 230/Berry Tree 4"}]
 			}
 		]
 	},
@@ -1664,6 +1896,15 @@
 				"name": "",
 				"map_locations": [{"map": "fuegoironworks(outside)", "x": 281, "y": 92}],
 				"sections": [{"ref": "Sinnoh/Fuego Ironworks (Outside)/Hidden Item Next to Building"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "fuegoironworks(outside)", "x": 158, "y": 288, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Fuego Ironworks (Outside)/Berry Tree 1"},
+					{"ref": "Sinnoh/Fuego Ironworks (Outside)/Berry Tree 2"},
+					{"ref": "Sinnoh/Fuego Ironworks (Outside)/Berry Tree 3"},
+					{"ref": "Sinnoh/Fuego Ironworks (Outside)/Berry Tree 4"}]
 			}
 		]
 	},
@@ -1684,6 +1925,15 @@
 				"name": "",
 				"map_locations": [{"map": "eternaforestsideroute", "x": 505, "y": 502}],
 				"sections": [{"ref": "Sinnoh/Eterna Forest Side Route/Bottom Area Right"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "eternaforestsideroute", "x": 322, "y": 327, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Eterna Forest Side Route/Berry Tree 1"},
+					{"ref": "Sinnoh/Eterna Forest Side Route/Berry Tree 2"},
+					{"ref": "Sinnoh/Eterna Forest Side Route/Berry Tree 3"},
+					{"ref": "Sinnoh/Eterna Forest Side Route/Berry Tree 4"}]
 			}
 		]
 	},

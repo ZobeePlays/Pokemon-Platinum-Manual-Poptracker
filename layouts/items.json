@@ -162,6 +162,56 @@
 			}
 		]
 	},
+	"berry_grid": {
+		"type": "array",
+		"orientation": "horizontal",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "itemgrid",
+				"item_margin": "2,2",
+				"h_alignment": "left",
+				"item_h_alignment": "center",
+				"item_v_alignment": "center",
+				"item_height": 36,
+				"item_width": 36,
+				"rows": [
+					[
+						"CheriBerry",
+						"ChestoBerry",
+						"PechaBerry",
+						"OranBerry",
+						"RawstBerry",
+						"AspearBerry"
+					],
+					[
+						"LeppaBerry",
+						"PersimBerry",
+						"RazzBerry",
+						"BlukBerry",
+						"NanabBerry",
+						"WepearBerry"
+					],
+					[
+						"PinapBerry",
+						"CornnBerries",
+						"PamtreBerries",
+						"MagostBerries",
+						"WatmelBerries",
+						"RabutaBerries"
+					],
+					[
+						"",
+						"NomelBerries",
+						"DurinBerries",
+						"SpelonBerries",
+						"BelueBerries",
+						""
+					]
+				]
+			}
+		]
+	},
 	"events_grid": {
 		"type": "array",
 		"orientation": "vertical",
@@ -235,9 +285,17 @@
 						"opt_skey",
 						"opt_marsh",
 						"event_toggle"
+					],
+					[
+						"",
+						"opt_berry_trees",
+						"",
+						"opt_berry_shop",
+						""
 					]
 				]
 			}
 		]
 	}
 }
+

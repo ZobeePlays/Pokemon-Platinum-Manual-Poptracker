@@ -40,6 +40,15 @@
 						},
 						{
 							"type": "group",
+							"header": "Berries",
+							"dock": "top",
+							"content": {
+								"type": "layout",
+								"key": "berry_grid"
+							}
+						},
+						{
+							"type": "group",
 							"header": "Events",
 							"dock": "top",
 							"content": {
@@ -124,6 +133,15 @@
 						},
 						{
 							"type": "group",
+							"header": "Berries",
+							"dock": "left",
+							"content": {
+								"type": "layout",
+								"key": "berry_grid"
+							}
+						},
+						{
+							"type": "group",
 							"header": "Events",
 							"dock": "left",
 							"margin": "0,0,3,0",
@@ -147,3 +165,4 @@
 		}
 	}
 }
+
