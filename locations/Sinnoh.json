@@ -5121,7 +5121,7 @@
                 "sections": [
                     {
                         "name": "Gift from Woman in Poke Mart",
-                        "visibility_rules": ["^$battlezoneon"],
+                        "visibility_rules": [""],
                         "access_rules": ["S.S.Ticket"],
                         "item_count": 1
                     },
@@ -7059,4 +7059,5 @@
         ]
     }
 ]
+
 
