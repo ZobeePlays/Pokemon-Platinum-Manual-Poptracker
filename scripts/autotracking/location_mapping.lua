@@ -750,7 +750,7 @@ LOCATION_MAPPING =
 [748] = {"@Sinnoh/Route 210 South/Berry Tree 1"},
 [749] = {"@Sinnoh/Route 210 South/Berry Tree 2"},
 [750] = {"@Sinnoh/Route 210 South/Berry Tree 3"},
-[751] = {"@Sinnoh/Route 210 South/Berry Tree 4"}
+[751] = {"@Sinnoh/Route 210 South/Berry Tree 4"},
 [752] = {"@Sinnoh/Route 215/Berry Tree Behind Cut Tree 1"},
 [753] = {"@Sinnoh/Route 215/Berry Tree Behind Cut Tree 2"},
 [754] = {"@Sinnoh/Route 215/East Berry Tree 1"},
@@ -843,3 +843,4 @@ LOCATION_MAPPING =
 [841] = {"@Sinnoh/Floaroma Flower Shop/Photo Board"},
 [842] = {"@Sinnoh/Floaroma Town/Daily Berry from Flower Shop"}
 }
+
