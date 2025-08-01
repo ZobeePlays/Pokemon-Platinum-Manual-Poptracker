@@ -877,7 +877,7 @@
 			},
 			{
 				"name": "Floaroma Flower Shop",
-				"map_locations": [{"map": "Sinnoh", "x": 180, "y": 418, "size": 20}],
+				"map_locations": [{"map": "Sinnoh", "x": 140, "y": 418, "size": 17}],
 				"access_rules": ["^$floaroma"],
 				"sections": [
 					{
@@ -5272,7 +5272,7 @@
 						"name": "Berry Tree 1",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["$cut"],
 						"item_count": 1
 					},
@@ -5280,7 +5280,7 @@
 						"name": "Berry Tree 3",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["$cut"],
 						"item_count": 1
 					},
@@ -5288,7 +5288,7 @@
 						"name": "Berry Tree 4",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["$cut"],
 						"item_count": 1
 					},
@@ -5296,7 +5296,7 @@
 						"name": "Berry Tree 2",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["$cut"],
 						"item_count": 1
 					}
@@ -5426,7 +5426,7 @@
 						"name": "Berry Tree 1",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["$rockclimb"],
 						"item_count": 1
 					},
@@ -5434,7 +5434,7 @@
 						"name": "Berry Tree 3",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["$rockclimb"],
 						"item_count": 1
 					},
@@ -5442,7 +5442,7 @@
 						"name": "Berry Tree 4",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["$rockclimb"],
 						"item_count": 1
 					},
@@ -5450,7 +5450,7 @@
 						"name": "Berry Tree 2",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["$rockclimb"],
 						"item_count": 1
 					}
@@ -5505,28 +5505,28 @@
 						"name": "Berry Tree 1",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
 						"item_count": 1
 					},
 					{
 						"name": "Berry Tree 2",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
 						"item_count": 1
 					},
 					{
 						"name": "Berry Tree 3",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
 						"item_count": 1
 					},
 					{
 						"name": "Berry Tree 4",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
 						"item_count": 1
 					}
                 ],
@@ -5590,7 +5590,7 @@
 						"name": "Berry Tree 1",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["$surf"],
 						"item_count": 1
 					},
@@ -5598,7 +5598,7 @@
 						"name": "Berry Tree 2",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["$surf"],
 						"item_count": 1
 					},
@@ -5606,7 +5606,7 @@
 						"name": "Berry Tree 3",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["$surf"],
 						"item_count": 1
 					},
@@ -5614,7 +5614,7 @@
 						"name": "Berry Tree 4",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["$surf"],
 						"item_count": 1
 					}
@@ -5655,28 +5655,28 @@
 						"name": "Berry Tree 2",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
 						"item_count": 1
 					},
 					{
 						"name": "Berry Tree 3",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
 						"item_count": 1
 					},
 					{
 						"name": "Berry Tree 4",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
 						"item_count": 1
 					},
 					{
 						"name": "Berry Tree 1",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
 						"item_count": 1
 					}
                 ],
@@ -5794,7 +5794,7 @@
 						"name": "Berry Tree 1",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["Bicycle"],
 						"item_count": 1
 					},
@@ -5802,7 +5802,7 @@
 						"name": "Berry Tree 2",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["Bicycle"],
 						"item_count": 1
 					},
@@ -5810,7 +5810,7 @@
 						"name": "Berry Tree 3",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["Bicycle"],
 						"item_count": 1
 					},
@@ -5818,7 +5818,7 @@
 						"name": "Berry Tree 4",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
 						"chest_opened_img": "/images/items/BerrySproutGray.png",
-						"visibility_rules": ["$berries_on"],
+						"visibility_rules": ["^$battlezoneon,$berries_on"],
                         "access_rules": ["Bicycle"],
 						"item_count": 1
 					}
@@ -7059,5 +7059,6 @@
         ]
     }
 ]
+
 
 
