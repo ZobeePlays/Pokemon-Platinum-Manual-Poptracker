@@ -285,9 +285,17 @@
 						"opt_skey",
 						"opt_marsh",
 						"event_toggle"
+					],
+					[
+						"",
+						"opt_berry_trees",
+						"",
+						"opt_berry_shop",
+						""
 					]
 				]
 			}
 		]
 	}
 }
+
