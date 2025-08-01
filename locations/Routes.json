@@ -1179,6 +1179,15 @@
 				"name": "",
 				"map_locations": [{"map": "route222", "x": 1501, "y": 343}],
 				"sections": [{"ref": "Sinnoh/Route 222/Hidden Item in Grass Below Far Right Fence"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route222", "x": 578, "y": 130, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 222/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 222/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 222/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 222/Berry Tree 4"}]
 			}
 		]
 	},
@@ -1294,6 +1303,15 @@
 				"name": "BONUS: Talk to Shaymin (Game Crash)",
 				"map_locations": [{"map": "route224", "x": 748, "y": 95}],
 				"sections": [{"ref": "Sinnoh/Route 224/"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route224", "x": 703, "y": 506, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 224/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 224/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 224/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 224/Berry Tree 4"}]
 			}
 		]
 	},
@@ -1364,6 +1382,15 @@
 				"name": "",
 				"map_locations": [{"map": "route225", "x": 326, "y": 29}],
 				"sections": [{"ref": "Sinnoh/Route 225/Item on Northern Ledge"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route225", "x": 64, "y": 269, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 225/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 225/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 225/Berry Tree 4"},
+					{"ref": "Sinnoh/Route 225/Berry Tree 2"}]
 			}
 		]
 	},
@@ -1409,6 +1436,15 @@
 				"name": "",
 				"map_locations": [{"map": "route226", "x": 1099, "y": 94}],
 				"sections": [{"ref": "Sinnoh/Route 226/Hidden Item in the Tree Gap Northeast of Meister's House"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route226", "x": 244, "y": 23, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 226/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 226/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 226/Berry Tree 4"},
+					{"ref": "Sinnoh/Route 226/Berry Tree 2"}]
 			}
 		]
 	},
@@ -1514,6 +1550,15 @@
 				"name": "",
 				"map_locations": [{"map": "route228", "x": 758, "y": 390}],
 				"sections": [{"ref": "Sinnoh/Route 228/Rock Peak Ruins - Hidden Item Near Top Right"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route228", "x": 208, "y": 900, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 228/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 228/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 228/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 228/Berry Tree 4"}]
 			}
 		]
 	},
@@ -1545,6 +1590,15 @@
 				"name": "",
 				"map_locations": [{"map": "route229", "x": 876, "y": 364}],
 				"sections": [{"ref": "Sinnoh/Route 229/Hidden Item Southwest of Pond"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route229", "x": 707, "y": 234, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 229/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 229/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 229/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 229/Berry Tree 4"}]
 			}
 		]
 	},
@@ -1570,6 +1624,15 @@
 				"name": "",
 				"map_locations": [{"map": "route230", "x": 889, "y": 130}],
 				"sections": [{"ref": "Sinnoh/Route 230/Item on Far Right of Island"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "route230", "x": 224, "y": 51, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Route 230/Berry Tree 1"},
+					{"ref": "Sinnoh/Route 230/Berry Tree 2"},
+					{"ref": "Sinnoh/Route 230/Berry Tree 3"},
+					{"ref": "Sinnoh/Route 230/Berry Tree 4"}]
 			}
 		]
 	},
@@ -1710,6 +1773,15 @@
 				"name": "",
 				"map_locations": [{"map": "fuegoironworks(outside)", "x": 281, "y": 92}],
 				"sections": [{"ref": "Sinnoh/Fuego Ironworks (Outside)/Hidden Item Next to Building"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "fuegoironworks(outside)", "x": 158, "y": 288, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Fuego Ironworks (Outside)/Berry Tree 1"},
+					{"ref": "Sinnoh/Fuego Ironworks (Outside)/Berry Tree 2"},
+					{"ref": "Sinnoh/Fuego Ironworks (Outside)/Berry Tree 3"},
+					{"ref": "Sinnoh/Fuego Ironworks (Outside)/Berry Tree 4"}]
 			}
 		]
 	},
@@ -1730,6 +1802,15 @@
 				"name": "",
 				"map_locations": [{"map": "eternaforestsideroute", "x": 505, "y": 502}],
 				"sections": [{"ref": "Sinnoh/Eterna Forest Side Route/Bottom Area Right"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "eternaforestsideroute", "x": 322, "y": 327, "size": 25}],
+				"sections": [
+					{"ref": "Sinnoh/Eterna Forest Side Route/Berry Tree 1"},
+					{"ref": "Sinnoh/Eterna Forest Side Route/Berry Tree 2"},
+					{"ref": "Sinnoh/Eterna Forest Side Route/Berry Tree 3"},
+					{"ref": "Sinnoh/Eterna Forest Side Route/Berry Tree 4"}]
 			}
 		]
 	},
