@@ -1,0 +1,10 @@
+{
+	"versions": [
+		{
+			"package_version": "1.0.0",
+			"download_url": "https://github.com/ZobeePlays/Pokemon-Platinum-Manual-Poptracker/releases/download/1.0.0/Pokemon-Platinum-Manual-Poptracker-main.zip",
+			"sha256": "1f5d75b277f1e5c2b87f7b1079dd90ec35c697467b6e4c76d7fdcf57e0db9c63",
+			"changelog": ["Initial Release"]
+		}
+	]
+}
