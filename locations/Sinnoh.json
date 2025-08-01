@@ -877,7 +877,7 @@
 			},
 			{
 				"name": "Floaroma Flower Shop",
-				"map_locations": [{"map": "Sinnoh", "x": 137, "y": 418, "size": 16}],
+				"map_locations": [{"map": "Sinnoh", "x": 142, "y": 418, "size": 16}],
 				"access_rules": ["^$floaroma"],
 				"sections": [
 					{
@@ -7059,6 +7059,7 @@
         ]
     }
 ]
+
 
 
 
