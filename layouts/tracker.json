@@ -134,7 +134,7 @@
 						{
 							"type": "group",
 							"header": "Berries",
-							"dock": "top",
+							"dock": "left",
 							"content": {
 								"type": "layout",
 								"key": "berry_grid"
@@ -165,3 +165,4 @@
 		}
 	}
 }
+
