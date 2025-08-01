@@ -883,133 +883,133 @@
 					{
 						"name": "Red Flower",
 						"access_rules": ["CheriBerry"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Pink Flower",
 						"access_rules": ["ChestoBerry"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "White Flower",
 						"access_rules": ["PechaBerry"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Blue Flower",
 						"access_rules": ["OranBerry"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Orange Flower",
 						"access_rules": ["RawstBerry"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Yellow Flower",
 						"access_rules": ["AspearBerry"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Googly Specs",
 						"access_rules": ["LeppaBerry"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Black Specs",
 						"access_rules": ["PersimBerry"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Gorgeous Specs",
 						"access_rules": ["RazzBerry"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Sweet Candy",
 						"access_rules": ["BlukBerry"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Confetti",
 						"access_rules": ["NanabBerry"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Colored Parasol",
 						"access_rules": ["WepearBerry"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Old Umbrella",
 						"access_rules": ["PinapBerry"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Spotlight",
 						"access_rules": ["Cornn5"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Cape",
 						"access_rules": ["Pamtre10"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Standing Mike",
 						"access_rules": ["Magost5"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Surfboard",
 						"access_rules": ["Watmel10"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Carpet",
 						"access_rules": ["Rabuta5"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Retro Pipe",
 						"access_rules": ["Nomel5"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Fluffy Bed",
 						"access_rules": ["Durin10"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Mirror Ball",
 						"access_rules": ["Spelon10"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					},
 					{
 						"name": "Photo Board",
 						"access_rules": ["Belue10"],
-						"visibility_rules": ["$berry_shop_on"],
+						"visibility_rules": ["$pickapeck"],
 						"item_count": 1
 					}
 				]
@@ -7059,3 +7059,4 @@
         ]
     }
 ]
+
