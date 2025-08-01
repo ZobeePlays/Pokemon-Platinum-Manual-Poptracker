@@ -99,7 +99,7 @@ function hidden_on()
 end
 
 function berries_on()
-  return has("opt_berries_on")
+  return has("opt_berry_trees_on")
 end
 
 function pickapeck()
@@ -274,3 +274,4 @@ function vrbonus()
 		and vroadback()
 	end
 end
+
