@@ -802,7 +802,7 @@
 		"name": "Cornn Berry",
 		"type": "progressive",
 		"loop": false,
-		"allow_disabled": true,
+		"allow_disabled": false,
 		"stages": [
 			{
 				"name": "0 Cornn Berries",
@@ -848,7 +848,7 @@
 		"name": "Pamtre Berry",
 		"type": "progressive",
 		"loop": false,
-		"allow_disabled": true,
+		"allow_disabled": false,
 		"stages": [
 			{
 				"name": "0 Pamtre Berries",
@@ -924,7 +924,7 @@
 		"name": "Magost Berry",
 		"type": "progressive",
 		"loop": false,
-		"allow_disabled": true,
+		"allow_disabled": false,
 		"stages": [
 			{
 				"name": "0 Magost Berries",
@@ -970,7 +970,7 @@
 		"name": "Watmel Berry",
 		"type": "progressive",
 		"loop": false,
-		"allow_disabled": true,
+		"allow_disabled": false,
 		"stages": [
 			{
 				"name": "0 Watmel Berries",
@@ -1046,7 +1046,7 @@
 		"name": "Rabuta Berry",
 		"type": "progressive",
 		"loop": false,
-		"allow_disabled": true,
+		"allow_disabled": false,
 		"stages": [
 			{
 				"name": "0 Rabuta Berries",
@@ -1092,7 +1092,7 @@
 		"name": "Nomel Berry",
 		"type": "progressive",
 		"loop": false,
-		"allow_disabled": true,
+		"allow_disabled": false,
 		"stages": [
 			{
 				"name": "0 Nomel Berries",
@@ -1138,7 +1138,7 @@
 		"name": "Durin Berry",
 		"type": "progressive",
 		"loop": false,
-		"allow_disabled": true,
+		"allow_disabled": false,
 		"stages": [
 			{
 				"name": "0 Durin Berries",
@@ -1214,7 +1214,7 @@
 		"name": "Spelon Berry",
 		"type": "progressive",
 		"loop": false,
-		"allow_disabled": true,
+		"allow_disabled": false,
 		"stages": [
 			{
 				"name": "0 Spelon Berries",
@@ -1290,7 +1290,7 @@
 		"name": "Belue Berry",
 		"type": "progressive",
 		"loop": false,
-		"allow_disabled": true,
+		"allow_disabled": false,
 		"stages": [
 			{
 				"name": "0 Belue Berries",
@@ -1362,3 +1362,4 @@
 		"codes": "BelueBerries"
 	}
 ]
+
