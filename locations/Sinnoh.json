@@ -2341,7 +2341,7 @@
                         "chest_unopened_img": "/images/items/Hidden.png",
                         "chest_opened_img": "/images/items/open.png",
                         "visibility_rules": ["$hidden_on"],
-                        "access_rules": [""],
+                        "access_rules": ["[$hidden]"],
                         "item_count": 1
                     },
                     {
@@ -7059,6 +7059,7 @@
         ]
     }
 ]
+
 
 
 
