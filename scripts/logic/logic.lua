@@ -90,16 +90,52 @@ function flash()
 	return has("TM70-Flash") or (east() and has("opt_flash_on"))
 end
 
+function marsh()
+	return has("MarshPass") or has("opt_marsh_off")
+end
+
 function hidden_on()
 	return has("opt_hidden_on")
 end
 
+function berries_on()
+  return has("opt_berry_trees_on")
+end
+
+function pickapeck()
+  return has("opt_berry_shop_on")
+end
+
 function defogcross()
-	return defog() or has("opt_defog_cross_on")
+    if defog() or has("opt_defog_cross_on") then
+        return AccessibilityLevel.Normal
+    else
+        return AccessibilityLevel.SequenceBreak
+    end
 end
 
 function defogitems()
-	return defog() or (has("opt_defog_cross_on") and has("opt_defog_items_on"))
+    if defog() or (has("opt_defog_cross_on") and has("opt_defog_items_on")) then
+        return AccessibilityLevel.Normal
+    else
+        return AccessibilityLevel.SequenceBreak
+    end
+end
+
+function early_fly()
+    if fly() or has("opt_fly_early_off") then
+        return AccessibilityLevel.Normal
+    else
+        return AccessibilityLevel.SequenceBreak
+    end
+end
+
+function north_fly()
+    if (fly() or has("opt_fly_north_off")) and (defog() or has("opt_defog_cross_on")) then
+        return AccessibilityLevel.Normal
+    else
+        return AccessibilityLevel.SequenceBreak
+    end
 end
 
 function battlezoneon()
@@ -113,21 +149,19 @@ function champ()
  end
 
 function vict_arceus()
-	return has("azureflute") and plates(16)
+	return has("azureflute") and plates(16) and has("ProgDex3")
 end
 
 -- Beeg Access
 function floaroma()
-	return rocksmash() or has("Bicycle")
+	return rocksmash() or eterna()
 end
 
 function canalave()
 	return surf()
-	and (
-		fly()
-		or has("opt_fly_early_off")
-	)
+	and early_fly()
 end
+
 function eterna()
 	return (
 		has("Bicycle")
@@ -136,100 +170,109 @@ function eterna()
 			and r205river()
 		)
 	)
-	and (
-		fly()
-		or has("opt_fly_early_off")
-	)
+	and early_fly()
 end
 
 function central()
-	return (
-		has("Bicycle")
-		or (
-			rocksmash()
+	if (rocksmash()
 			and r205river()
 			and strength()
-			and defogcross()
-			and has("SecretPotion")
-		)
-	)
-	and (
-		fly()
-		or has("opt_fly_early_off")
-	)
+			and has("SecretPotion"))then
+		if defogcross() == AccessibilityLevel.SequenceBreak or early_fly() == AccessibilityLevel.SequenceBreak then
+			return AccessibilityLevel.SequenceBreak
+		else
+			return 
+				rocksmash()
+				and r205river()
+				and strength()
+				and has("SecretPotion")
+		end
+	else
+		return (has("Bicycle") and early_fly())
+	end
 end
 
 function uppercoronet()
-	return central()
-	and surf()
+	return surf()
 	and rockclimb()
 	and strength()
 	and has("event_guardians")
+	and central()
 end
 
 function celestic()
-	return (
-		eterna()
-		and (
+	return ((
 			strength()
 			and rocksmash()
-		)
-	or (
-		has("Bicycle")
-		and has("SecretPotion")
-		and defogcross()
-	)
+		) and eterna()
+	or celesticviacentral()
 	or uppercoronet())
 end
 
+function celesticviacentral()
+	if has("SecretPotion") then
+		if central() == AccessibilityLevel.SequenceBreak then
+			return AccessibilityLevel.SequenceBreak
+		else
+			return central() and defogcross()
+		end
+	else
+		return has("SecretPotion")
+	end
+end
+
 function north()
-	return celestic()
-	and strength()
-	and (
-		fly()
-		or has("opt_fly_north_off")
-	)
-	and defogcross()
+	if strength() then
+		if celestic() == AccessibilityLevel.SequenceBreak then
+			return AccessibilityLevel.SequenceBreak
+		else
+			return celestic() and north_fly()
+		end
+	else
+		return strength()
+	end
 end
 
 function battlezone()
-	return north()
-	and has("S.S.Ticket")
+	return has("S.S.Ticket")
 	and has("ProgDex3")
+	and north()
 end
 
 function pastoria()
-	return central()
-	and (
+	return (
 		surf()
 		or has("opt_extra_blocks_off")
-	)
+	) and central()
 end
 
 function sunnyshore()
-	return pastoria()
-	and (
+	return (
 		has("event_distortion")
 		or has("opt_open_sshore_on")
-	)
+	) and pastoria()
 end
 
 function vroad()
-	return sunnyshore()
-	and surf()
+	return surf()
 	and waterfall()
+	and sunnyshore()
 end
 
 function vroadback()
-	return vroad()
-	and rocksmash()
+	return rocksmash()
 	and rockclimb()
 	and strength()
+	and vroad()
 end
 
 function vrbonus()
-	return vroadback()
-	and defogcross()
+	if (defogcross() == AccessibilityLevel.SequenceBreak and vroadback()) or vroadback() == AccessibilityLevel.SequenceBreak then
+		return AccessibilityLevel.SequenceBreak
+	else
+		return defogcross()
+		and vroadback()
+	end
 end
 
 function blue()

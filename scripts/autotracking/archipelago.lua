@@ -26,7 +26,8 @@ function onClear(slot_data)
 	-- reset settings
 	local reset_codes = {
 		"opt_victory", "opt_bz", "opt_hidden", "opt_dowsing", "opt_217", 
-		"opt_flash", "opt_fly", "opt_defog_cross", "opt_defog_items"
+		"opt_flash", "opt_fly", "opt_defog_cross", "opt_defog_items",
+		"opt_berry_trees", "opt_berry_shop"
 	}
 	
 	for _, code in ipairs(reset_codes) do

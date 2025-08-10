@@ -382,7 +382,7 @@ ITEM_MAPPING = { -- apID = tracker item code
 [363] = {"Lustrous Orb"},
 [364] = {"Griseous Orb"},
 [365] = {"Lum Berry"},
-[366] = {"Leppa Berry"},
+[366] = {"LeppaBerry", "toggle"},
 [367] = {"Ether"},
 [368] = {"Max Ether"},
 [369] = {"Elixir"},
@@ -416,6 +416,28 @@ ITEM_MAPPING = { -- apID = tracker item code
 [395] = {"Oaksletter", "toggle"},
 -- Optional Key Items
 [396] = {"StorageKey", "toggle"},
--- filler items
-[397] = {"Focus Sash"}
+[397] = {"MarshPass", "toggle"},
+-- Berries (except Leppa, which remains at [366])
+[398] = {"CheriBerry", "toggle"},
+[399] = {"ChestoBerry", "toggle"},
+[400] = {"PechaBerry", "toggle"},
+[401] = {"OranBerry", "toggle"},
+[402] = {"RawstBerry", "toggle"},
+[403] = {"AspearBerry", "toggle"},
+[404] = {"RazzBerry", "toggle"},
+[405] = {"BlukBerry", "toggle"},
+[406] = {"NanabBerry", "toggle"},
+[407] = {"WepearBerry", "toggle"},
+[408] = {"PinapBerry", "toggle"},
+[409] = {"CornnBerries", "progressive"},
+[410] = {"PamtreBerries", "progressive"},
+[411] = {"MagostBerries", "progressive"},
+[412] = {"WatmelBerries", "progressive"},
+[413] = {"RabutaBerries", "progressive"},
+[414] = {"NomelBerries", "progressive"},
+[415] = {"DurinBerries", "progressive"},
+[416] = {"SpelonBerries", "progressive"},
+[417] = {"BelueBerries", "progressive"},
+[418] = {"PersimBerry", "toggle"}
 }
+

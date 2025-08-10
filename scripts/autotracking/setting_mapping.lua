@@ -60,6 +60,16 @@ SLOT_CODES =
       [1] = 1  -- Logic Buyable Flash
     }
   },
+  marsh_pass =
+  {
+    code = "opt_marsh",
+	type = "progressive",
+    mapping =
+    {
+      [0] = 0, -- Don't Add Marsh Pass to Pool
+      [1] = 1  -- Add Marsh Pass to Pool
+    }
+  },
   storage_key =
   {
     code = "opt_skey",
@@ -128,6 +138,26 @@ SLOT_CODES =
     {
       [0] = 0, -- Don't Require Defog
       [1] = 1  -- Require Defog
+    }
+  },
+  berry_tree_shuffle =
+  {
+    code = "opt_berry_trees",
+	type = "progressive",
+    mapping =
+    {
+      [0] = 0, -- Berry Trees Off
+      [1] = 1  -- Berry Trees On
+    }
+  },
+  pick_a_peck_accessories =
+  {
+    code = "opt_berry_shop",
+	type = "progressive",
+    mapping =
+    {
+      [0] = 0, -- Accessory Shop Off
+      [1] = 1  -- Accessory Shop On
     }
   }
 }

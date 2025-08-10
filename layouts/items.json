@@ -35,33 +35,33 @@
 					],
 					[
 						"TM70-Flash",
-						"Bicycle",
-						"SecretPotion",
-						"S.S.Ticket",
 						"Parcel",
-						"OldCharm",
-						"SecretKey",
-						"azureflute"
-					],
-					[
 						"Coupon1",
 						"Coupon2",
 						"Coupon3",
-						"GalacticKey",
-						"WorksKey",
-						"SuiteKey",
-						"StorageKey",
-						"oaksletter"
+						"Poketch",
+						"Bicycle",
+						"ProgressivePokedex"
 					],
 					[
-						"Poketch",
-						"DowsingMachineApp",
-						"ProgressivePokedex",
+						"WorksKey",
+						"SuiteKey",
+						"SecretPotion",
+						"OldCharm",
+						"GalacticKey",
+						"S.S.Ticket",
+						"StorageKey",
+						"MarshPass"
+					],
+					[
 						"Pachirisu",
 						"Snorlax",
-						"KEcleon",
+						"Kecleon",
 						"SuperRod",
-						"membercard"
+						"SecretKey",
+						"membercard",
+						"oaksletter",
+						"azureflute"
 					]
 				]
 			}
@@ -82,31 +82,34 @@
 				"item_width": 36,
 				"rows": [
 					[
+						"DowsingMachineApp",
 						"DigitalWatchApp",
 						"CalculatorApp",
 						"MemoPadApp",
-						"PedometerApp",
-						"PokemonListApp",
-						"FriendshipCheckerApp"
+						"PedometerApp"
 					],
 					[
+						"PokemonListApp",
+						"FriendshipCheckerApp",
 						"StopwatchApp",
 						"BerrySearcherApp",
-						"Day-CareCheckerApp",
-						"PokemonHistoryApp",
-						"CounterApp",
-						"AnalogWatchApp"
+						"Day-CareCheckerApp"
 					],
 					[
+						"PokemonHistoryApp",
+						"CounterApp",
+						"AnalogWatchApp",
 						"MarkingMapApp",
 						"LinkSearcherApp",
+					],
+					[
 						"CoinTossApp",
 						"MoveTesterApp",
 						"CalendarApp",
-						"DotArtistApp"
+						"DotArtistApp",
+						"RouletteApp"
 					],
 					[
-						"RouletteApp",
 						"ChainCounterApp",
 						"KitchenTimerApp",
 						"ColorChangerApp",
@@ -154,6 +157,56 @@
 						"IciclePlate",
 						"DracoPlate",
 						"DreadPlate"
+					]
+				]
+			}
+		]
+	},
+	"berry_grid": {
+		"type": "array",
+		"orientation": "horizontal",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "itemgrid",
+				"item_margin": "2,2",
+				"h_alignment": "left",
+				"item_h_alignment": "center",
+				"item_v_alignment": "center",
+				"item_height": 36,
+				"item_width": 36,
+				"rows": [
+					[
+						"CheriBerry",
+						"ChestoBerry",
+						"PechaBerry",
+						"OranBerry",
+						"RawstBerry",
+						"AspearBerry"
+					],
+					[
+						"LeppaBerry",
+						"PersimBerry",
+						"RazzBerry",
+						"BlukBerry",
+						"NanabBerry",
+						"WepearBerry"
+					],
+					[
+						"PinapBerry",
+						"CornnBerries",
+						"PamtreBerries",
+						"MagostBerries",
+						"WatmelBerries",
+						"RabutaBerries"
+					],
+					[
+						"",
+						"NomelBerries",
+						"DurinBerries",
+						"SpelonBerries",
+						"BelueBerries",
+						""
 					]
 				]
 			}
@@ -230,11 +283,19 @@
 						"opt_open_sshore",
 						"opt_extra_blocks",
 						"opt_skey",
-						"funny",
+						"opt_marsh",
 						"event_toggle"
+					],
+					[
+						"",
+						"opt_berry_trees",
+						"",
+						"opt_berry_shop",
+						""
 					]
 				]
 			}
 		]
 	}
 }
+

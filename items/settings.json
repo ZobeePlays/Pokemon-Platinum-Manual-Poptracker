@@ -269,6 +269,29 @@
 		]
 	},
 	{
+		"name": "Marsh Pass in Pool",
+		"type": "progressive",
+		"loop": false,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"codes": "opt_marsh",
+		"stages": [
+			{
+				"name": "Marsh Pass is not in the Item Pool",
+				"img": "/images/Items/PayForMarsh.png",
+				"img_mods": "@disabled",
+				"codes": "opt_marsh_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Marsh Pass is in the Item Pool",
+				"img": "/images/Items/MarshPass.png",
+				"codes": "opt_marsh_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
 		"name": "Early Fly Logic",
 		"type": "progressive",
 		"codes": "opt_fly_early",
@@ -288,6 +311,51 @@
 				"img": "/images/Items/EarlyFly.png",
 				"codes": "opt_fly_early_on",
 				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Berry Trees Shuffled",
+		"type": "progressive",
+		"codes": "opt_berry_trees",
+		"loop": true,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Berry Trees Off",
+				"img": "/images/Items/NoBerryTrees.png",
+				"img_mods": "@disabled",
+				"codes": "opt_berry_trees_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Berry Trees On",
+				"img": "/images/Items/BerryTrees.png",
+				"codes": "opt_berry_trees_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Pick a Peck Accessories",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": true,
+		"codes": "opt_berry_shop",
+		"stages": [
+			{
+				"img": "/images/Items/pickapeck.png",
+				"img_mods": "@disabled",
+				"codes": "opt_berry_shop_off",
+				"inherit_codes": false,
+				"name": "Accessory Shop Off"
+			},
+			{
+				"img": "/images/Items/pickapeck.png",
+				"codes": "opt_berry_shop_on",
+				"inherit_codes": false,
+				"name": "Accessory Shop On"
 			}
 		]
 	}
