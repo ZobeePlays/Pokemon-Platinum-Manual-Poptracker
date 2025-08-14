@@ -18,18 +18,6 @@
 		"img": "images/maps/amitysquare.png"
 	},
 	{
-		"name": "amitysquare(left)",
-		"location_size": 16,
-		"location_border_thickness": 2,
-		"img": "images/maps/amitysquare(left).png"
-	},
-	{
-		"name": "amitysquare(right)",
-		"location_size": 16,
-		"location_border_thickness": 2,
-		"img": "images/maps/amitysquare(right).png"
-	},
-	{
 		"name": "canalavecity",
 		"location_size": 16,
 		"location_border_thickness": 2,
@@ -120,22 +108,10 @@
 		"img": "images/maps/hearthomecity.png"
 	},
 	{
-		"name": "icebergruins",
-		"location_size": 16,
-		"location_border_thickness": 2,
-		"img": "images/maps/icebergruins.png"
-	},
-	{
 		"name": "ironisland",
 		"location_size": 16,
 		"location_border_thickness": 2,
 		"img": "images/maps/ironisland.png"
-	},
-	{
-		"name": "ironruins",
-		"location_size": 16,
-		"location_border_thickness": 2,
-		"img": "images/maps/ironruins.png"
 	},
 	{
 		"name": "jubilifecity",
@@ -334,12 +310,6 @@
 		"location_size": 16,
 		"location_border_thickness": 2,
 		"img": "images/maps/route207.png"
-	},
-	{
-		"name": "route207orwaywardcave",
-		"location_size": 16,
-		"location_border_thickness": 2,
-		"img": "images/maps/route207orwaywardcave.png"
 	},
 	{
 		"name": "route208",
@@ -568,12 +538,6 @@
 		"location_size": 16,
 		"location_border_thickness": 2,
 		"img": "images/maps/twinleaftown.png"
-	},
-	{
-		"name": "upperroute204",
-		"location_size": 16,
-		"location_border_thickness": 2,
-		"img": "images/maps/upperroute204.png"
 	},
 	{
 		"name": "valleywindworks",

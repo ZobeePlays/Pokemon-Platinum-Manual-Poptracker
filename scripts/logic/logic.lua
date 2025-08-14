@@ -275,3 +275,6 @@ function vrbonus()
 	end
 end
 
+function blue()
+    return AccessibilityLevel.Inspect
+end

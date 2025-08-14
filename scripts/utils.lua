@@ -72,3 +72,12 @@ function containsItem(list, item)
     
     return false
 end
+
+function tabswitch(unsanitized)
+    if string.sub(unsanitized, 1, 6) == "tabto_" then
+        local mapgroup, submap = unsanitized:match("tabto_(.-)_and_(.+)")
+        Tracker:UiHint("ActivateTab", mapgroup)
+        Tracker:UiHint("ActivateTab", submap)
+        Tracker:FindObjectForCode(unsanitized).Active = false
+    end
+end
