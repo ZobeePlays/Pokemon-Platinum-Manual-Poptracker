@@ -8,9 +8,14 @@
 	"author": "ZobeePlays (Sophie), palex00, darkfire006, cheerioschelsea & Linneus",
 	"variants": {
 		"Map Tracker": {
-			"display_name": "Map Tracker",
+			"display_name": "Map Tracker (Vertical)",
 			"flags": ["ap", "apmanual"]
-		}
+		},
+		"tracker_horizontal": {
+			"display_name": "Map Tracker (Horizontal)",
+			"flags": ["ap", "apmanual"]
+		},
+        
 	},
     "versions_url": "https://raw.githubusercontent.com/ZobeePlays/Pokemon-Platinum-Manual-Poptracker/versions/versions.json"
 }
