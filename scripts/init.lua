@@ -26,7 +26,7 @@ Tracker:AddLocations("locations/tabswitch_locations.json")
 -- Layout
 Tracker:AddLayouts("layouts/items.json")
 Tracker:AddLayouts("layouts/settings_popout.json")
-Tracker:AddLayouts("layouts/tracker.json")
+Tracker:AddLayouts("layouts/tracker_none.json")
 Tracker:AddLayouts("layouts/broadcast.json")
 Tracker:AddLayouts("layouts/tabs.json")
 

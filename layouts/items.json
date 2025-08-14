@@ -75,7 +75,7 @@
 			{
 				"type": "itemgrid",
 				"item_margin": "2,2",
-				"h_alignment": "left",
+				"h_alignment": "center",
 				"item_h_alignment": "center",
 				"item_v_alignment": "center",
 				"item_height": 36,
@@ -128,7 +128,7 @@
 			{
 				"type": "itemgrid",
 				"item_margin": "2,2",
-				"h_alignment": "left",
+				"h_alignment": "center",
 				"item_h_alignment": "center",
 				"item_v_alignment": "center",
 				"item_height": 36,
@@ -179,7 +179,7 @@
 			{
 				"type": "itemgrid",
 				"item_margin": "2,2",
-				"h_alignment": "left",
+				"h_alignment": "center",
 				"item_h_alignment": "center",
 				"item_v_alignment": "center",
 				"item_height": 36,
@@ -259,7 +259,7 @@
 			{
 				"type": "itemgrid",
 				"item_margin": "2,2",
-				"h_alignment": "left",
+				"h_alignment": "center",
 				"item_h_alignment": "center",
 				"item_v_alignment": "center",
 				"item_height": 36,
@@ -270,32 +270,32 @@
 						"ChestoBerry",
 						"PechaBerry",
 						"OranBerry",
-						"RawstBerry",
-						"AspearBerry"
-					],
-					[
+						"RawstBerry"
+                    ],
+                    [
+						"AspearBerry",
 						"LeppaBerry",
 						"PersimBerry",
 						"RazzBerry",
-						"BlukBerry",
+						"BlukBerry"
+                    ],
+                    [
 						"NanabBerry",
-						"WepearBerry"
-					],
-					[
+						"WepearBerry",
 						"PinapBerry",
 						"CornnBerries",
-						"PamtreBerries",
+						"PamtreBerries"
+                    ],
+                    [
 						"MagostBerries",
 						"WatmelBerries",
-						"RabutaBerries"
-					],
-					[
-						"",
+						"RabutaBerries",
 						"NomelBerries",
-						"DurinBerries",
+						"DurinBerries"
+                    ],
+                    [
 						"SpelonBerries",
-						"BelueBerries",
-						""
+						"BelueBerries"
 					]
 				]
 			}
@@ -309,7 +309,7 @@
 			{
 				"type": "itemgrid",
 				"item_margin": "2,2",
-				"h_alignment": "left",
+				"h_alignment": "center",
 				"item_h_alignment": "center",
 				"item_v_alignment": "center",
 				"item_height": 36,
@@ -355,7 +355,7 @@
 			{
 				"type": "itemgrid",
 				"item_margin": "2,2",
-				"h_alignment": "left",
+				"h_alignment": "center",
 				"item_h_alignment": "center",
 				"item_v_alignment": "center",
 				"item_height": 36,
@@ -363,25 +363,29 @@
 				"rows": [
 					[
 						"event_oreburgh",
-						"event_veilstone",
-						"event_pastoria",
-						"event_canalave",
-						"event_palpark"
-					],
-					[
 						"event_warehouse",
+						"event_bombs"
+                    ],
+                    [                    
+                        "event_veilstone",
 						"event_saturn",
+						"event_guardians"
+                    ],
+                    [                    
+						"event_pastoria",
 						"event_mars",
+						"event_distortion"
+                    ],
+                    [	
+                        "event_canalave",
 						"event_jupiter",
-						"event_galactichq"
-					],
-					[
-						"event_bombs",
-						"event_guardians",
-						"event_distortion",
-						"event_arceus",
+						"event_arceus"
+                    ],
+                    [   
+						"event_palpark",
+						"event_galactichq",
 						"event_cynthia"
-					]
+                    ]
 				]
 			}
 		]
@@ -394,7 +398,7 @@
 			{
 				"type": "itemgrid",
 				"item_margin": "2,2",
-				"h_alignment": "left",
+				"h_alignment": "center",
 				"item_h_alignment": "center",
 				"item_v_alignment": "center",
 				"item_height": 36,

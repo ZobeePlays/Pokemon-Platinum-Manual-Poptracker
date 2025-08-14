@@ -12,4 +12,7 @@ function initialize_watch_items()
     end
     
     ScriptHost:AddWatchForCode("Map Tabbing", "*", tabswitch)
+    ScriptHost:AddWatchForCode("Goal Setting", "opt_victory", toggle_itemgrid)
+    ScriptHost:AddWatchForCode("Berry Shop Setting", "opt_berry_shop", toggle_itemgrid)
+    
 end

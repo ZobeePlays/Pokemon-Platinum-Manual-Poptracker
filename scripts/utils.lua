@@ -81,3 +81,25 @@ function tabswitch(unsanitized)
         Tracker:FindObjectForCode(unsanitized).Active = false
     end
 end
+
+function toggle_itemgrid()
+    local berry = has("opt_berry_shop_on")
+    local plate = has("opt_victory_arceus")
+    
+    --if IS_VERTICAL then
+        if berry and plate then
+            Tracker:AddLayouts("layouts/tracker.json")
+        elseif berry then
+            Tracker:AddLayouts("layouts/tracker_berries.json")
+        elseif plate then
+            Tracker:AddLayouts("layouts/tracker_plates.json")
+        else
+            Tracker:AddLayouts("layouts/tracker_none.json")
+        end
+    --elseif IS_HORIZONTAL then
+    --
+    --else
+    --    print("Something went terribly wrong here.")
+    --end 
+    
+end
