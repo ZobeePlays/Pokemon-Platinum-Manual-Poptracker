@@ -1,6 +1,12 @@
 {
 	"versions": [
 		{
+			"package_version": "3.0.0",
+			"download_url": "https://github.com/ZobeePlays/Pokemon-Platinum-Manual-Poptracker/archive/refs/tags/3.0.0.zip",
+			"sha256": "628bdf027db0ab8d08f861ecd9f269f1839d57c22bec25d01fe383f7e6473c9c",
+			"changelog": ["Map Tab Update"]
+		}
+		{
 			"package_version": "1.0.0",
 			"download_url": "https://github.com/ZobeePlays/Pokemon-Platinum-Manual-Poptracker/releases/download/1.0.0/Pokemon-Platinum-Manual-Poptracker-main.zip",
 			"sha256": "1f5d75b277f1e5c2b87f7b1079dd90ec35c697467b6e4c76d7fdcf57e0db9c63",
