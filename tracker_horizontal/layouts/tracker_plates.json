@@ -36,11 +36,14 @@
                         },
                         {
                             "type": "group",
-                            "header": "Berries",
+                            "header": "Plates",
                             "dock": "left",
+                            "margin": "0,0,3,0",
                             "content": {
                                 "type": "layout",
-                                "key": "berry_grid"
+                                "h_alignment": "center",
+                                "v_alignment": "center",
+                                "key": "plates_grid"
                             }
                         },
                         {
