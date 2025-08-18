@@ -10,4 +10,9 @@ function initialize_watch_items()
     for _, code in pairs(HOSTED_ITEMS) do
         ScriptHost:AddWatchForCode(code, code, toggle_item)
     end
+    
+    ScriptHost:AddWatchForCode("Map Tabbing", "*", tabswitch)
+    ScriptHost:AddWatchForCode("Goal Setting", "opt_victory", toggle_itemgrid)
+    ScriptHost:AddWatchForCode("Berry Shop Setting", "opt_berry_shop", toggle_itemgrid)
+    
 end

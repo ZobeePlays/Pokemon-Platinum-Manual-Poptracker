@@ -72,3 +72,27 @@ function containsItem(list, item)
     
     return false
 end
+
+function tabswitch(unsanitized)
+    if string.sub(unsanitized, 1, 6) == "tabto_" then
+        local mapgroup, submap = unsanitized:match("tabto_(.-)_and_(.+)")
+        Tracker:UiHint("ActivateTab", mapgroup)
+        Tracker:UiHint("ActivateTab", submap)
+        Tracker:FindObjectForCode(unsanitized).Active = false
+    end
+end
+
+function toggle_itemgrid()
+    local berry = has("opt_berry_shop_on")
+    local plate = has("opt_victory_arceus")
+
+    if berry and plate then
+        Tracker:AddLayouts("layouts/tracker.json")
+    elseif berry then
+        Tracker:AddLayouts("layouts/tracker_berries.json")
+    elseif plate then
+        Tracker:AddLayouts("layouts/tracker_plates.json")
+    else
+        Tracker:AddLayouts("layouts/tracker_none.json")
+    end   
+end

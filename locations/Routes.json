@@ -1112,7 +1112,7 @@
 			},
 			{
 				"name": "",
-				"map_locations": [{"map": "route217", "x": 490, "y": 631}],
+				"map_locations": [{"map": "route217", "x": 490, "y": 605}],
 				"sections": [{"ref": "Sinnoh/Route 217/Hidden Item Near Skier Far East of Hiker's House"}]
 			},
 			{
@@ -1953,3 +1953,4 @@
 		]
 	}
 ]
+

@@ -75,7 +75,7 @@
 			{
 				"type": "itemgrid",
 				"item_margin": "2,2",
-				"h_alignment": "left",
+				"h_alignment": "center",
 				"item_h_alignment": "center",
 				"item_v_alignment": "center",
 				"item_height": 36,
@@ -120,6 +120,57 @@
 			}
 		]
 	},
+	"poketch_apps_grid_vertical": {
+		"type": "array",
+		"orientation": "horizontal",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "itemgrid",
+				"item_margin": "2,2",
+				"h_alignment": "center",
+				"item_h_alignment": "center",
+				"item_v_alignment": "center",
+				"item_height": 36,
+				"item_width": 36,
+				"rows": [
+					[
+						"DowsingMachineApp",
+						"DigitalWatchApp",
+						"CalculatorApp",
+						"MemoPadApp",
+						"PedometerApp",
+						"PokemonListApp",
+						"FriendshipCheckerApp",
+						"StopwatchApp"
+                    ],
+                    [
+						"BerrySearcherApp",
+						"Day-CareCheckerApp",
+						"PokemonHistoryApp",
+						"CounterApp",
+						"AnalogWatchApp",
+						"MarkingMapApp",
+						"LinkSearcherApp",
+						"CoinTossApp"
+                    ],
+                    [
+						"MoveTesterApp",
+						"CalendarApp",
+						"DotArtistApp",
+						"RouletteApp",
+						"ChainCounterApp",
+						"KitchenTimerApp",
+						"ColorChangerApp",
+						"MatchupCheckerApp"
+                    ],
+                    [
+						"AlarmClockApp"
+					]
+				]
+			}
+		]
+	},
 	"plates_grid": {
 		"type": "array",
 		"orientation": "horizontal",
@@ -128,7 +179,7 @@
 			{
 				"type": "itemgrid",
 				"item_margin": "2,2",
-				"h_alignment": "left",
+				"h_alignment": "center",
 				"item_h_alignment": "center",
 				"item_v_alignment": "center",
 				"item_height": 36,
@@ -162,7 +213,7 @@
 			}
 		]
 	},
-	"berry_grid": {
+	"plates_grid_vertical": {
 		"type": "array",
 		"orientation": "horizontal",
 		"margin": "0,0",
@@ -177,36 +228,120 @@
 				"item_width": 36,
 				"rows": [
 					[
+						"FistPlate",
+						"SkyPlate",
+						"ToxicPlate",
+						"EarthPlate",
+						"StonePlate",
+						"InsectPlate",
+						"SpookyPlate",
+						"IronPlate"
+					],
+					[
+						"ZapPlate",
+						"FlamePlate",
+						"SplashPlate",
+						"MeadowPlate",
+						"MindPlate",
+						"IciclePlate",
+						"DracoPlate",
+						"DreadPlate"
+					]
+				]
+			}
+		]
+	},
+	"berry_grid": {
+		"type": "array",
+		"orientation": "horizontal",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "itemgrid",
+				"item_margin": "2,2",
+				"h_alignment": "center",
+				"item_h_alignment": "center",
+				"item_v_alignment": "center",
+				"item_height": 36,
+				"item_width": 36,
+				"rows": [
+					[
+						"CheriBerry",
+						"ChestoBerry",
+						"PechaBerry",
+						"OranBerry",
+						"RawstBerry"
+                    ],
+                    [
+						"AspearBerry",
+						"LeppaBerry",
+						"PersimBerry",
+						"RazzBerry",
+						"BlukBerry"
+                    ],
+                    [
+						"NanabBerry",
+						"WepearBerry",
+						"PinapBerry",
+						"CornnBerries",
+						"PamtreBerries"
+                    ],
+                    [
+						"MagostBerries",
+						"WatmelBerries",
+						"RabutaBerries",
+						"NomelBerries",
+						"DurinBerries"
+                    ],
+                    [
+						"SpelonBerries",
+						"BelueBerries"
+					]
+				]
+			}
+		]
+	},
+	"berry_grid_vertical": {
+		"type": "array",
+		"orientation": "horizontal",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "itemgrid",
+				"item_margin": "2,2",
+				"h_alignment": "center",
+				"item_h_alignment": "center",
+				"item_v_alignment": "center",
+				"item_height": 36,
+				"item_width": 36,
+				"rows": [
+					[
 						"CheriBerry",
 						"ChestoBerry",
 						"PechaBerry",
 						"OranBerry",
 						"RawstBerry",
-						"AspearBerry"
-					],
-					[
+						"AspearBerry",
 						"LeppaBerry",
-						"PersimBerry",
+						"PersimBerry"
+                    ],
+                    [
 						"RazzBerry",
 						"BlukBerry",
 						"NanabBerry",
-						"WepearBerry"
-					],
-					[
+						"WepearBerry",
 						"PinapBerry",
 						"CornnBerries",
 						"PamtreBerries",
-						"MagostBerries",
+						"MagostBerries"
+                    ],
+                    [
 						"WatmelBerries",
-						"RabutaBerries"
-					],
-					[
-						"",
+						"RabutaBerries",
 						"NomelBerries",
 						"DurinBerries",
 						"SpelonBerries",
-						"BelueBerries",
-						""
+						"BelueBerries"
 					]
 				]
 			}
@@ -220,7 +355,50 @@
 			{
 				"type": "itemgrid",
 				"item_margin": "2,2",
-				"h_alignment": "left",
+				"h_alignment": "center",
+				"item_h_alignment": "center",
+				"item_v_alignment": "center",
+				"item_height": 36,
+				"item_width": 36,
+				"rows": [
+					[
+						"event_oreburgh",
+						"event_warehouse",
+						"event_bombs"
+                    ],
+                    [                    
+                        "event_veilstone",
+						"event_saturn",
+						"event_guardians"
+                    ],
+                    [                    
+						"event_pastoria",
+						"event_mars",
+						"event_distortion"
+                    ],
+                    [	
+                        "event_canalave",
+						"event_jupiter",
+						"event_arceus"
+                    ],
+                    [   
+						"event_palpark",
+						"event_galactichq",
+						"event_cynthia"
+                    ]
+				]
+			}
+		]
+	},
+	"events_grid_vertical": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "itemgrid",
+				"item_margin": "2,2",
+				"h_alignment": "center",
 				"item_h_alignment": "center",
 				"item_v_alignment": "center",
 				"item_height": 36,
@@ -231,67 +409,19 @@
 						"event_veilstone",
 						"event_pastoria",
 						"event_canalave",
-						"event_palpark"
-					],
-					[
+						"event_palpark",
 						"event_warehouse",
 						"event_saturn",
-						"event_mars",
+						"event_mars"
+                    ],
+                    [
 						"event_jupiter",
-						"event_galactichq"
-					],
-					[
+						"event_galactichq",
 						"event_bombs",
 						"event_guardians",
 						"event_distortion",
 						"event_arceus",
 						"event_cynthia"
-					]
-				]
-			}
-		]
-	},
-	"settings_grid": {
-		"type": "array",
-		"orientation": "vertical",
-		"margin": "0,0",
-		"content": [
-			{
-				"type": "itemgrid",
-				"item_margin": "2,2",
-				"h_alignment": "left",
-				"item_h_alignment": "center",
-				"item_v_alignment": "center",
-				"item_height": 36,
-				"item_width": 36,
-				"rows": [
-					[
-						"opt_hidden",
-						"opt_dowsing",
-						"opt_217",
-						"opt_bz",
-						"opt_victory"
-					],
-					[
-						"opt_flash",
-						"opt_fly_north",
-						"opt_fly_early",
-						"opt_defog_cross",
-						"opt_defog_items",
-					],
-					[
-						"opt_open_sshore",
-						"opt_extra_blocks",
-						"opt_skey",
-						"opt_marsh",
-						"event_toggle"
-					],
-					[
-						"",
-						"opt_berry_trees",
-						"",
-						"opt_berry_shop",
-						""
 					]
 				]
 			}

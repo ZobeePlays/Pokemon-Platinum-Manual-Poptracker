@@ -1,168 +1,71 @@
 {
-	"tracker_default": {
-		"type": "container",
-		"background": "#00000000",
-		"content": {
-			"type": "dock",
-			"dropshadow": true,
-			"content": [
-				{
-					"type": "dock",
-					"dock": "left",
-					"v_alignment": "stretch",
-					"content": [
-						{
-							"type": "group",
-							"header": "Items",
-							"dock": "top",
-							"content": {
-								"type": "layout",
-								"key": "key_items_grid"
-							}
-						},
-						{
-							"type": "group",
-							"header": "Poketch Apps",
-							"dock": "top",
-							"content": {
-								"type": "layout",
-								"key": "poketch_apps_grid"
-							}
-						},
-						{
-							"type": "group",
-							"header": "Plates",
-							"dock": "top",
-							"content": {
-								"type": "layout",
-								"key": "plates_grid"
-							}
-						},
-						{
-							"type": "group",
-							"header": "Berries",
-							"dock": "top",
-							"content": {
-								"type": "layout",
-								"key": "berry_grid"
-							}
-						},
-						{
-							"type": "group",
-							"header": "Events",
-							"dock": "top",
-							"content": {
-								"type": "layout",
-								"key": "events_grid"
-							}
-						}
-					]
-				},
-				{
-					"type": "dock",
-					"content": {
-						"type": "layout",
-						"key": "tabbed_maps_vertical"
-					}
-				}
-			]
-		}
-	},
-	"settings_popup": {
-		"type": "array",
-		"orientation": "horizontal",
-		"h_alignment": "left",
-		"content": [
-			{
-				"type": "group",
-				"header": "Settings",
-				"dock": "bottom",
-				"content": {
-					"type": "layout",
-					"key": "settings_grid"
-				}
-			}
-		]
-	},
-	"tracker_horizontal": {
-		"type": "container",
-		"background": "#00000000",
-		"content": {
-			"type": "dock",
-			"dropshadow": true,
-			"content": [
-				{
-					"type": "dock",
-					"dock": "bottom",
-					"content": [
-						{
-							"type": "group",
-							"header": "Items",
-							"dock": "left",
-							"margin": "0,0,3,0",
-							"content": {
-								"type": "layout",
-								"h_alignment": "center",
-								"v_alignment": "center",
-								"key": "key_items_grid"
-							}
-						},
-						{
-							"type": "group",
-							"header": "Poketch Apps",
-							"dock": "left",
-							"margin": "0,0,3,0",
-							"content": {
-								"type": "layout",
-								"h_alignment": "center",
-								"v_alignment": "center",
-								"key": "poketch_apps_grid"
-							}
-						},
-						{
-							"type": "group",
-							"header": "Plates",
-							"dock": "left",
-							"margin": "0,0,3,0",
-							"content": {
-								"type": "layout",
-								"h_alignment": "center",
-								"v_alignment": "center",
-								"key": "plates_grid"
-							}
-						},
-						{
-							"type": "group",
-							"header": "Berries",
-							"dock": "left",
-							"content": {
-								"type": "layout",
-								"key": "berry_grid"
-							}
-						},
-						{
-							"type": "group",
-							"header": "Events",
-							"dock": "left",
-							"margin": "0,0,3,0",
-							"content": {
-								"type": "layout",
-								"h_alignment": "center",
-								"v_alignment": "center",
-								"key": "events_grid"
-							}
-						}
-					]
-				},
-				{
-					"type": "dock",
-					"content": {
-						"type": "layout",
-						"key": "tabbed_maps_horizontal"
-					}
-				}
-			]
-		}
-	}
+    "tracker_default": {
+        "type": "container",
+        "background": "#00000000",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "key_items_grid"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Poketch Apps",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "poketch_apps_grid_vertical"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Plates",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "plates_grid_vertical"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Berries",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "berry_grid_vertical"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Events",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "events_grid_vertical"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "dock",
+                    "content": {
+                        "type": "layout",
+                        "key": "tabbed_maps_vertical"
+                    }
+                }
+            ]
+        }
+    }
 }
-
