@@ -744,7 +744,7 @@
 		"children": [
 			{
 				"name": "",
-				"map_locations": [{"map": "route213", "x": 839, "y": 39}],
+				"map_locations": [{"map": "route213", "x": 839, "y": 17}],
 				"sections": [{"ref": "Sinnoh/Route 213/Hidden Item Under Pool Umbrella"}]
 			},
 			{
@@ -1072,7 +1072,7 @@
 			},
 			{
 				"name": "",
-				"map_locations": [{"map": "route217", "x": 395, "y": 847}],
+				"map_locations": [{"map": "route217", "x": 407, "y": 847}],
 				"sections": [{"ref": "Sinnoh/Route 217/Hidden Item North of Lower Right Pair of Trees"}]
 			},
 			{
@@ -1809,7 +1809,7 @@
 			},
 			{
 				"name": "",
-				"map_locations": [{"map": "valorlakefront", "x": 939, "y": 400}],
+				"map_locations": [{"map": "valorlakefront", "x": 939, "y": 364}],
 				"sections": [{"ref": "Sinnoh/Route 222/Hidden Item in Corner of Northwest Trees"}]
 			}
 		]
@@ -1953,4 +1953,5 @@
 		]
 	}
 ]
+
 
