@@ -506,7 +506,7 @@
 		"children": [
 			{
 				"name": "",
-				"map_locations": [{"map": "pokemonleague", "x": 168, "y": 612}],
+				"map_locations": [{"map": "pokemonleague", "x": 168, "y": 600}],
 				"sections": [{"ref": "Sinnoh/Pokemon League/Hidden Item Below Southwest Poke Ball Statue"}]
 			},
 			{
@@ -661,3 +661,4 @@
 		]
 	}
 ]
+
