@@ -1809,7 +1809,7 @@
 			},
 			{
 				"name": "",
-				"map_locations": [{"map": "valorlakefront", "x": 939, "y": 364}],
+				"map_locations": [{"map": "valorlakefront", "x": 939, "y": 436}],
 				"sections": [{"ref": "Sinnoh/Route 222/Hidden Item in Corner of Northwest Trees"}]
 			}
 		]
@@ -1953,5 +1953,6 @@
 		]
 	}
 ]
+
 
 
