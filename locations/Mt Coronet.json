@@ -337,7 +337,7 @@
 			},
 			{
 				"name": "",
-				"map_locations": [{"map": "mt.coronet4f-6f", "x": 856, "y": 160}],
+				"map_locations": [{"map": "mt.coronet4f-6f", "x": 856, "y": 148}],
 				"sections": [
 					{"ref": "Sinnoh/Mt. Coronet 4F-6F/4F Left - Hidden Item in Upper Middle"}
 				]
@@ -365,7 +365,7 @@
 			},
 			{
 				"name": "",
-				"map_locations": [{"map": "mt.coronet4f-6f", "x": 482, "y": 280}],
+				"map_locations": [{"map": "mt.coronet4f-6f", "x": 482, "y": 268}],
 				"sections": [
 					{"ref": "Sinnoh/Mt. Coronet 4F-6F/5F - Hidden Item on Rock Against East Wall"}
 				]
@@ -502,3 +502,4 @@
 		]
 	}
 ]
+
