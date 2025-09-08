@@ -49,6 +49,217 @@
 	},
 
 	{
+		"name": "Dawn's Running Shoes",
+		"type": "toggle",
+		"img": "/images/Items/DawnRunningShoes.png",
+		"codes": "DShoes"
+	},
+	{
+		"name": "Dawn's Bag",
+		"type": "toggle",
+		"img": "/images/Items/DawnBag.png",
+		"codes": "DBag"
+	},
+
+	{
+		"name": "Lucas' Running Shoes",
+		"type": "toggle",
+		"img": "/images/Items/LucasRunningShoes.png",
+		"codes": "LShoes"
+	},
+	{
+		"name": "Lucas' Bag",
+		"type": "toggle",
+		"img": "/images/Items/LucasBag.png",
+		"codes": "LBag"
+	},
+	
+	{
+		"name": "Unown Files",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "0 Unown Files",
+				"img": "/images/Items/UnownFilesDim.png",
+				"img_mods": "@disabled",
+				"inherit_codes": false,
+				"codes": "Unnown0"
+			},
+			{
+				"name": "1 Unown File",
+				"img": "/images/Items/UnownFiles01.png",
+				"inherit_codes": false,
+				"codes": "Unnown1"
+			},
+			{
+				"name": "2 Unown Files",
+				"img": "/images/Items/UnownFiles02.png",
+				"inherit_codes": false,
+				"codes": "Unnown2"
+			},
+			{
+				"name": "3 Unown Files",
+				"img": "/images/Items/UnownFiles03.png",
+				"inherit_codes": false,
+				"codes": "Unnown3"
+			},
+			{
+				"name": "4 Unown Files",
+				"img": "/images/Items/UnownFiles04.png",
+				"inherit_codes": false,
+				"codes": "Unnown4"
+			},
+			{
+				"name": "5 Unown Files",
+				"img": "/images/Items/UnownFiles05.png",
+				"inherit_codes": false,
+				"codes": "Unnown5"
+			},
+			{
+				"name": "6 Unown Files",
+				"img": "/images/Items/UnownFiles06.png",
+				"inherit_codes": false,
+				"codes": "Unnown6"
+			},
+			{
+				"name": "7 Unown Files",
+				"img": "/images/Items/UnownFiles07.png",
+				"inherit_codes": false,
+				"codes": "Unnown7"
+			},
+			{
+				"name": "8 Unown Files",
+				"img": "/images/Items/UnownFiles08.png",
+				"inherit_codes": false,
+				"codes": "Unnown8"
+			},
+			{
+				"name": "9 Unown Files",
+				"img": "/images/Items/UnownFiles09.png",
+				"inherit_codes": false,
+				"codes": "Unnown9"
+			},
+			{
+				"name": "10 Unown Files",
+				"img": "/images/Items/UnownFiles10.png",
+				"inherit_codes": false,
+				"codes": "Unnown10"
+			},
+			{
+				"name": "11 Unown Files",
+				"img": "/images/Items/UnownFiles11.png",
+				"inherit_codes": false,
+				"codes": "Unnown1"
+			},
+			{
+				"name": "12 Unown Files",
+				"img": "/images/Items/UnownFiles12.png",
+				"inherit_codes": false,
+				"codes": "Unnown12"
+			},
+			{
+				"name": "13 Unown Files",
+				"img": "/images/Items/UnownFiles13.png",
+				"inherit_codes": false,
+				"codes": "Unnown13"
+			},
+			{
+				"name": "14 Unown Files",
+				"img": "/images/Items/UnownFiles14.png",
+				"inherit_codes": false,
+				"codes": "Unnown14"
+			},
+			{
+				"name": "15 Unown Files",
+				"img": "/images/Items/UnownFiles15.png",
+				"inherit_codes": false,
+				"codes": "Unnown15"
+			},
+			{
+				"name": "16 Unown Files",
+				"img": "/images/Items/UnownFiles16.png",
+				"inherit_codes": false,
+				"codes": "Unnown16"
+			},
+			{
+				"name": "17 Unown Files",
+				"img": "/images/Items/UnownFiles17.png",
+				"inherit_codes": false,
+				"codes": "Unnown17"
+			},
+			{
+				"name": "18 Unown Files",
+				"img": "/images/Items/UnownFiles18.png",
+				"inherit_codes": false,
+				"codes": "Unnown18"
+			},
+			{
+				"name": "19 Unown Files",
+				"img": "/images/Items/UnownFiles19.png",
+				"inherit_codes": false,
+				"codes": "Unnown19"
+			},
+			{
+				"name": "20 Unown Files",
+				"img": "/images/Items/UnownFiles20.png",
+				"inherit_codes": false,
+				"codes": "Unnown20"
+			},
+			{
+				"name": "21 Unown Files",
+				"img": "/images/Items/UnownFiles21.png",
+				"inherit_codes": false,
+				"codes": "Unnown21"
+			},
+			{
+				"name": "22 Unown Files",
+				"img": "/images/Items/UnownFiles22.png",
+				"inherit_codes": false,
+				"codes": "Unnown22"
+			},
+			{
+				"name": "23 Unown Files",
+				"img": "/images/Items/UnownFiles23.png",
+				"inherit_codes": false,
+				"codes": "Unnown23"
+			},
+			{
+				"name": "24 Unown Files",
+				"img": "/images/Items/UnownFiles24.png",
+				"inherit_codes": false,
+				"codes": "Unnown24"
+			},
+			{
+				"name": "25 Unown Files",
+				"img": "/images/Items/UnownFiles25.png",
+				"inherit_codes": false,
+				"codes": "Unnown25"
+			},
+			{
+				"name": "26 Unown Files",
+				"img": "/images/Items/UnownFiles26.png",
+				"inherit_codes": false,
+				"codes": "Unnown26 Yellow"
+			},
+			{
+				"name": "27 Unown Files",
+				"img": "/images/Items/UnownFiles27.png",
+				"inherit_codes": false,
+				"codes": "Unnown27 Yellow"
+			},
+			{
+				"name": "28 Spelon Berries",
+				"img": "/images/Items/UnownFiles28 Yellow.png",
+				"inherit_codes": false,
+				"codes": "Unnown28"
+			}
+		],
+		"codes": "UnownFiles"
+	},
+	
+	{
 		"name": "Bicycle",
 		"type": "toggle",
 		"img": "/images/Items/Bicycle.png",
@@ -1362,4 +1573,5 @@
 		"codes": "BelueBerries"
 	}
 ]
+
 
