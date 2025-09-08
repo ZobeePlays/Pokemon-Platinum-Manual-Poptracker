@@ -1,0 +1,275 @@
+{
+	"tabbed_maps_horizontal": {
+		"type": "tabbed",
+		"tabs": [
+			{
+				"title": "Sinnoh",
+				"content": {
+					"type": "map",
+					"maps": [
+						"Sinnoh"
+					]
+				}
+			},
+			{
+				"title": "Cities",
+				"content": {
+					"type": "tabbed",
+					"dock": "top",
+					"tabs": [
+						{"title": "Twinleaf Town",	"content": {"type": "map", "maps": ["twinleaftown"]}},
+						{"title": "Sandgem Town",	"content": {"type": "map", "maps": ["sandgemtown"]}},
+						{"title": "Jubilife City",	"content": {"type": "map", "maps": ["jubilifecity"]}},
+						{"title": "Oreburgh City",	"content": {"type": "map", "maps": ["oreburghcity"]}},
+						{"title": "Floaroma Town",	"content": {"type": "map", "maps": ["floaromatown"]}},
+						{"title": "Eterna City",	"content": {"type": "map", "maps": ["eternacity"]}},
+						{"title": "Hearthome City",	"content": {"type": "map", "maps": ["hearthomecity"]}},
+						{"title": "Solaceon Town",	"content": {"type": "map", "maps": ["solaceontown"]}},
+						{"title": "Veilstone City",	"content": {"type": "map", "maps": ["veilstonecity"]}},
+						{"title": "Pastoria City",	"content": {"type": "map", "maps": ["pastoriacity"]}},
+						{"title": "Celestic Town",	"content": {"type": "map", "maps": ["celestictown"]}},
+						{"title": "Canalave City",	"content": {"type": "map", "maps": ["canalavecity"]}},
+						{"title": "Snowpoint City",	"content": {"type": "map", "maps": ["snowpointcity"]}},
+						{"title": "Sunyshore City",	"content": {"type": "map", "maps": ["sunyshorecity"]}},
+						{"title": "Pokemon League",	"content": {"type": "map", "maps": ["pokemonleague"]}},
+						{"title": "Fight Area",		"content": {"type": "map", "maps": ["fightarea"]}},
+						{"title": "Survival Area",	"content": {"type": "map", "maps": ["survivalarea"]}},
+						{"title": "Resort Area",	"content": {"type": "map", "maps": ["resortarea"]}}
+					]}},
+			{
+				"title": "Routes",
+				"content": {
+					"type": "tabbed",
+					"dock": "top",
+					"tabs": [
+						{"title": "Verity Lakefront",			"content": {"type": "map", "maps": ["veritylakefront"]}},
+						{"title": "Route 201",					"content": {"type": "map", "maps": ["route201"]}},
+						{"title": "Route 202",					"content": {"type": "map", "maps": ["route202"]}},
+						{"title": "Route 203",					"content": {"type": "map", "maps": ["route203"]}},
+						{"title": "Route 204",					"content": {"type": "map", "maps": ["route204"]}},
+						{"title": "Valley Windworks",			"content": {"type": "map", "maps": ["valleywindworks"]}},
+						{"title": "Route 205 South",			"content": {"type": "map", "maps": ["route205south"]}},
+						{"title": "Fuego Ironworks (Outside)",	"content": {"type": "map", "maps": ["fuegoironworks(outside)"]}},
+						{"title": "Eterna Forest Side Route",	"content": {"type": "map", "maps": ["eternaforestsideroute"]}},
+						{"title": "Route 205 North",			"content": {"type": "map", "maps": ["route205north"]}},
+						{"title": "Route 206",					"content": {"type": "map", "maps": ["route206"]}},
+						{"title": "Route 207",					"content": {"type": "map", "maps": ["route207"]}},
+						{"title": "Route 208",					"content": {"type": "map", "maps": ["route208"]}},
+						{"title": "Route 209",					"content": {"type": "map", "maps": ["route209"]}},
+						{"title": "Route 210 South",			"content": {"type": "map", "maps": ["route210south"]}},
+						{"title": "Route 210 Mid",				"content": {"type": "map", "maps": ["route210mid"]}},
+						{"title": "Route 210 North",			"content": {"type": "map", "maps": ["route210north"]}},
+						{"title": "Route 211 West",				"content": {"type": "map", "maps": ["route211west"]}},
+						{"title": "Route 211 East",				"content": {"type": "map", "maps": ["route211east"]}},
+						{"title": "Route 212 North",			"content": {"type": "map", "maps": ["route212north"]}},
+						{"title": "Route 212 South",			"content": {"type": "map", "maps": ["route212south"]}},
+						{"title": "Route 213",					"content": {"type": "map", "maps": ["route213"]}},
+						{"title": "Valor Lakefront",			"content": {"type": "map", "maps": ["valorlakefront"]}},
+						{"title": "Route 214",					"content": {"type": "map", "maps": ["route214"]}},
+						{"title": "Route 215",					"content": {"type": "map", "maps": ["route215"]}},
+						{"title": "Route 216",					"content": {"type": "map", "maps": ["route216"]}},
+						{"title": "Route 217",					"content": {"type": "map", "maps": ["route217"]}},
+						{"title": "Acuity Lakefront",			"content": {"type": "map", "maps": ["acuitylakefront"]}},
+						{"title": "Route 218",					"content": {"type": "map", "maps": ["route218"]}},
+						{"title": "Route 219",					"content": {"type": "map", "maps": ["route219"]}},
+						{"title": "Route 220",					"content": {"type": "map", "maps": ["route220"]}},
+						{"title": "Route 221",					"content": {"type": "map", "maps": ["route221"]}},
+						{"title": "Route 222",					"content": {"type": "map", "maps": ["route222"]}},
+						{"title": "Route 223",					"content": {"type": "map", "maps": ["route223"]}},
+						{"title": "Route 224",					"content": {"type": "map", "maps": ["route224"]}},
+						{"title": "Route 225",					"content": {"type": "map", "maps": ["route225"]}},
+						{"title": "Route 226",					"content": {"type": "map", "maps": ["route226"]}},
+						{"title": "Route 227",					"content": {"type": "map", "maps": ["route227"]}},
+						{"title": "Stark Mountain Exterior",	"content": {"type": "map", "maps": ["starkmountainexterior"]}},
+						{"title": "Route 228",					"content": {"type": "map", "maps": ["route228"]}},
+						{"title": "Route 229",					"content": {"type": "map", "maps": ["route229"]}},
+						{"title": "Route 230",					"content": {"type": "map", "maps": ["route230"]}}
+					]}},
+			{
+				"title": "Dungeons",
+				"content": {
+					"type": "tabbed",
+					"dock": "top",
+					"tabs": [
+						{"title": "Oreburgh Gate",					"content": {"type": "map", "maps": ["oreburghgate"]}},
+						{"title": "Oreburgh Mine",					"content": {"type": "map", "maps": ["oreburghmine"]}},
+						{"title": "Ravaged Path",					"content": {"type": "map", "maps": ["ravagedpath"]}},
+						{"title": "Floaroma Meadow",				"content": {"type": "map", "maps": ["floaromameadow"]}},
+						{"title": "Fuego Ironworks",				"content": {"type": "map", "maps": ["fuegoironworks"]}},
+						{"title": "Eterna Forest",					"content": {"type": "map", "maps": ["eternaforest"]}},
+						{"title": "Old Chateau",					"content": {"type": "map", "maps": ["oldchateau"]}},
+						{"title": "Team Galactic Eterna Building",	"content": {"type": "map", "maps": ["teamgalacticeternabuilding"]}},
+						{"title": "Wayward Cave",					"content": {"type": "map", "maps": ["waywardcave"]}},
+						{"title": "Amity Square",					"content": {"type": "map", "maps": ["amitysquare"]}},
+						{"title": "Pokemon Mansion",				"content": {"type": "map", "maps": ["pokemonmansion"]}},
+						{"title": "Lost Tower",						"content": {"type": "map", "maps": ["losttower"]}},
+						{"title": "Solaceon Ruins",					"content": {"type": "map", "maps": ["solaceonruins"]}},
+						{"title": "Galactic Warehouse",				"content": {"type": "map", "maps": ["galacticwarehouse"]}},
+						{"title": "Galactic HQ",					"content": {"type": "map", "maps": ["galactichq"]}},
+						{"title": "Maniac Tunnel",					"content": {"type": "map", "maps": ["maniactunnel"]}},
+						{"title": "Great Marsh",					"content": {"type": "map", "maps": ["greatmarsh"]}},
+						{"title": "Iron Island",					"content": {"type": "map", "maps": ["ironisland"]}},
+						{"title": "Lake Valor",						"content": {"type": "map", "maps": ["lakevalor"]}},
+						{"title": "Lake Verity",					"content": {"type": "map", "maps": ["lakeverity"]}},
+						{"title": "Lake Acuity",					"content": {"type": "map", "maps": ["lakeacuity"]}},
+						{"title": "Snowpoint Temple",				"content": {"type": "map", "maps": ["snowpointtemple"]}},
+						{"title": "Distortion World",				"content": {"type": "map", "maps": ["distortionworld"]}},
+						{"title": "Victory Road",					"content": {"type": "map", "maps": ["victoryroad"]}},
+						{"title": "Victory Road Foggy Basement",	"content": {"type": "map", "maps": ["victoryroadfoggybasement"]}},
+						{"title": "Pal Park",						"content": {"type": "map", "maps": ["palpark"]}},
+						{"title": "Stark Mountain Cavern",			"content": {"type": "map", "maps": ["starkmountaincavern"]}}
+					]}},
+			{
+				"title": "Mt. Coronet",
+				"content": {
+					"type": "tabbed",
+					"dock": "top",
+					"tabs": [
+						{"title": "Mt. Coronet (Route 211 Tunnel Room)",	"content": {"type": "map", "maps": ["mt.coronet(route211tunnelroom)"]}},
+						{"title": "Mt. Coronet (Routes 207-208 Room)",		"content": {"type": "map", "maps": ["mt.coronet(routes207-208room)"]}},
+						{"title": "Mt. Coronet (Exit to Route 216 Room)",	"content": {"type": "map", "maps": ["mt.coronet(exittoroute216room)"]}},
+						{"title": "Mt. Coronet 2F-3F",						"content": {"type": "map", "maps": ["mt.coronet2f-3f"]}},
+						{"title": "Mt. Coronet 4F-6F",						"content": {"type": "map", "maps": ["mt.coronet4f-6f"]}},
+						{"title": "Mt. Coronet B1F",						"content": {"type": "map", "maps": ["mt.coronetb1f"]}},
+						{"title": "Mt. Coronet Outside",					"content": {"type": "map", "maps": ["mt.coronetoutside"]}},
+						{"title": "Mt. Coronet Tunnel to 1F",				"content": {"type": "map", "maps": ["mt.coronettunnelto1f"]}}
+					]}}
+		]
+	},
+	"tabbed_maps_vertical": {
+		"type": "tabbed",
+		"tabs": [
+			{
+				"title": "Sinnoh",
+				"content": {
+					"type": "map",
+					"maps": [
+						"Sinnoh"
+					]
+				}
+			},
+			{
+				"title": "Cities",
+				"content": {
+					"type": "tabbed",
+					"dock": "top",
+					"tabs": [
+						{"title": "Twinleaf Town",	"content": {"type": "map", "maps": ["twinleaftown"]}},
+						{"title": "Sandgem Town",	"content": {"type": "map", "maps": ["sandgemtown"]}},
+						{"title": "Jubilife City",	"content": {"type": "map", "maps": ["jubilifecity"]}},
+						{"title": "Oreburgh City",	"content": {"type": "map", "maps": ["oreburghcity"]}},
+						{"title": "Floaroma Town",	"content": {"type": "map", "maps": ["floaromatown"]}},
+						{"title": "Eterna City",	"content": {"type": "map", "maps": ["eternacity"]}},
+						{"title": "Hearthome City",	"content": {"type": "map", "maps": ["hearthomecity"]}},
+						{"title": "Solaceon Town",	"content": {"type": "map", "maps": ["solaceontown"]}},
+						{"title": "Veilstone City",	"content": {"type": "map", "maps": ["veilstonecity"]}},
+						{"title": "Pastoria City",	"content": {"type": "map", "maps": ["pastoriacity"]}},
+						{"title": "Celestic Town",	"content": {"type": "map", "maps": ["celestictown"]}},
+						{"title": "Canalave City",	"content": {"type": "map", "maps": ["canalavecity"]}},
+						{"title": "Snowpoint City",	"content": {"type": "map", "maps": ["snowpointcity"]}},
+						{"title": "Sunyshore City",	"content": {"type": "map", "maps": ["sunyshorecity"]}},
+						{"title": "Pokemon League",	"content": {"type": "map", "maps": ["pokemonleague"]}},
+						{"title": "Fight Area",		"content": {"type": "map", "maps": ["fightarea"]}},
+						{"title": "Survival Area",	"content": {"type": "map", "maps": ["survivalarea"]}},
+						{"title": "Resort Area",	"content": {"type": "map", "maps": ["resortarea"]}}
+					]}},
+			{
+				"title": "Routes",
+				"content": {
+					"type": "tabbed",
+					"dock": "top",
+					"tabs": [
+						{"title": "Verity Lakefront",			"content": {"type": "map", "maps": ["veritylakefront"]}},
+						{"title": "Route 201",					"content": {"type": "map", "maps": ["route201"]}},
+						{"title": "Route 202",					"content": {"type": "map", "maps": ["route202"]}},
+						{"title": "Route 203",					"content": {"type": "map", "maps": ["route203"]}},
+						{"title": "Route 204",					"content": {"type": "map", "maps": ["route204"]}},
+						{"title": "Route 205 South",			"content": {"type": "map", "maps": ["route205south"]}},
+						{"title": "Fuego Ironworks (Outside)",	"content": {"type": "map", "maps": ["fuegoironworks(outside)"]}},
+						{"title": "Eterna Forest Side Route",	"content": {"type": "map", "maps": ["eternaforestsideroute"]}},
+						{"title": "Route 205 North",			"content": {"type": "map", "maps": ["route205north"]}},
+						{"title": "Route 206",					"content": {"type": "map", "maps": ["route206"]}},
+						{"title": "Route 207",					"content": {"type": "map", "maps": ["route207"]}},
+						{"title": "Route 208",					"content": {"type": "map", "maps": ["route208"]}},
+						{"title": "Route 209",					"content": {"type": "map", "maps": ["route209"]}},
+						{"title": "Route 210 South",			"content": {"type": "map", "maps": ["route210south"]}},
+						{"title": "Route 210 Mid",				"content": {"type": "map", "maps": ["route210mid"]}},
+						{"title": "Route 210 North",			"content": {"type": "map", "maps": ["route210north"]}},
+						{"title": "Route 211 West",				"content": {"type": "map", "maps": ["route211west"]}},
+						{"title": "Route 211 East",				"content": {"type": "map", "maps": ["route211east"]}},
+						{"title": "Route 212 North",			"content": {"type": "map", "maps": ["route212north"]}},
+						{"title": "Route 212 South",			"content": {"type": "map", "maps": ["route212south"]}},
+						{"title": "Route 213",					"content": {"type": "map", "maps": ["route213"]}},
+						{"title": "Valor Lakefront",			"content": {"type": "map", "maps": ["valorlakefront"]}},
+						{"title": "Route 214",					"content": {"type": "map", "maps": ["route214"]}},
+						{"title": "Route 215",					"content": {"type": "map", "maps": ["route215"]}},
+						{"title": "Route 216",					"content": {"type": "map", "maps": ["route216"]}},
+						{"title": "Route 217",					"content": {"type": "map", "maps": ["route217"]}},
+						{"title": "Acuity Lakefront",			"content": {"type": "map", "maps": ["acuitylakefront"]}},
+						{"title": "Route 218",					"content": {"type": "map", "maps": ["route218"]}},
+						{"title": "Route 219",					"content": {"type": "map", "maps": ["route219"]}},
+						{"title": "Route 220",					"content": {"type": "map", "maps": ["route220"]}},
+						{"title": "Route 221",					"content": {"type": "map", "maps": ["route221"]}},
+						{"title": "Route 222",					"content": {"type": "map", "maps": ["route222"]}},
+						{"title": "Route 223",					"content": {"type": "map", "maps": ["route223"]}},
+						{"title": "Route 224",					"content": {"type": "map", "maps": ["route224"]}},
+						{"title": "Route 225",					"content": {"type": "map", "maps": ["route225"]}},
+						{"title": "Route 226",					"content": {"type": "map", "maps": ["route226"]}},
+						{"title": "Route 227",					"content": {"type": "map", "maps": ["route227"]}},
+						{"title": "Stark Mountain Exterior",	"content": {"type": "map", "maps": ["starkmountainexterior"]}},
+						{"title": "Route 228",					"content": {"type": "map", "maps": ["route228"]}},
+						{"title": "Route 229",					"content": {"type": "map", "maps": ["route229"]}},
+						{"title": "Route 230",					"content": {"type": "map", "maps": ["route230"]}}
+					]}},
+			{
+				"title": "Dungeons",
+				"content": {
+					"type": "tabbed",
+					"dock": "top",
+					"tabs": [
+						{"title": "Oreburgh Gate",					"content": {"type": "map", "maps": ["oreburghgate"]}},
+						{"title": "Oreburgh Mine",					"content": {"type": "map", "maps": ["oreburghmine"]}},
+						{"title": "Ravaged Path",					"content": {"type": "map", "maps": ["ravagedpath"]}},
+						{"title": "Floaroma Meadow",				"content": {"type": "map", "maps": ["floaromameadow"]}},
+						{"title": "Fuego Ironworks",				"content": {"type": "map", "maps": ["fuegoironworks"]}},
+						{"title": "Eterna Forest",					"content": {"type": "map", "maps": ["eternaforest"]}},
+						{"title": "Old Chateau",					"content": {"type": "map", "maps": ["oldchateau"]}},
+						{"title": "Team Galactic Eterna Building",	"content": {"type": "map", "maps": ["teamgalacticeternabuilding"]}},
+						{"title": "Wayward Cave",					"content": {"type": "map", "maps": ["waywardcave"]}},
+						{"title": "Amity Square",					"content": {"type": "map", "maps": ["amitysquare"]}},
+						{"title": "Pokemon Mansion",				"content": {"type": "map", "maps": ["pokemonmansion"]}},
+						{"title": "Lost Tower",						"content": {"type": "map", "maps": ["losttower"]}},
+						{"title": "Solaceon Ruins",					"content": {"type": "map", "maps": ["solaceonruins"]}},
+						{"title": "Galactic Warehouse",				"content": {"type": "map", "maps": ["galacticwarehouse"]}},
+						{"title": "Galactic HQ",					"content": {"type": "map", "maps": ["galactichq"]}},
+						{"title": "Maniac Tunnel",					"content": {"type": "map", "maps": ["maniactunnel"]}},
+						{"title": "Great Marsh",					"content": {"type": "map", "maps": ["greatmarsh"]}},
+						{"title": "Iron Island",					"content": {"type": "map", "maps": ["ironisland"]}},
+						{"title": "Lake Valor",						"content": {"type": "map", "maps": ["lakevalor"]}},
+						{"title": "Lake Verity",					"content": {"type": "map", "maps": ["lakeverity"]}},
+						{"title": "Lake Acuity",					"content": {"type": "map", "maps": ["lakeacuity"]}},
+						{"title": "Snowpoint Temple",				"content": {"type": "map", "maps": ["snowpointtemple"]}},
+						{"title": "Distortion World",				"content": {"type": "map", "maps": ["distortionworld"]}},
+						{"title": "Victory Road",					"content": {"type": "map", "maps": ["victoryroad"]}},
+						{"title": "Victory Road Foggy Basement",	"content": {"type": "map", "maps": ["victoryroadfoggybasement"]}},
+						{"title": "Pal Park",						"content": {"type": "map", "maps": ["palpark"]}},
+						{"title": "Stark Mountain Cavern",			"content": {"type": "map", "maps": ["starkmountaincavern"]}}
+					]}},
+			{
+				"title": "Mt. Coronet",
+				"content": {
+					"type": "tabbed",
+					"dock": "top",
+					"tabs": [
+						{"title": "Mt. Coronet (Route 211 Tunnel Room)",	"content": {"type": "map", "maps": ["mt.coronet(route211tunnelroom)"]}},
+						{"title": "Mt. Coronet (Routes 207-208 Room)",		"content": {"type": "map", "maps": ["mt.coronet(routes207-208room)"]}},
+						{"title": "Mt. Coronet (Exit to Route 216 Room)",	"content": {"type": "map", "maps": ["mt.coronet(exittoroute216room)"]}},
+						{"title": "Mt. Coronet 2F-3F",						"content": {"type": "map", "maps": ["mt.coronet2f-3f"]}},
+						{"title": "Mt. Coronet 4F-6F",						"content": {"type": "map", "maps": ["mt.coronet4f-6f"]}},
+						{"title": "Mt. Coronet B1F",						"content": {"type": "map", "maps": ["mt.coronetb1f"]}},
+						{"title": "Mt. Coronet Outside",					"content": {"type": "map", "maps": ["mt.coronetoutside"]}},
+						{"title": "Mt. Coronet Tunnel to 1F",				"content": {"type": "map", "maps": ["mt.coronettunnelto1f"]}}
+					]}}
+		]
+	}
+}

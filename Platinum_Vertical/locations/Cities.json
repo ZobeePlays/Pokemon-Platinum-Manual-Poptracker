@@ -1,0 +1,663 @@
+[
+	{
+		"name": "Twinleaf Town",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{ "map": "twinleaftown", "x": 320, "y": 258 }],
+				"sections": [{"ref": "Sinnoh/Twinleaf Town/Journal from Mom"},
+					{"ref": "Sinnoh/Twinleaf Town/Parcel from Rival's Mom"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{ "map": "twinleaftown", "x": 181, "y": 358 }],
+				"sections": [{"ref": "Sinnoh/Twinleaf Town/Hidden Item in Pond"}]
+			}
+		]
+	},
+	{
+		"name": "Sandgem Town",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "sandgemtown", "x": 129, "y": 115}],
+				"sections": [{"ref": "Sinnoh/Sandgem Town/Pokedex from Prof Rowan"},
+					{"ref": "Sinnoh/Sandgem Town/TM27 from Professor Rowan"},
+					{"ref": "Sinnoh/Sandgem Town/Event: Talk to Rowan after Distortion World"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "sandgemtown", "x": 272, "y": 114}],
+				"sections": [{"ref": "Sinnoh/Sandgem Town/Pokemon Center Basement - Pal Pad from Teala"}]
+			}
+		]
+	},
+	{
+		"name": "Jubilife City",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "jubilifecity", "x": 753, "y": 493}],
+				"sections": [{"ref": "Sinnoh/Jubilife City/Vs. Recorder from Looker"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "jubilifecity", "x": 848, "y": 235}],
+				"sections": [{"ref": "Sinnoh/Jubilife City/Gift from Girl in Condominiums"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "jubilifecity", "x": 241, "y": 346}],
+				"sections": [{"ref": "Sinnoh/Jubilife City/Item Between Buildings"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "jubilifecity", "x": 10, "y": 289}],
+				"sections": [{"ref": "Sinnoh/Jubilife City/Fisherman in West Gate"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "jubilifecity", "x": 894, "y": 417}],
+				"sections": [{"ref": "Sinnoh/Jubilife City/Coupon from East Clown"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "jubilifecity", "x": 255, "y": 216}],
+				"sections": [{"ref": "Sinnoh/Jubilife City/Coupon from Clown in front of Poketch HQ"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "jubilifecity", "x": 609, "y": 219}],
+				"sections": [{"ref": "Sinnoh/Jubilife City/Coupon from Clown in front of Jubilife TV"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "jubilifecity", "x": 752, "y": 425}],
+				"sections": [{"ref": "Sinnoh/Jubilife City/Poketch from CEO"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "jubilifecity", "x": 592, "y": 182}],
+				"sections": [{"ref": "Sinnoh/Jubilife City/Jubilife TV - Mask from Man on 2F"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "jubilifecity", "x": 752, "y": 108}],
+				"sections": [{"ref": "Sinnoh/Jubilife City/Fashion Case from Overalls Man"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "jubilifecity", "x": 657, "y": 492}],
+				"sections": [{"ref": "Sinnoh/Jubilife City/Town Map from Rival"},
+					{"ref": "Sinnoh/Jubilife City/Item in Trainers' School"},
+					{"ref": "Sinnoh/Jubilife City/Item from Trainers' School Students"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "jubilifecity", "x": 288, "y": 182}],
+				"sections": [{"ref": "Sinnoh/Jubilife City/Memo Pad App from CEO"},
+					{"ref": "Sinnoh/Jubilife City/Marking Map App from CEO"},
+					{"ref": "Sinnoh/Jubilife City/Link Searcher App from CEO"},
+					{"ref": "Sinnoh/Jubilife City/Move Tester App from CEO"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "jubilifecity", "x": 655, "y": 744}],
+				"sections": [{"ref": "Sinnoh/Jubilife City/Hidden Item Next to Entrance"}]
+			}
+		]
+	},
+	{
+		"name": "Canalave City",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "canalavecity", "x": 368, "y": 512}],
+				"sections": [{"ref": "Sinnoh/Canalave City/Gift in First House"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "canalavecity", "x": 79, "y": 584}],
+				"sections": [{"ref": "Sinnoh/Canalave City/Hidden Item in Southwest"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "canalavecity", "x": 47, "y": 692}],
+				"sections": [{"ref": "Sinnoh/Canalave City/Item in Trees South of Canal"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "canalavecity", "x": 128, "y": 299}],
+				"sections": [{"ref": "Sinnoh/Canalave City/Event: Beat Canalave Gym"},
+					{"ref": "Sinnoh/Canalave City/Gym - Mine Badge from Byron"},
+					{"ref": "Sinnoh/Canalave City/Gym - TM91 from Byron"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "canalavecity", "x": 96, "y": 143}],
+				"sections": [{"ref": "Sinnoh/Canalave City/Event: Get News about Bombs in Library"}]
+			}
+		]
+	},
+	{
+		"name": "Oreburgh City",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "oreburghcity", "x": 249, "y": 159 }],
+				"sections": [{"ref": "Sinnoh/Oreburgh City/Lass in Northwest Building"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "oreburghcity", "x": 904, "y": 383}],
+				"sections": [{"ref": "Sinnoh/Oreburgh City/Youngster in Southeast Building"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "oreburghcity", "x": 904, "y": 753}],
+				"sections": [{"ref": "Sinnoh/Oreburgh City/Worker by Mine Entrance"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "oreburghcity", "x": 568, "y": 506}],
+				"sections": [{"ref": "Sinnoh/Oreburgh City/Item by Slag Heap 1"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "oreburghcity", "x": 634, "y": 529}],
+				"sections": [{"ref": "Sinnoh/Oreburgh City/Item by Slag Heap 2"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "oreburghcity", "x": 423, "y": 280}],
+				"sections": [{"ref": "Sinnoh/Oreburgh City/Event: Beat Oreburgh Gym"},
+					{"ref": "Sinnoh/Oreburgh City/Gym - Coal Badge from Roark"},
+					{"ref": "Sinnoh/Oreburgh City/Gym - TM76 from Roark"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "oreburghcity", "x": 567, "y": 489}],
+				"sections": [{"ref": "Sinnoh/Oreburgh City/Hidden Item in Slag Heap 1"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "oreburghcity", "x": 617, "y": 512}],
+				"sections": [{"ref": "Sinnoh/Oreburgh City/Hidden Item in Slag Heap 2"}]
+			}
+		]
+	},
+	{
+		"name": "Floaroma Town",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [ {"map": "floaromatown", "x": 185, "y": 174}],
+				"sections": [{"ref": "Sinnoh/Floaroma Town/Girl in Northwest House"}]
+			},
+			{
+				"name": "",
+				"map_locations": [ {"map": "floaromatown", "x": 296, "y": 143}],
+				"sections": [{"ref": "Sinnoh/Floaroma Town/Berry Tree 1"}]
+			},
+			{
+				"name": "",
+				"map_locations": [ {"map": "floaromatown", "x": 360, "y": 143}],
+				"sections": [{"ref": "Sinnoh/Floaroma Town/Berry Tree 2"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "floaromatown", "x": 328, "y": 137}],
+				"sections": [{"ref": "Sinnoh/Floaroma Town/Sprayduck from Flower Shop"},
+					{"ref": "Sinnoh/Floaroma Town/Daily Berry from Flower Shop"}]
+			},
+			{
+				"name": "Pick a Peck of Colors",
+				"map_locations": [{"map": "floaromatown", "x": 328, "y": 70, "size": 30}],
+				"sections": [
+					{"ref": "Sinnoh/Floaroma Flower Shop/Red Flower"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Pink Flower"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/White Flower"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Blue Flower"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Orange Flower"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Yellow Flower"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Googly Specs"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Black Specs"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Gorgeous Specs"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Sweet Candy"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Confetti"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Colored Parasol"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Old Umbrella"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Spotlight"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Cape"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Standing Mike"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Surfboard"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Carpet"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Retro Pipe"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Fluffy Bed"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Mirror Ball"},
+					{"ref": "Sinnoh/Floaroma Flower Shop/Photo Board"}
+				]
+			}
+		]
+	},
+	{
+		"name": "Eterna City",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "eternacity", "x": 281, "y": 262}],
+				"sections": [{"ref": "Sinnoh/Eterna City/Friendship Checker App from Woman in Pokemon Center"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "eternacity", "x": 472, "y": 613}],
+				"sections": [{"ref": "Sinnoh/Eterna City/Item Behind Gym"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "eternacity", "x": 361, "y": 263}],
+				"sections": [{"ref": "Sinnoh/Eterna City/Explorer Kit from Underground Man"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "eternacity", "x": 632, "y": 97}],
+				"sections": [{"ref": "Sinnoh/Eterna City/Item Behind Fence"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "eternacity", "x": 279, "y": 190}],
+				"sections": [{"ref": "Sinnoh/Eterna City/HM01 From Cynthia"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "eternacity", "x": 360, "y": 373}],
+				"sections": [{"ref": "Sinnoh/Eterna City/Bike from Rad Rickshaw"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "eternacity", "x": 392, "y": 653}],
+				"sections": [{"ref": "Sinnoh/Eterna City/Gym - Forest Badge from Gardenia"},
+					{"ref": "Sinnoh/Eterna City/Gym - TM86 from Gardenia"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "eternacity", "x": 441, "y": 485}],
+				"sections": [{"ref": "Sinnoh/Eterna City/Gift from Old Woman in Condominiums"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "eternacity", "x": 168, "y": 657}],
+				"sections": [{"ref": "Sinnoh/Eterna City/Up-Grade from Prof Oak"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "eternacity", "x": 632, "y": 139}],
+				"sections": [{"ref": "Sinnoh/Eterna City/Hidden Item Behind Legendary Statue"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "eternacity", "x": 954, "y": 111}],
+				"sections": [{"ref": "Sinnoh/Eterna City/Hidden Item Above Pond"}]
+			}
+		]
+	},
+	{
+		"name": "Celestic Town",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "celestictown", "x": 393, "y": 386}],
+				"sections": [{"ref": "Sinnoh/Celestic Town/Gift from Man in Pokemon Center"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "celestictown", "x": 41, "y": 103}],
+				"sections": [{"ref": "Sinnoh/Celestic Town/Glasses Man in Shop 1"},
+					{"ref": "Sinnoh/Celestic Town/Glasses Man in Shop 2"},
+					{"ref": "Sinnoh/Celestic Town/Glasses Man in Shop 3"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "celestictown", "x": 104, "y": 387}],
+				"sections": [{"ref": "Sinnoh/Celestic Town/Analog Watch App from Black Belt in House"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "celestictown", "x": 344, "y": 345}],
+				"sections": [{"ref": "Sinnoh/Celestic Town/Item Below Shrine Right Stairs"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "celestictown", "x": 219, "y": 383}],
+				"sections": [{"ref": "Sinnoh/Celestic Town/HM03 from Cynthia's Grandmother"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "celestictown", "x": 155, "y": 224}],
+				"sections": [{"ref": "Sinnoh/Celestic Town/Hidden Item Above Shrine Left Stairs"}]
+			}
+		]
+	},
+	{
+		"name": "Solaceon Town",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "solaceontown", "x": 177, "y": 72}],
+				"sections": [{"ref": "Sinnoh/Solaceon Town/Day Care Checker App from Man After Leaving a Pokemon"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "solaceontown", "x": 255, "y": 252}],
+				"sections": [{"ref": "Sinnoh/Solaceon Town/Pokemon History App from Ruin Maniac"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "solaceontown", "x": 624, "y": 205}],
+				"sections": [{"ref": "Sinnoh/Solaceon Town/Seal Case From Woman in Far East House"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "solaceontown", "x": 672, "y": 291}],
+				"sections": [{"ref": "Sinnoh/Solaceon Town/Item on East Ledges"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "solaceontown", "x": 826, "y": 16}],
+				"sections": [{"ref": "Sinnoh/Solaceon Town/Hidden Item in Northeast Corner"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "solaceontown", "x": 390, "y": 302, "size": 25}],
+				"sections": [{"ref": "Sinnoh/Solaceon Town/Berry Tree 1"},
+					{"ref": "Sinnoh/Solaceon Town/Berry Tree 2"},
+					{"ref": "Sinnoh/Solaceon Town/Berry Tree 3"},
+					{"ref": "Sinnoh/Solaceon Town/Berry Tree 4"}]
+			}
+		]
+	},
+	{
+		"name": "Hearthome City",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "hearthomecity", "x": 743, "y": 360}],
+				"sections": [{"ref": "Sinnoh/Hearthome City/Gift from Woman in Hotel"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "hearthomecity", "x": 504, "y": 123}],
+				"sections": [{"ref": "Sinnoh/Hearthome City/Gift from Keira in Super Contest Hall"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "hearthomecity", "x": 647, "y": 362}],
+				"sections": [{"ref": "Sinnoh/Hearthome City/Poffin Case from Fan Club Chairman"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "hearthomecity", "x": 826, "y": 198}],
+				"sections": [{"ref": "Sinnoh/Hearthome City/Gym - Relic Badge from Fantina"},
+					{"ref": "Sinnoh/Hearthome City/Gym - TM65 from Fantina"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "hearthomecity", "x": 364, "y": 9}],
+				"sections": [{"ref": "Sinnoh/Hearthome City/Hidden Item Behind Northwest Fence"}]
+			}
+		]
+	},
+	{
+		"name": "Snowpoint City",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "snowpointcity", "x": 328, "y": 732}],
+				"sections": [{"ref": "Sinnoh/Snowpoint City/Item Below Crane"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "snowpointcity", "x": 248, "y": 426}],
+				"sections": [{"ref": "Sinnoh/Snowpoint City/Gym - Icicle Badge from Candice"},
+					{"ref": "Sinnoh/Snowpoint City/Gym - TM72 from Candice"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "snowpointcity", "x": 472, "y": 408}],
+				"sections": [{"ref": "Sinnoh/Snowpoint City/Hidden Item Against Trees East of Gym"}]
+			}
+		]
+	},
+	{
+		"name": "Pastoria City",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "pastoriacity", "x": 583, "y": 257}],
+				"sections": [{"ref": "Sinnoh/Pastoria City/Gift from Parasol Lady"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "pastoriacity", "x": 792, "y": 411}],
+				"sections": [{"ref": "Sinnoh/Pastoria City/Item in Trees Above Boats"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "pastoriacity", "x": 216, "y": 375}],
+				"sections": [{"ref": "Sinnoh/Pastoria City/Event: Beat Pastoria Gym"},
+					{"ref": "Sinnoh/Pastoria City/Gym - Fen Badge from Crasher Wake"},
+					{"ref": "Sinnoh/Pastoria City/Gym - TM55 from Crasher Wake"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "pastoriacity", "x": 119, "y": 759}],
+				"sections": [{"ref": "Sinnoh/Pastoria City/Hidden Item in Southwest Puddle"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "pastoriacity", "x": 542, "y": 397, "size": 25}],
+				"sections": [{"ref": "Sinnoh/Pastoria City/Berry Tree 1"},
+					{"ref": "Sinnoh/Pastoria City/Berry Tree 2"},
+					{"ref": "Sinnoh/Pastoria City/Berry Tree 3"},
+					{"ref": "Sinnoh/Pastoria City/Berry Tree 4"}]
+			}
+		]
+	},
+	{
+		"name": "Sunyshore City",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "sunyshorecity", "x": 793, "y": 566}],
+				"sections": [{"ref": "Sinnoh/Sunyshore City/Item Down Stairs Behind Vista Lighthouse"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "sunyshorecity", "x": 903, "y": 426}],
+				"sections": [{"ref": "Sinnoh/Sunyshore City/Calendar App From Developer"},
+					{"ref": "Sinnoh/Sunyshore City/Dot Artist App From Developer"},
+					{"ref": "Sinnoh/Sunyshore City/Roulette App From Developer"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "sunyshorecity", "x": 217, "y": 117}],
+				"sections": [{"ref": "Sinnoh/Sunyshore City/Gym - Beacon Badge from Volkner"},
+					{"ref": "Sinnoh/Sunyshore City/Gym - TM57 from Volkner"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "sunyshorecity", "x": 407, "y": 91}],
+				"sections": [{"ref": "Sinnoh/Sunyshore City/HM07 from Jasmine"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "sunyshorecity", "x": 380, "y": 311}],
+				"sections": [{"ref": "Sinnoh/Sunyshore City/Hidden Item Between Sunyshore Market and Blank Sign"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "sunyshorecity", "x": 923, "y": 689}],
+				"sections": [{"ref": "Sinnoh/Sunyshore City/Hidden Item in Front of Vista Lighthouse"}]
+			}
+		]
+	},
+	{
+		"name": "Pokemon League",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "pokemonleague", "x": 168, "y": 612}],
+				"sections": [{"ref": "Sinnoh/Pokemon League/Hidden Item Below Southwest Poke Ball Statue"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "pokemonleague", "x": 249, "y": 186}],
+				"sections": [{"ref": "Sinnoh/Pokemon League/Event: Become Champion"}]
+			}
+		]
+	},
+	{
+		"name": "Veilstone City",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "veilstonecity", "x": 343, "y": 155}],
+				"sections": [{"ref": "Sinnoh/Veilstone City/Item Between Galactic Warehouses"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "veilstonecity", "x": 392, "y": 611}],
+				"sections": [{"ref": "Sinnoh/Veilstone City/Coin Case from Clown in House"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "veilstonecity", "x": 616, "y": 109}],
+				"sections": [{"ref": "Sinnoh/Veilstone City/Item Next to Galactic Building"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "veilstonecity", "x": 264, "y": 628}],
+				"sections": [{"ref": "Sinnoh/Veilstone City/TM63 from Roughneck Near Gym"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "veilstonecity", "x": 296, "y": 489}],
+				"sections": [{"ref": "Sinnoh/Veilstone City/Item on Rock Climb Platform"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "veilstonecity", "x": 200, "y": 462}],
+				"sections": [{"ref": "Sinnoh/Veilstone City/Event: Beat Veilstone Gym"},
+					{"ref": "Sinnoh/Veilstone City/Gym - Cobble Badge from Maylene"},
+					{"ref": "Sinnoh/Veilstone City/Gym - TM60 from Maylene"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "veilstonecity", "x": 472, "y": 366}],
+				"sections": [{"ref": "Sinnoh/Veilstone City/Dept. Store - Counter App from Department Store 2F"},
+					{"ref": "Sinnoh/Veilstone City/Dept. Store - Buy TM70 from Department Store"},
+					{"ref": "Sinnoh/Veilstone City/Dept. Store - Gift from Two Buff Guys Standing Side By Side"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "veilstonecity", "x": 262, "y": 242}],
+				"sections": [{"ref": "Sinnoh/Veilstone City/Hidden Item in Corner of Galactic Warehouses"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "veilstonecity", "x": 422, "y": 326}],
+				"sections": [{"ref": "Sinnoh/Veilstone City/Hidden Item Between Trees and Dept. Store"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "veilstonecity", "x": 969, "y": 744}],
+				"sections": [{"ref": "Sinnoh/Veilstone City/Hidden Item in Pit With Two Meteorites"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "veilstonecity", "x": 726, "y": 213}],
+				"sections": [{"ref": "Sinnoh/Veilstone City/Event: Looker Takes Storage Key"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "veilstonecity", "x": 392, "y": 285}],
+				"sections": [{"ref": "Sinnoh/Veilstone City/Event: Defeated Grunts Blocking Galactic Warehouse"}]
+			}
+		]
+	},
+	{
+		"name": "Fight Area",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "fightarea", "x": 840, "y": 157}],
+				"sections": [{"ref": "Sinnoh/Fight Area/Gift from Woman in Poke Mart"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "fightarea", "x": 328, "y": 89}],
+				"sections": [{"ref": "Sinnoh/Fight Area/Super Rod from Fisherman"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "fightarea", "x": 527, "y": 166, "size": 25}],
+				"sections": [{"ref": "Sinnoh/Fight Area/Berry Tree 1"},
+					{"ref": "Sinnoh/Fight Area/Berry Tree 2"},
+					{"ref": "Sinnoh/Fight Area/Berry Tree 3"},
+					{"ref": "Sinnoh/Fight Area/Berry Tree 4"}]
+			}
+		]
+	},
+	{
+		"name": "Survival Area",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "survivalarea", "x": 362, "y": 265}],
+				"sections": [{"ref": "Sinnoh/Survival Area/Item Behind Poke Mart"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "survivalarea", "x": 248, "y": 411}],
+				"sections": [{"ref": "Sinnoh/Survival Area/Gift from Man in Southern House"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "survivalarea", "x": 149, "y": 89}],
+				"sections": [{"ref": "Sinnoh/Survival Area/Item to Left of Move Tutor's House"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "survivalarea", "x": 155, "y": 394}],
+				"sections": [{"ref": "Sinnoh/Survival Area/Hidden Item in Corner of Southwest Trees"}]
+			}
+		]
+	},
+	{
+		"name": "Resort Area",
+		"children": [
+			{
+				"name": "",
+				"map_locations": [{"map": "resortarea", "x": 248, "y": 210}],
+				"sections": [{"ref": "Sinnoh/Resort Area/Item Across Pond"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "resortarea", "x": 361, "y": 326}],
+				"sections": [{"ref": "Sinnoh/Resort Area/Hidden Item in Front of Villa"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "resortarea", "x": 272, "y": 277, "size": 20}],
+				"sections": [{"ref": "Sinnoh/Resort Area/Berry Tree 2"},
+					{"ref": "Sinnoh/Resort Area/Berry Tree 3"}]
+			},
+			{
+				"name": "",
+				"map_locations": [{"map": "resortarea", "x": 449, "y": 277, "size": 20}],
+				"sections": [{"ref": "Sinnoh/Resort Area/Berry Tree 4"},
+					{"ref": "Sinnoh/Resort Area/Berry Tree 1"}]
+			}
+		]
+	}
+]

@@ -1,0 +1,1576 @@
+[
+	{
+		"name": "Coal Badge",
+		"type": "toggle",
+		"img": "/images/Items/CoalBadge.png",
+		"codes": "CoalBadge"
+	},
+	{
+		"name": "Forest Badge",
+		"type": "toggle",
+		"img": "/images/Items/ForestBadge.png",
+		"codes": "ForestBadge"
+	},
+	{
+		"name": "Cobble Badge",
+		"type": "toggle",
+		"img": "/images/Items/CobbleBadge.png",
+		"codes": "CobbleBadge"
+	},
+	{
+		"name": "Fen Badge",
+		"type": "toggle",
+		"img": "/images/Items/FenBadge.png",
+		"codes": "FenBadge"
+	},
+	{
+		"name": "Relic Badge",
+		"type": "toggle",
+		"img": "/images/Items/RelicBadge.png",
+		"codes": "RelicBadge"
+	},
+	{
+		"name": "Mine Badge",
+		"type": "toggle",
+		"img": "/images/Items/MineBadge.png",
+		"codes": "MineBadge"
+	},
+	{
+		"name": "Icicle Badge",
+		"type": "toggle",
+		"img": "/images/Items/IcicleBadge.png",
+		"codes": "IcicleBadge"
+	},
+	{
+		"name": "Beacon Badge",
+		"type": "toggle",
+		"img": "/images/Items/BeaconBadge.png",
+		"codes": "BeaconBadge"
+	},
+
+	{
+		"name": "Bicycle",
+		"type": "toggle",
+		"img": "/images/Items/Bicycle.png",
+		"codes": "Bicycle"
+	},
+
+	{
+		"name": "Dawn's Running Shoes",
+		"type": "toggle",
+		"img": "/images/Items/DawnRunningShoes.png",
+		"codes": "DShoes"
+	},
+	{
+		"name": "Dawn's Bag",
+		"type": "toggle",
+		"img": "/images/Items/DawnBag.png",
+		"codes": "DBag"
+	},
+
+	{
+		"name": "Lucas' Running Shoes",
+		"type": "toggle",
+		"img": "/images/Items/LucasRunningShoes.png",
+		"codes": "LShoes"
+	},
+	{
+		"name": "Lucas' Bag",
+		"type": "toggle",
+		"img": "/images/Items/LucasBag.png",
+		"codes": "LBag"
+	},
+	
+	{
+		"name": "Good Rod",
+		"type": "toggle",
+		"img": "/images/Items/GoodRod.png",
+		"codes": "GoodRod"
+	},
+	
+	{
+		"name": "Unown Files",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "0 Unown Files",
+				"img": "/images/Items/UnownFilesDim.png",
+				"img_mods": "@disabled",
+				"inherit_codes": false,
+				"codes": "Unnown0"
+			},
+			{
+				"name": "1 Unown File",
+				"img": "/images/Items/UnownFiles01.png",
+				"inherit_codes": false,
+				"codes": "Unnown1"
+			},
+			{
+				"name": "2 Unown Files",
+				"img": "/images/Items/UnownFiles02.png",
+				"inherit_codes": false,
+				"codes": "Unnown2"
+			},
+			{
+				"name": "3 Unown Files",
+				"img": "/images/Items/UnownFiles03.png",
+				"inherit_codes": false,
+				"codes": "Unnown3"
+			},
+			{
+				"name": "4 Unown Files",
+				"img": "/images/Items/UnownFiles04.png",
+				"inherit_codes": false,
+				"codes": "Unnown4"
+			},
+			{
+				"name": "5 Unown Files",
+				"img": "/images/Items/UnownFiles05.png",
+				"inherit_codes": false,
+				"codes": "Unnown5"
+			},
+			{
+				"name": "6 Unown Files",
+				"img": "/images/Items/UnownFiles06.png",
+				"inherit_codes": false,
+				"codes": "Unnown6"
+			},
+			{
+				"name": "7 Unown Files",
+				"img": "/images/Items/UnownFiles07.png",
+				"inherit_codes": false,
+				"codes": "Unnown7"
+			},
+			{
+				"name": "8 Unown Files",
+				"img": "/images/Items/UnownFiles08.png",
+				"inherit_codes": false,
+				"codes": "Unnown8"
+			},
+			{
+				"name": "9 Unown Files",
+				"img": "/images/Items/UnownFiles09.png",
+				"inherit_codes": false,
+				"codes": "Unnown9"
+			},
+			{
+				"name": "10 Unown Files",
+				"img": "/images/Items/UnownFiles10.png",
+				"inherit_codes": false,
+				"codes": "Unnown10"
+			},
+			{
+				"name": "11 Unown Files",
+				"img": "/images/Items/UnownFiles11.png",
+				"inherit_codes": false,
+				"codes": "Unnown1"
+			},
+			{
+				"name": "12 Unown Files",
+				"img": "/images/Items/UnownFiles12.png",
+				"inherit_codes": false,
+				"codes": "Unnown12"
+			},
+			{
+				"name": "13 Unown Files",
+				"img": "/images/Items/UnownFiles13.png",
+				"inherit_codes": false,
+				"codes": "Unnown13"
+			},
+			{
+				"name": "14 Unown Files",
+				"img": "/images/Items/UnownFiles14.png",
+				"inherit_codes": false,
+				"codes": "Unnown14"
+			},
+			{
+				"name": "15 Unown Files",
+				"img": "/images/Items/UnownFiles15.png",
+				"inherit_codes": false,
+				"codes": "Unnown15"
+			},
+			{
+				"name": "16 Unown Files",
+				"img": "/images/Items/UnownFiles16.png",
+				"inherit_codes": false,
+				"codes": "Unnown16"
+			},
+			{
+				"name": "17 Unown Files",
+				"img": "/images/Items/UnownFiles17.png",
+				"inherit_codes": false,
+				"codes": "Unnown17"
+			},
+			{
+				"name": "18 Unown Files",
+				"img": "/images/Items/UnownFiles18.png",
+				"inherit_codes": false,
+				"codes": "Unnown18"
+			},
+			{
+				"name": "19 Unown Files",
+				"img": "/images/Items/UnownFiles19.png",
+				"inherit_codes": false,
+				"codes": "Unnown19"
+			},
+			{
+				"name": "20 Unown Files",
+				"img": "/images/Items/UnownFiles20.png",
+				"inherit_codes": false,
+				"codes": "Unnown20"
+			},
+			{
+				"name": "21 Unown Files",
+				"img": "/images/Items/UnownFiles21.png",
+				"inherit_codes": false,
+				"codes": "Unnown21"
+			},
+			{
+				"name": "22 Unown Files",
+				"img": "/images/Items/UnownFiles22.png",
+				"inherit_codes": false,
+				"codes": "Unnown22"
+			},
+			{
+				"name": "23 Unown Files",
+				"img": "/images/Items/UnownFiles23.png",
+				"inherit_codes": false,
+				"codes": "Unnown23"
+			},
+			{
+				"name": "24 Unown Files",
+				"img": "/images/Items/UnownFiles24.png",
+				"inherit_codes": false,
+				"codes": "Unnown24"
+			},
+			{
+				"name": "25 Unown Files",
+				"img": "/images/Items/UnownFiles25.png",
+				"inherit_codes": false,
+				"codes": "Unnown25"
+			},
+			{
+				"name": "26 Unown Files",
+				"img": "/images/Items/UnownFiles26.png",
+				"inherit_codes": false,
+				"codes": "Unnown26 Yellow"
+			},
+			{
+				"name": "27 Unown Files",
+				"img": "/images/Items/UnownFiles27.png",
+				"inherit_codes": false,
+				"codes": "Unnown27 Yellow"
+			},
+			{
+				"name": "28 Spelon Berries",
+				"img": "/images/Items/UnownFiles28 Yellow.png",
+				"inherit_codes": false,
+				"codes": "Unnown28"
+			}
+		],
+		"codes": "UnownFiles"
+	},
+
+	{
+		"name": "Old Rod",
+		"type": "toggle",
+		"img": "/images/Items/OldRod.png",
+		"codes": "OldRod"
+	},
+	
+	{
+		"name": "Super Rod",
+		"type": "toggle",
+		"img": "/images/Items/SuperRod.png",
+		"codes": "SuperRod"
+	},
+	
+	{
+		"name": "Secret Potion",
+		"type": "toggle",
+		"img": "/images/Items/SecretPotion.png",
+		"codes": "SecretPotion"
+	},
+	
+	{
+		"name": "Coupon 1",
+		"type": "toggle",
+		"img": "/images/Items/coupon1.png",
+		"codes": "Coupon1"
+	},
+	
+	{
+		"name": "Coupon 2",
+		"type": "toggle",
+		"img": "/images/Items/coupon2.png",
+		"codes": "Coupon2"
+	},
+	
+	{
+		"name": "Coupon 3",
+		"type": "toggle",
+		"img": "/images/Items/coupon3.png",
+		"codes": "Coupon3"
+	},
+	
+	{
+		"name": "Galactic Key",
+		"type": "toggle",
+		"img": "/images/Items/galactickey.png",
+		"codes": "GalacticKey"
+	},
+	
+	{
+		"name": "Poke Radar",
+		"type": "toggle",
+		"img": "/images/Items/PokeRadar.png",
+		"codes": "PokeRadar"
+	},
+	
+	{
+		"name": "Spray duck",
+		"type": "toggle",
+		"img": "/images/Items/sprayduck.png",
+		"codes": "Sprayduck"
+	},
+	
+	{
+		"name": "Suite Key",
+		"type": "toggle",
+		"img": "/images/Items/suitekey.png",
+		"codes": "SuiteKey"
+	},
+	
+	{
+		"name": "Vs.Seeker",
+		"type": "toggle",
+		"img": "/images/Items/vs-seeker.png",
+		"codes": "Vs.Seeker"
+	},
+	
+	{
+		"name": "Works Key",
+		"type": "toggle",
+		"img": "/images/Items/workskey.png",
+		"codes": "WorksKey"
+	},
+	
+	{
+		"name": "Secret Key",
+		"type": "toggle",
+		"img": "/images/Items/secretkey.png",
+		"codes": "SecretKey"
+	},
+	
+	{
+		"name": "Exp.Share",
+		"type": "toggle",
+		"img": "/images/Items/expshare.png",
+		"codes": "ExpShare"
+	},
+	
+	{
+		"name": "Fist Plate",
+		"type": "toggle",
+		"img": "/images/Items/fist.png",
+		"codes": "FistPlate"
+	},
+	
+	{
+		"name": "Sky Plate",
+		"type": "toggle",
+		"img": "/images/Items/sky.png",
+		"codes": "SkyPlate"
+	},
+	
+	{
+		"name": "Toxic Plate",
+		"type": "toggle",
+		"img": "/images/Items/toxic.png",
+		"codes": "ToxicPlate"
+	},
+	
+	{
+		"name": "Earth Plate",
+		"type": "toggle",
+		"img": "/images/Items/earth.png",
+		"codes": "EarthPlate"
+	},
+	
+	{
+		"name": "Stone Plate",
+		"type": "toggle",
+		"img": "/images/Items/stone.png",
+		"codes": "StonePlate"
+	},
+	
+	{
+		"name": "Insect Plate",
+		"type": "toggle",
+		"img": "/images/Items/insect.png",
+		"codes": "InsectPlate"
+	},
+	
+	{
+		"name": "Spooky Plate",
+		"type": "toggle",
+		"img": "/images/Items/spooky.png",
+		"codes": "SpookyPlate"
+	},
+	
+	{
+		"name": "Iron Plate",
+		"type": "toggle",
+		"img": "/images/Items/iron.png",
+		"codes": "IronPlate"
+	},
+	
+	{
+		"name": "Zap Plate",
+		"type": "toggle",
+		"img": "/images/Items/zap.png",
+		"codes": "ZapPlate"
+	},
+	
+	{
+		"name": "Flame Plate",
+		"type": "toggle",
+		"img": "/images/Items/flame.png",
+		"codes": "FlamePlate"
+	},
+	
+	{
+		"name": "Splash Plate",
+		"type": "toggle",
+		"img": "/images/Items/splash.png",
+		"codes": "SplashPlate"
+	},
+	
+	{
+		"name": "Meadow Plate",
+		"type": "toggle",
+		"img": "/images/Items/meadow.png",
+		"codes": "MeadowPlate"
+	},
+	
+	{
+		"name": "Mind Plate",
+		"type": "toggle",
+		"img": "/images/Items/mind.png",
+		"codes": "MindPlate"
+	},
+	
+	{
+		"name": "Icicle Plate",
+		"type": "toggle",
+		"img": "/images/Items/icicle.png",
+		"codes": "IciclePlate"
+	},
+	
+	{
+		"name": "Draco Plate",
+		"type": "toggle",
+		"img": "/images/Items/draco.png",
+		"codes": "DracoPlate"
+	},
+	
+	{
+		"name": "Dread Plate",
+		"type": "toggle",
+		"img": "/images/Items/dread.png",
+		"codes": "DreadPlate"
+	},
+	
+	{
+		"name": "TM70 - Flash",
+		"type": "toggle",
+		"img": "/images/Items/Flash.png",
+		"codes": "TM70-Flash"
+	},
+	
+	{
+		"name": "HM01 - Cut",
+		"type": "toggle",
+		"img": "/images/Items/Cut.png",
+		"codes": "HM01Cut"
+	},
+	
+	{
+		"name": "HM02 - Fly",
+		"type": "toggle",
+		"img": "/images/Items/Fly.png",
+		"codes": "HM02Fly"
+	},
+	
+	{
+		"name": "HM03 - Surf",
+		"type": "toggle",
+		"img": "/images/Items/Surf.png",
+		"codes": "HM03Surf"
+	},
+	
+	{
+		"name": "HM04 - Strength",
+		"type": "toggle",
+		"img": "/images/Items/Strength.png",
+		"codes": "HM04Strength"
+	},
+	
+	{
+		"name": "HM05 - Defog",
+		"type": "toggle",
+		"img": "/images/Items/Defog.png",
+		"codes": "HM05Defog"
+	},
+	
+	{
+		"name": "HM06 - Rock Smash",
+		"type": "toggle",
+		"img": "/images/Items/RockSmash.png",
+		"codes": "HM06RockSmash"
+	},
+	
+	{
+		"name": "HM07 - Waterfall",
+		"type": "toggle",
+		"img": "/images/Items/Waterfall.png",
+		"codes": "HM07Waterfall"
+	},
+	
+	{
+		"name": "HM08 - Rock Climb",
+		"type": "toggle",
+		"img": "/images/Items/RockClimb.png",
+		"codes": "HM08RockClimb"
+	},
+	
+	{
+		"name": "Parcel",
+		"type": "toggle",
+		"img": "/images/Items/parcel.png",
+		"codes": "Parcel"
+	},
+	
+	{
+		"name": "Poketch",
+		"type": "toggle",
+		"img": "/images/Items/poketch.png",
+		"codes": "Poketch"
+	},
+	
+	{
+		"name": "Digital Watch App",
+		"type": "toggle",
+		"img": "/images/Items/DigitalWatch.png",
+		"codes": "DigitalWatchApp"
+	},
+	
+	{
+		"name": "Calculator App",
+		"type": "toggle",
+		"img": "/images/Items/Calculator.png",
+		"codes": "CalculatorApp"
+	},
+	
+	{
+		"name": "MemoPad App",
+		"type": "toggle",
+		"img": "/images/Items/MemoPad.png",
+		"codes": "MemoPadApp"
+	},
+	
+	{
+		"name": "Pedometer App",
+		"type": "toggle",
+		"img": "/images/Items/Pedometer.png",
+		"codes": "PedometerApp"
+	},
+	
+	{
+		"name": "Pokemon List App",
+		"type": "toggle",
+		"img": "/images/Items/PokemonList.png",
+		"codes": "PokemonListApp"
+	},
+	
+	{
+		"name": "Friendship Checker App",
+		"type": "toggle",
+		"img": "/images/Items/FriendshipChecker.png",
+		"codes": "FriendshipCheckerApp"
+	},
+	
+	{
+		"name": "Dowsing Machine App",
+		"type": "toggle",
+		"img": "/images/Items/DowsingApp.png",
+		"codes": "DowsingMachineApp"
+	},
+	
+	{
+		"name": "Berry Searcher App",
+		"type": "toggle",
+		"img": "/images/Items/BerrySearcher.png",
+		"codes": "BerrySearcherApp"
+	},
+	
+	{
+		"name": "Day-Care Checker App",
+		"type": "toggle",
+		"img": "/images/Items/DayCareChecker.png",
+		"codes": "Day-CareCheckerApp"
+	},
+	
+	{
+		"name": "Pokemon History App",
+		"type": "toggle",
+		"img": "/images/Items/PokemonHistory.png",
+		"codes": "PokemonHistoryApp"
+	},
+	
+	{
+		"name": "Counter App",
+		"type": "toggle",
+		"img": "/images/Items/Counter.png",
+		"codes": "CounterApp"
+	},
+	
+	{
+		"name": "Analog Watch App",
+		"type": "toggle",
+		"img": "/images/Items/AnalogWatch.png",
+		"codes": "AnalogWatchApp"
+	},
+	
+	{
+		"name": "Marking Map App",
+		"type": "toggle",
+		"img": "/images/Items/MarkingMap.png",
+		"codes": "MarkingMapApp"
+	},
+	
+	{
+		"name": "Link Searcher App",
+		"type": "toggle",
+		"img": "/images/Items/LinkSearcher.png",
+		"codes": "LinkSearcherApp"
+	},
+	
+	{
+		"name": "Coin Toss App",
+		"type": "toggle",
+		"img": "/images/Items/CoinToss.png",
+		"codes": "CoinTossApp"
+	},
+	
+	{
+		"name": "Move Tester App",
+		"type": "toggle",
+		"img": "/images/Items/MoveTester.png",
+		"codes": "MoveTesterApp"
+	},
+	
+	{
+		"name": "Calendar App",
+		"type": "toggle",
+		"img": "/images/Items/Calendar.png",
+		"codes": "CalendarApp"
+	},
+	
+	{
+		"name": "Dot Artist App",
+		"type": "toggle",
+		"img": "/images/Items/DotArtist.png",
+		"codes": "DotArtistApp"
+	},
+	
+	{
+		"name": "Roulette App",
+		"type": "toggle",
+		"img": "/images/Items/Roulette.png",
+		"codes": "RouletteApp"
+	},
+	
+	{
+		"name": "Chain Counter App",
+		"type": "toggle",
+		"img": "/images/Items/ChainCounter.png",
+		"codes": "ChainCounterApp"
+	},
+	
+	{
+		"name": "Kitchen Timer App",
+		"type": "toggle",
+		"img": "/images/Items/KitchenTimer.png",
+		"codes": "KitchenTimerApp"
+	},
+	
+	{
+		"name": "Color Changer App",
+		"type": "toggle",
+		"img": "/images/Items/ColorChanger.png",
+		"codes": "ColorChangerApp"
+	},
+	
+	{
+		"name": "Matchup Checker App",
+		"type": "toggle",
+		"img": "/images/Items/MatchupChecker.png",
+		"codes": "MatchupCheckerApp"
+	},
+	
+	{
+		"name": "Stopwatch App",
+		"type": "toggle",
+		"img": "/images/Items/Stopwatch.png",
+		"codes": "StopwatchApp"
+	},
+	
+	{
+		"name": "Alarm Clock App",
+		"type": "toggle",
+		"img": "/images/Items/AlarmClock.png",
+		"codes": "AlarmClockApp"
+	},
+	
+	{
+		"name": "Progressive Pokedex",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": true,
+		"stages": [
+			{
+				"name": "Pokédex - Simple",
+				"img": "/images/Items/SimpleDex.png",
+				"inherit_codes": false,
+				"codes": "ProgDex1"
+			},
+			{
+				"name": "Pokédex - Forms",
+				"img": "/images/Items/FormsDex.png",
+				"inherit_codes": false,
+				"codes": "ProgDex2"
+			},
+			{
+				"name": "Pokédex - National",
+				"img": "/images/Items/NationalDex.png",
+				"inherit_codes": false,
+				"codes": "ProgDex3"
+			}
+		],
+		"codes": "ProgressivePokedex"
+	},
+	
+	{
+		"name": "Snorlax",
+		"type": "toggle",
+		"img": "/images/Items/snorlax.png",
+		"codes": "Snorlax"
+	},
+	
+	{
+		"name": "Kecleon",
+		"type": "toggle",
+		"img": "/images/Items/kek.png",
+		"codes": "Kecleon"
+	},
+	
+	{
+		"name": "Pachirisu",
+		"type": "toggle",
+		"img": "/images/Items/pachirisu.png",
+		"codes": "Pachirisu"
+	},
+                    
+                    {
+		"name": "S.S. Ticket",
+		"type": "toggle",
+		"img": "/images/Items/SSTicket.png",
+		"codes": "S.S.Ticket"
+	},
+
+	{
+		"name": "Azure Flute",
+		"type": "toggle",
+		"img": "/images/Items/azureflute.png",
+		"codes": "azureflute"
+	},
+
+	{
+		"name": "Oak's Letter",
+		"type": "toggle",
+		"img": "/images/Items/oaksletter.png",
+		"codes": "oaksletter"
+	},
+
+	{
+		"name": "Member Card",
+		"type": "toggle",
+		"img": "/images/Items/membercard.png",
+		"codes": "membercard"
+	},
+	
+	{
+		"name": "Old Charm",
+		"type": "toggle",
+		"img": "/images/Items/OldCharm.png",
+		"codes": "OldCharm"
+	},
+
+	{
+		"name": "Storage Key",
+		"type": "toggle",
+		"img": "/images/Items/StorageKey.png",
+		"codes": "StorageKey"
+	},
+
+	{
+		"name": "Marsh Pass",
+		"type": "toggle",
+		"img": "/images/Items/MarshPass.png",
+		"codes": "MarshPass"
+	},
+
+	{
+		"name": "Event: Beat Oreburgh Gym",
+		"type": "toggle",
+		"img": "images/Items/Roark.png",
+		"codes": "event_oreburgh"
+	},
+	{
+		"name": "Event: Beat Veilstone Gym",
+		"type": "toggle",
+		"img": "images/Items/Maylene.png",
+		"codes": "event_veilstone"
+	},
+	{
+		"name": "Event: Beat Pastoria Gym",
+		"type": "toggle",
+		"img": "images/Items/Wake.png",
+		"codes": "event_pastoria"
+	},
+	{
+		"name": "Event: Beat Canalave Gym",
+		"type": "toggle",
+		"img": "images/Items/Byron.png",
+		"codes": "event_canalave"
+	},
+	{
+		"name": "Event: Defeat Saturn at Lake Valor",
+		"type": "toggle",
+		"img": "images/Items/Saturn.png",
+		"codes": "event_saturn"
+	},
+	{
+		"name": "Event: Defeat Mars at Lake Verity",
+		"type": "toggle",
+		"img": "images/Items/Mars.png",
+		"codes": "event_mars"
+	},
+	{
+		"name": "Event: Meet Jupiter at Lake Acuity",
+		"type": "toggle",
+		"img": "images/Items/Jupiter.png",
+		"codes": "event_jupiter"
+	},
+	{
+		"name": "Event: Defeated Grunts Blocking Galactic Warehouse",
+		"type": "toggle",
+		"img": "images/Items/Grunt.png",
+		"codes": "event_warehouse"
+	},
+	{
+		"name": "Event: Looker Takes Storage Key",
+		"type": "toggle",
+		"img": "images/Items/LookerStorageKey.png",
+		"codes": "event_galactichq"
+	},
+	{
+		"name": "Event: Release Guardians from Galactic HQ",
+		"type": "toggle",
+		"img": "images/Items/Guardians.png",
+		"codes": "event_guardians"
+	},
+	{
+		"name": "Event: Clear Distortion World",
+		"type": "toggle",
+		"img": "images/Items/Giratina.png",
+		"codes": "event_distortion"
+	},
+	{
+		"name": "Event Toggle",
+		"type": "toggle",
+		"img": "images/Items/GalacticEvents.png",
+		"initial_active_state": true,
+		"codes": "event_toggle"
+	},
+	{
+		"name": "Event: Talk to Oak in PalPark",
+		"type": "toggle",
+		"img": "images/Items/Oak.png",
+		"codes": "event_palpark"
+	},
+	{
+		"name": "Event: Become Champion",
+		"type": "toggle",
+		"img": "images/Items/Cynthia.png",
+		"codes": "event_cynthia"
+	},
+	{
+		"name": "Event: Get News about Bombs in Library",
+		"type": "toggle",
+		"img": "images/Items/tvon.png",
+		"codes": "event_bombs"
+	},
+	{
+		"name": "Event: Defeat Arceus in Hall of Origin",
+		"type": "toggle",
+		"img": "images/Items/Arceus.png",
+		"codes": "event_arceus"
+	},
+	{
+		"name": "Cheri Berry",
+		"type": "toggle",
+		"img": "images/Items/cheri.png",
+		"codes": "CheriBerry"
+	},
+	{
+		"name": "Chesto Berry",
+		"type": "toggle",
+		"img": "images/Items/Chesto.png",
+		"codes": "ChestoBerry"
+	},
+	{
+		"name": "Pecha Berry",
+		"type": "toggle",
+		"img": "images/Items/Pecha.png",
+		"codes": "PechaBerry"
+	},
+	{
+		"name": "Oran Berry",
+		"type": "toggle",
+		"img": "images/Items/Oran.png",
+		"codes": "OranBerry"
+	},
+	{
+		"name": "Rawst Berry",
+		"type": "toggle",
+		"img": "images/Items/Rawst.png",
+		"codes": "RawstBerry"
+	},
+	{
+		"name": "Aspear Berry",
+		"type": "toggle",
+		"img": "images/Items/Aspear.png",
+		"codes": "AspearBerry"
+	},
+	{
+		"name": "Leppa Berry",
+		"type": "toggle",
+		"img": "images/Items/Leppa.png",
+		"codes": "LeppaBerry"
+	},
+	{
+		"name": "Persim Berry",
+		"type": "toggle",
+		"img": "images/Items/Persim.png",
+		"codes": "PersimBerry"
+	},
+	{
+		"name": "Razz Berry",
+		"type": "toggle",
+		"img": "images/Items/Razz.png",
+		"codes": "RazzBerry"
+	},
+	{
+		"name": "Bluk Berry",
+		"type": "toggle",
+		"img": "images/Items/Bluk.png",
+		"codes": "BlukBerry"
+	},
+	{
+		"name": "Nanab Berry",
+		"type": "toggle",
+		"img": "images/Items/Nanab.png",
+		"codes": "NanabBerry"
+	},
+	{
+		"name": "Wepear Berry",
+		"type": "toggle",
+		"img": "images/Items/Wepear.png",
+		"codes": "WepearBerry"
+	},
+	{
+		"name": "Pinap Berry",
+		"type": "toggle",
+		"img": "images/Items/Pinap.png",
+		"codes": "PinapBerry"
+	},
+	
+	{
+		"name": "Cornn Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "0 Cornn Berries",
+				"img": "/images/Items/cornn0.png",
+				"inherit_codes": false,
+				"codes": "Cornn0"
+			},
+			{
+				"name": "1 Cornn Berry",
+				"img": "/images/Items/cornn1.png",
+				"inherit_codes": false,
+				"codes": "Cornn1"
+			},
+			{
+				"name": "2 Cornn Berries",
+				"img": "/images/Items/cornn2.png",
+				"inherit_codes": false,
+				"codes": "Cornn2"
+			},
+			{
+				"name": "3 Cornn Berries",
+				"img": "/images/Items/cornn3.png",
+				"inherit_codes": false,
+				"codes": "Cornn3"
+			},
+			{
+				"name": "4 Cornn Berries",
+				"img": "/images/Items/cornn4.png",
+				"inherit_codes": false,
+				"codes": "Cornn4"
+			},
+			{
+				"name": "5 Cornn Berries",
+				"img": "/images/Items/cornn5.png",
+				"inherit_codes": false,
+				"codes": "Cornn5"
+			}
+		],
+		"codes": "CornnBerries"
+	},
+	
+	{
+		"name": "Pamtre Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "0 Pamtre Berries",
+				"img": "/images/Items/pamtre00.png",
+				"inherit_codes": false,
+				"codes": "Pamtre0"
+			},
+			{
+				"name": "1 Pamtre Berry",
+				"img": "/images/Items/pamtre01.png",
+				"inherit_codes": false,
+				"codes": "Pamtre1"
+			},
+			{
+				"name": "2 Pamtre Berries",
+				"img": "/images/Items/pamtre02.png",
+				"inherit_codes": false,
+				"codes": "Pamtre2"
+			},
+			{
+				"name": "3 Pamtre Berries",
+				"img": "/images/Items/pamtre03.png",
+				"inherit_codes": false,
+				"codes": "Pamtre3"
+			},
+			{
+				"name": "4 Pamtre Berries",
+				"img": "/images/Items/pamtre04.png",
+				"inherit_codes": false,
+				"codes": "Pamtre4"
+			},
+			{
+				"name": "5 Pamtre Berries",
+				"img": "/images/Items/pamtre05.png",
+				"inherit_codes": false,
+				"codes": "Pamtre5"
+			},
+			{
+				"name": "6 Pamtre Berries",
+				"img": "/images/Items/pamtre06.png",
+				"inherit_codes": false,
+				"codes": "Pamtre6"
+			},
+			{
+				"name": "7 Pamtre Berries",
+				"img": "/images/Items/pamtre07.png",
+				"inherit_codes": false,
+				"codes": "Pamtre7"
+			},
+			{
+				"name": "8 Pamtre Berries",
+				"img": "/images/Items/pamtre08.png",
+				"inherit_codes": false,
+				"codes": "Pamtre8"
+			},
+			{
+				"name": "9 Pamtre Berries",
+				"img": "/images/Items/pamtre09.png",
+				"inherit_codes": false,
+				"codes": "Pamtre9"
+			},
+			{
+				"name": "10 Pamtre Berries",
+				"img": "/images/Items/pamtre10.png",
+				"inherit_codes": false,
+				"codes": "Pamtre10"
+			}
+		],
+		"codes": "PamtreBerries"
+	},
+	
+	{
+		"name": "Magost Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "0 Magost Berries",
+				"img": "/images/Items/magost0.png",
+				"inherit_codes": false,
+				"codes": "Magost0"
+			},
+			{
+				"name": "1 Magost Berry",
+				"img": "/images/Items/magost1.png",
+				"inherit_codes": false,
+				"codes": "Magost1"
+			},
+			{
+				"name": "2 Magost Berries",
+				"img": "/images/Items/magost2.png",
+				"inherit_codes": false,
+				"codes": "Magost2"
+			},
+			{
+				"name": "3 Magost Berries",
+				"img": "/images/Items/magost3.png",
+				"inherit_codes": false,
+				"codes": "Magost3"
+			},
+			{
+				"name": "4 Magost Berries",
+				"img": "/images/Items/magost4.png",
+				"inherit_codes": false,
+				"codes": "Magost4"
+			},
+			{
+				"name": "5 Magost Berries",
+				"img": "/images/Items/magost5.png",
+				"inherit_codes": false,
+				"codes": "Magost5"
+			}
+		],
+		"codes": "MagostBerries"
+	},
+	
+	{
+		"name": "Watmel Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "0 Watmel Berries",
+				"img": "/images/Items/watmel00.png",
+				"inherit_codes": false,
+				"codes": "Watmel0"
+			},
+			{
+				"name": "1 Watmel Berry",
+				"img": "/images/Items/watmel01.png",
+				"inherit_codes": false,
+				"codes": "Watmel1"
+			},
+			{
+				"name": "2 Watmel Berries",
+				"img": "/images/Items/watmel02.png",
+				"inherit_codes": false,
+				"codes": "Watmel2"
+			},
+			{
+				"name": "3 Watmel Berries",
+				"img": "/images/Items/watmel03.png",
+				"inherit_codes": false,
+				"codes": "Watmel3"
+			},
+			{
+				"name": "4 Watmel Berries",
+				"img": "/images/Items/watmel04.png",
+				"inherit_codes": false,
+				"codes": "Watmel4"
+			},
+			{
+				"name": "5 Watmel Berries",
+				"img": "/images/Items/watmel05.png",
+				"inherit_codes": false,
+				"codes": "Watmel5"
+			},
+			{
+				"name": "6 Watmel Berries",
+				"img": "/images/Items/watmel06.png",
+				"inherit_codes": false,
+				"codes": "Watmel6"
+			},
+			{
+				"name": "7 Watmel Berries",
+				"img": "/images/Items/watmel07.png",
+				"inherit_codes": false,
+				"codes": "Watmel7"
+			},
+			{
+				"name": "8 Watmel Berries",
+				"img": "/images/Items/watmel08.png",
+				"inherit_codes": false,
+				"codes": "Watmel8"
+			},
+			{
+				"name": "9 Watmel Berries",
+				"img": "/images/Items/watmel09.png",
+				"inherit_codes": false,
+				"codes": "Watmel9"
+			},
+			{
+				"name": "10 Watmel Berries",
+				"img": "/images/Items/watmel10.png",
+				"inherit_codes": false,
+				"codes": "Watmel10"
+			}
+		],
+		"codes": "WatmelBerries"
+	},
+	
+	{
+		"name": "Rabuta Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "0 Rabuta Berries",
+				"img": "/images/Items/rabuta0.png",
+				"inherit_codes": false,
+				"codes": "Rabuta0"
+			},
+			{
+				"name": "1 Rabuta Berry",
+				"img": "/images/Items/rabuta1.png",
+				"inherit_codes": false,
+				"codes": "Rabuta1"
+			},
+			{
+				"name": "2 Rabuta Berries",
+				"img": "/images/Items/rabuta2.png",
+				"inherit_codes": false,
+				"codes": "Rabuta2"
+			},
+			{
+				"name": "3 Rabuta Berries",
+				"img": "/images/Items/rabuta3.png",
+				"inherit_codes": false,
+				"codes": "Rabuta3"
+			},
+			{
+				"name": "4 Rabuta Berries",
+				"img": "/images/Items/rabuta4.png",
+				"inherit_codes": false,
+				"codes": "Rabuta4"
+			},
+			{
+				"name": "5 Rabuta Berries",
+				"img": "/images/Items/rabuta5.png",
+				"inherit_codes": false,
+				"codes": "Rabuta5"
+			}
+		],
+		"codes": "RabutaBerries"
+	},
+	
+	{
+		"name": "Nomel Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "0 Nomel Berries",
+				"img": "/images/Items/nomel0.png",
+				"inherit_codes": false,
+				"codes": "Nomel0"
+			},
+			{
+				"name": "1 Nomel Berry",
+				"img": "/images/Items/nomel1.png",
+				"inherit_codes": false,
+				"codes": "Nomel1"
+			},
+			{
+				"name": "2 Nomel Berries",
+				"img": "/images/Items/nomel2.png",
+				"inherit_codes": false,
+				"codes": "Nomel2"
+			},
+			{
+				"name": "3 Nomel Berries",
+				"img": "/images/Items/nomel3.png",
+				"inherit_codes": false,
+				"codes": "Nomel3"
+			},
+			{
+				"name": "4 Nomel Berries",
+				"img": "/images/Items/nomel4.png",
+				"inherit_codes": false,
+				"codes": "Nomel4"
+			},
+			{
+				"name": "5 Nomel Berries",
+				"img": "/images/Items/nomel5.png",
+				"inherit_codes": false,
+				"codes": "Nomel5"
+			}
+		],
+		"codes": "NomelBerries"
+	},
+	
+	{
+		"name": "Durin Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "0 Durin Berries",
+				"img": "/images/Items/durin00.png",
+				"inherit_codes": false,
+				"codes": "Durin0"
+			},
+			{
+				"name": "1 Durin Berry",
+				"img": "/images/Items/durin01.png",
+				"inherit_codes": false,
+				"codes": "Durin1"
+			},
+			{
+				"name": "2 Durin Berries",
+				"img": "/images/Items/durin02.png",
+				"inherit_codes": false,
+				"codes": "Durin2"
+			},
+			{
+				"name": "3 Durin Berries",
+				"img": "/images/Items/durin03.png",
+				"inherit_codes": false,
+				"codes": "Durin3"
+			},
+			{
+				"name": "4 Durin Berries",
+				"img": "/images/Items/durin04.png",
+				"inherit_codes": false,
+				"codes": "Durin4"
+			},
+			{
+				"name": "5 Durin Berries",
+				"img": "/images/Items/durin05.png",
+				"inherit_codes": false,
+				"codes": "Durin5"
+			},
+			{
+				"name": "6 Durin Berries",
+				"img": "/images/Items/durin06.png",
+				"inherit_codes": false,
+				"codes": "Durin6"
+			},
+			{
+				"name": "7 Durin Berries",
+				"img": "/images/Items/durin07.png",
+				"inherit_codes": false,
+				"codes": "Durin7"
+			},
+			{
+				"name": "8 Durin Berries",
+				"img": "/images/Items/durin08.png",
+				"inherit_codes": false,
+				"codes": "Durin8"
+			},
+			{
+				"name": "9 Durin Berries",
+				"img": "/images/Items/durin09.png",
+				"inherit_codes": false,
+				"codes": "Durin9"
+			},
+			{
+				"name": "10 Durin Berries",
+				"img": "/images/Items/durin10.png",
+				"inherit_codes": false,
+				"codes": "Durin10"
+			}
+		],
+		"codes": "DurinBerries"
+	},
+	
+	{
+		"name": "Spelon Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "0 Spelon Berries",
+				"img": "/images/Items/spelon00.png",
+				"inherit_codes": false,
+				"codes": "Spelon0"
+			},
+			{
+				"name": "1 Spelon Berry",
+				"img": "/images/Items/spelon01.png",
+				"inherit_codes": false,
+				"codes": "Spelon1"
+			},
+			{
+				"name": "2 Spelon Berries",
+				"img": "/images/Items/spelon02.png",
+				"inherit_codes": false,
+				"codes": "Spelon2"
+			},
+			{
+				"name": "3 Spelon Berries",
+				"img": "/images/Items/spelon03.png",
+				"inherit_codes": false,
+				"codes": "Spelon3"
+			},
+			{
+				"name": "4 Spelon Berries",
+				"img": "/images/Items/spelon04.png",
+				"inherit_codes": false,
+				"codes": "Spelon4"
+			},
+			{
+				"name": "5 Spelon Berries",
+				"img": "/images/Items/spelon05.png",
+				"inherit_codes": false,
+				"codes": "Spelon5"
+			},
+			{
+				"name": "6 Spelon Berries",
+				"img": "/images/Items/spelon06.png",
+				"inherit_codes": false,
+				"codes": "Spelon6"
+			},
+			{
+				"name": "7 Spelon Berries",
+				"img": "/images/Items/spelon07.png",
+				"inherit_codes": false,
+				"codes": "Spelon7"
+			},
+			{
+				"name": "8 Spelon Berries",
+				"img": "/images/Items/spelon08.png",
+				"inherit_codes": false,
+				"codes": "Spelon8"
+			},
+			{
+				"name": "9 Spelon Berries",
+				"img": "/images/Items/spelon09.png",
+				"inherit_codes": false,
+				"codes": "Spelon9"
+			},
+			{
+				"name": "10 Spelon Berries",
+				"img": "/images/Items/spelon10.png",
+				"inherit_codes": false,
+				"codes": "Spelon10"
+			}
+		],
+		"codes": "SpelonBerries"
+	},
+	
+	{
+		"name": "Belue Berry",
+		"type": "progressive",
+		"loop": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "0 Belue Berries",
+				"img": "/images/Items/belue00.png",
+				"inherit_codes": false,
+				"codes": "Belue0"
+			},
+			{
+				"name": "1 Belue Berry",
+				"img": "/images/Items/belue01.png",
+				"inherit_codes": false,
+				"codes": "Belue1"
+			},
+			{
+				"name": "2 Belue Berries",
+				"img": "/images/Items/belue02.png",
+				"inherit_codes": false,
+				"codes": "Belue2"
+			},
+			{
+				"name": "3 Belue Berries",
+				"img": "/images/Items/belue03.png",
+				"inherit_codes": false,
+				"codes": "Belue3"
+			},
+			{
+				"name": "4 Belue Berries",
+				"img": "/images/Items/belue04.png",
+				"inherit_codes": false,
+				"codes": "Belue4"
+			},
+			{
+				"name": "5 Belue Berries",
+				"img": "/images/Items/belue05.png",
+				"inherit_codes": false,
+				"codes": "Belue5"
+			},
+			{
+				"name": "6 Belue Berries",
+				"img": "/images/Items/belue06.png",
+				"inherit_codes": false,
+				"codes": "Belue6"
+			},
+			{
+				"name": "7 Belue Berries",
+				"img": "/images/Items/belue07.png",
+				"inherit_codes": false,
+				"codes": "Belue7"
+			},
+			{
+				"name": "8 Belue Berries",
+				"img": "/images/Items/belue08.png",
+				"inherit_codes": false,
+				"codes": "Belue8"
+			},
+			{
+				"name": "9 Belue Berries",
+				"img": "/images/Items/belue09.png",
+				"inherit_codes": false,
+				"codes": "Belue9"
+			},
+			{
+				"name": "10 Belue Berries",
+				"img": "/images/Items/belue10.png",
+				"inherit_codes": false,
+				"codes": "Belue10"
+			}
+		],
+		"codes": "BelueBerries"
+	}
+]
+

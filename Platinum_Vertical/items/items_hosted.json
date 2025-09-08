@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Event: Beat Oreburgh Gym",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/Roark.png",
+        "codes": "event_oreburgh_hosted"
+    },
+    {
+        "name": "Event: Beat Veilstone Gym",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/Maylene.png",
+        "codes": "event_veilstone_hosted"
+    },
+    {
+        "name": "Event: Beat Pastoria Gym",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/Wake.png",
+        "codes": "event_pastoria_hosted"
+    },
+    {
+        "name": "Event: Beat Canalave Gym",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/Byron.png",
+        "codes": "event_canalave_hosted"
+    },
+    {
+        "name": "Event: Defeat Saturn at Lake Valor",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/Saturn.png",
+        "codes": "event_saturn_hosted"
+    },
+    {
+        "name": "Event: Defeat Mars at Lake Verity",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/Mars.png",
+        "codes": "event_mars_hosted"
+    },
+    {
+        "name": "Event: Meet Jupiter at Lake Acuity",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/Jupiter.png",
+        "codes": "event_jupiter_hosted"
+    },
+    {
+        "name": "Event: Defeated Grunts Blocking Galactic Warehouse",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/Grunt2.png",
+        "codes": "event_warehouse_hosted"
+    },
+    {
+        "name": "Event: Startle Grunt Outside Galactic HQ",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/Grunt2.png",
+        "codes": "event_galactichq_hosted"
+    },
+    {
+        "name": "Event: Release Guardians from Galactic HQ",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/Guardians.png",
+        "codes": "event_guardians_hosted"
+    },
+    {
+        "name": "Event: Clear Distortion World",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/Giratina.png",
+        "codes": "event_distortion_hosted"
+    },
+    {
+        "name": "Event Toggle",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/azureflute.png",
+        "codes": "event_toggle_hosted"
+    },
+    {
+        "name": "Event: Talk to Oak in PalPark",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/Oak.png",
+        "codes": "event_palpark_hosted"
+    },
+    {
+        "name": "Event: Become Champion",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/Cynthia.png",
+        "codes": "event_cynthia_hosted"
+    },
+    {
+        "name": "Event: Defeat Arceus in Hall of Origin",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/Arceus.png",
+        "codes": "event_arceus_hosted"
+    },
+    {
+        "name": "Event: Bomb News",
+        "type": "toggle",
+        "img_mods": "@disabled",
+        "disabled_img_mods": "none",
+        "img": "images/Items/tvon.png",
+        "codes": "event_bombs_hosted"
+    }
+]
