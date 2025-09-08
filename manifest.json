@@ -16,14 +16,15 @@
 			"flags": ["ap", "apmanual"]
 		},
 		"Platinum_Horizontal": {
-			"display_name": "Map Tracker (Platinum) (Horizontal)",
+			"display_name": "(WIP) Map Tracker (Platinum) (Horizontal)",
 			"flags": ["ap"]
 		},
 		"Platinum_Vertical": {
-			"display_name": "Map Tracker (Platinum) (Vertical)",
+			"display_name": "(WIP) Map Tracker (Platinum) (Vertical)",
 			"flags": ["ap"]
 		},
         
 	},
     "versions_url": "https://raw.githubusercontent.com/ZobeePlays/Pokemon-Platinum-Manual-Poptracker/versions/versions.json"
 }
+
