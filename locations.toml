@@ -203,7 +203,7 @@ original_item = "sky_plate"
 type = "hidden"
 table = "hidden"
 check = 850
-label = "Pokémon League - Hidden (Sky Plate)"
+label = "Pokémon League - Hidden Item Below SW Poké Ball Statue"
 id = 120
 
 [victory_road_2f_tm79]
@@ -259,7 +259,7 @@ original_item = "razor_claw"
 type = "overworld"
 table = "overworld"
 check = 1208
-label = "Route 224 - Overworld (Razor Claw)"
+label = "Route 224 - Item on Water's Edge South of Victory Road Exit"
 id = 194
 
 [route_224_rare_candy]
@@ -267,7 +267,7 @@ original_item = "rare_candy"
 type = "overworld"
 table = "overworld"
 check = 1209
-label = "Route 224 - Overworld (Rare Candy)"
+label = "Route 224 - Item in NW Corner Between Two Psychics"
 id = 195
 
 [route_224_destiny_knot]
@@ -275,7 +275,7 @@ original_item = "destiny_knot"
 type = "overworld"
 table = "overworld"
 check = 1210
-label = "Route 224 - Overworld (Destiny Knot)"
+label = "Route 224 - Item in Northern Grass"
 id = 196
 
 [route_224_repeat_ball]
@@ -283,7 +283,7 @@ original_item = "repeat_ball"
 type = "overworld"
 table = "overworld"
 check = 1318
-label = "Route 224 - Overworld (Repeat Ball)"
+label = "Route 224 - Item on Island 2"
 id = 303
 
 [route_224_pp_max]
@@ -291,7 +291,7 @@ original_item = "pp_max"
 type = "overworld"
 table = "overworld"
 check = 1319
-label = "Route 224 - Overworld (PP Max)"
+label = "Route 224 - Item at Water's End West of Berry Patch"
 id = 304
 
 [route_224_ultra_ball]
@@ -299,7 +299,7 @@ original_item = "ultra_ball"
 type = "overworld"
 table = "overworld"
 check = 1320
-label = "Route 224 - Overworld (Ultra Ball)"
+label = "Route 224 - Item on Island 1"
 id = 305
 
 [route_224_upgrade]
@@ -307,7 +307,7 @@ original_item = "upgrade"
 type = "overworld"
 table = "overworld"
 check = 1317
-label = "Route 224 - Overworld (Up-Grade)"
+label = "Route 224 - Item in Grass Outside Victory Road"
 id = 302
 
 [route_224_rare_candy_0]
@@ -315,7 +315,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 854
-label = "Route 224 - Hidden (Rare Candy)"
+label = "Route 224 - Hidden Item at Top of Grass Outside Victory Road"
 id = 124
 
 [route_224_pearl]
@@ -323,7 +323,7 @@ original_item = "pearl"
 type = "hidden"
 table = "hidden"
 check = 855
-label = "Route 224 - Hidden (Pearl)"
+label = "Route 224 - Hidden Item on Southwest Area of Beach"
 id = 125
 
 [route_224_heart_scale]
@@ -331,7 +331,7 @@ original_item = "heart_scale"
 type = "hidden"
 table = "hidden"
 check = 856
-label = "Route 224 - Hidden (Heart Scale)"
+label = "Route 224 - Hidden Item on North Side of Beach"
 id = 126
 
 [route_224_big_pearl]
@@ -339,7 +339,7 @@ original_item = "big_pearl"
 type = "hidden"
 table = "hidden"
 check = 857
-label = "Route 224 - Hidden (Big Pearl)"
+label = "Route 224 - Hidden Item on Near SE Rock on Beach"
 id = 127
 
 [route_224_pearl_0]
@@ -347,7 +347,7 @@ original_item = "pearl"
 type = "hidden"
 table = "hidden"
 check = 900
-label = "Route 224 - Hidden (Pearl) 1"
+label = "Route 224 - Hidden Item on Rock in NE Corner of Beach"
 id = 170
 
 [route_224_zinc]
@@ -355,7 +355,7 @@ original_item = "zinc"
 type = "hidden"
 table = "hidden"
 check = 901
-label = "Route 224 - Hidden (Zinc)"
+label = "Route 224 - Hidden Item Outside Victory Road Exit"
 id = 171
 
 [route_224_ultra_ball_0]
@@ -363,7 +363,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 902
-label = "Route 224 - Hidden (Ultra Ball)"
+label = "Route 224 - Hidden Item Below Berry Patch"
 id = 172
 
 [great_marsh_1_yellow_shard]
