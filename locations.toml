@@ -1543,7 +1543,7 @@ original_item = "carbos"
 type = "overworld"
 table = "overworld"
 check = 1062
-label = "Route 208 - Overworld (Carbos)"
+label = "Route 208 - Item Above Waterfall"
 id = 48
 
 [route_208_great_ball]
@@ -1559,7 +1559,7 @@ original_item = "star_piece"
 type = "hidden"
 table = "hidden"
 check = 744
-label = "Route 208 - Hidden (Star Piece)"
+label = "Route 208 - Hidden Item Above Rock Climb Slope"
 id = 14
 
 [route_208_tinymushroom]
@@ -2167,7 +2167,7 @@ original_item = "tm18"
 type = "overworld"
 table = "overworld"
 check = 1194
-label = "Route 223 - Overworld (TM18)"
+label = "Route 223 - Item Surrounded by West Rocks"
 id = 180
 
 [route_223_ultra_ball]
@@ -2175,7 +2175,7 @@ original_item = "ultra_ball"
 type = "overworld"
 table = "overworld"
 check = 1192
-label = "Route 223 - Overworld (Ultra Ball)"
+label = "Route 223 - Item Behind Sailor"
 id = 178
 
 [route_223_dive_ball]
@@ -2183,7 +2183,7 @@ original_item = "dive_ball"
 type = "overworld"
 table = "overworld"
 check = 1193
-label = "Route 223 - Overworld (Dive Ball)"
+label = "Route 223 - Northwest Item"
 id = 179
 
 [route_223_rare_candy]
@@ -2191,7 +2191,7 @@ original_item = "rare_candy"
 type = "overworld"
 table = "overworld"
 check = 1316
-label = "Route 223 - Overworld (Rare Candy)"
+label = "Route 223 - Northeast Item"
 id = 301
 
 [route_223_heart_scale]
@@ -2199,7 +2199,7 @@ original_item = "heart_scale"
 type = "hidden"
 table = "hidden"
 check = 842
-label = "Route 223 - Hidden (Heart Scale)"
+label = "Route 223 - Hidden Item on First Islet"
 id = 112
 
 [route_223_heart_scale_0]
@@ -2207,7 +2207,7 @@ original_item = "heart_scale"
 type = "hidden"
 table = "hidden"
 check = 997
-label = "Route 223 - Hidden (Heart Scale) 1"
+label = "Route 223 - Hidden Item to Left of Sailor"
 id = 267
 
 [trainers_school_x_attack]
@@ -2743,7 +2743,7 @@ original_item = "rare_candy"
 type = "overworld"
 table = "overworld"
 check = 1129
-label = "Route 214 - Overworld (Rare Candy)"
+label = "Route 214 - Item Across Pond"
 id = 115
 
 [route_214_max_repel]
@@ -2751,7 +2751,7 @@ original_item = "max_repel"
 type = "overworld"
 table = "overworld"
 check = 1128
-label = "Route 214 - Overworld (Max Repel)"
+label = "Route 214 - Item in Fence Area With Trainers"
 id = 114
 
 [route_214_red_shard]
@@ -2759,7 +2759,7 @@ original_item = "red_shard"
 type = "overworld"
 table = "overworld"
 check = 1127
-label = "Route 214 - Overworld (Red Shard)"
+label = "Route 214 - Item in Grass Near Honey Tree"
 id = 113
 
 [route_214_big_root]
@@ -2767,7 +2767,7 @@ original_item = "big_root"
 type = "overworld"
 table = "overworld"
 check = 1126
-label = "Route 214 - Overworld (Big Root)"
+label = "Route 214 - Item in Fence Dead End Above Honey Tree"
 id = 112
 
 [route_214_magmarizer]
@@ -2775,7 +2775,7 @@ original_item = "magmarizer"
 type = "overworld"
 table = "overworld"
 check = 1332
-label = "Route 214 - Overworld (Magmarizer)"
+label = "Route 214 - Route 214 - Item Near Breakable Rocks"
 id = 317
 
 [route_214_carbos]
@@ -2783,7 +2783,7 @@ original_item = "carbos"
 type = "hidden"
 table = "hidden"
 check = 773
-label = "Route 214 - Hidden (Carbos)"
+label = "Route 214 - Hidden Item in Ring of Grass Around Fence"
 id = 43
 
 [route_214_big_mushroom]
@@ -2791,7 +2791,7 @@ original_item = "big_mushroom"
 type = "hidden"
 table = "hidden"
 check = 772
-label = "Route 214 - Hidden (Big Mushroom)"
+label = "Route 214 - Hidden Item in Corner Above Beauty"
 id = 42
 
 [route_214_razor_fang]
@@ -2799,7 +2799,7 @@ original_item = "razor_fang"
 type = "hidden"
 table = "hidden"
 check = 898
-label = "Route 214 - Hidden (Razor Fang)"
+label = "Route 214 - Hidden Item in Corner of Long Grass"
 id = 168
 
 [maniac_tunnel_tm28]
@@ -2807,7 +2807,7 @@ original_item = "tm28"
 type = "overworld"
 table = "overworld"
 check = 1130
-label = "Maniac Tunnel - Overworld (TM28)"
+label = "Maniac Tunnel - Item Next to Entrance"
 id = 116
 
 [veilstone_city_full_incense]
