@@ -5400,7 +5400,7 @@ check = 2929
 original_item = "roulette"
 type = "poketchapp"
 table = "base"
-label = "Sunyshore City - Roulette App"
+label = "Sunyshore City - Roulette App From Developer"
 
 [sunyshore_city_east_house_dotart]
 id = 97
@@ -5408,7 +5408,7 @@ check = 2930
 original_item = "dotart"
 type = "poketchapp"
 table = "base"
-label = "Sunyshore City - Dot Art App"
+label = "Sunyshore City - Dot Artist App From Developer"
 
 [sunyshore_city_east_house_calendar]
 id = 98
@@ -5416,7 +5416,7 @@ check = 2931
 original_item = "calendar"
 type = "poketchapp"
 table = "base"
-label = "Sunyshore City - Calendar App"
+label = "Sunyshore City - Calendar App From Developer"
 
 [poketch_co_1f_memopad]
 id = 99
