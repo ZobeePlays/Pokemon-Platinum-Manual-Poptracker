@@ -2047,7 +2047,7 @@ original_item = "full_restore"
 type = "overworld"
 table = "overworld"
 check = 1190
-label = "Route 222 - Overworld (Full Restore)"
+label = "Route 222 - Item on Ledge"
 id = 176
 
 [route_222_carbos]
@@ -2055,7 +2055,7 @@ original_item = "carbos"
 type = "overworld"
 table = "overworld"
 check = 1189
-label = "Route 222 - Overworld (Carbos)"
+label = "Route 222 - Item Behind Cut Tree"
 id = 175
 
 [route_222_quick_ball]
@@ -2063,7 +2063,7 @@ original_item = "quick_ball"
 type = "overworld"
 table = "overworld"
 check = 1314
-label = "Route 222 - Overworld (Quick Ball)"
+label = "Route 222 - Item in Grass Below Fence"
 id = 299
 
 [route_222_pp_up]
@@ -2071,7 +2071,7 @@ original_item = "pp_up"
 type = "overworld"
 table = "overworld"
 check = 1315
-label = "Route 222 - Overworld (PP Up)"
+label = "Route 222 - Item Next to Pikachu House"
 id = 300
 
 [route_222_full_restore_0]
@@ -2079,7 +2079,7 @@ original_item = "full_restore"
 type = "hidden"
 table = "hidden"
 check = 839
-label = "Route 222 - Hidden (Full Restore)"
+label = "Route 222 - Hidden Item in Grass Below Fence 1"
 id = 109
 
 [route_222_pp_up_0]
@@ -2087,7 +2087,7 @@ original_item = "pp_up"
 type = "hidden"
 table = "hidden"
 check = 737
-label = "Route 222 - Hidden (PP Up)"
+label = "Valor Lakefront - Hidden Item in Corner of Route 222's NW Trees"
 id = 7
 
 [route_222_tinymushroom]
@@ -2095,7 +2095,7 @@ original_item = "tinymushroom"
 type = "hidden"
 table = "hidden"
 check = 887
-label = "Route 222 - Hidden (TinyMushroom)"
+label = "Route 222 - Hidden Item in Grass Below Fence 2"
 id = 157
 
 [route_222_ultra_ball]
@@ -2103,7 +2103,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 888
-label = "Route 222 - Hidden (Ultra Ball)"
+label = "Route 222 - Hidden Item in Northern Grass"
 id = 158
 
 [route_222_big_mushroom]
@@ -2111,7 +2111,7 @@ original_item = "big_mushroom"
 type = "hidden"
 table = "hidden"
 check = 993
-label = "Route 222 - Hidden (Big Mushroom)"
+label = "Route 222 - Hidden Item in Grass Below SE Fence"
 id = 263
 
 [route_222_pearl]
@@ -2119,7 +2119,7 @@ original_item = "pearl"
 type = "hidden"
 table = "hidden"
 check = 994
-label = "Route 222 - Hidden (Pearl)"
+label = "Route 222 - Hidden Item Below First Rock on Beach"
 id = 264
 
 [route_222_heart_scale]
@@ -2127,7 +2127,7 @@ original_item = "heart_scale"
 type = "hidden"
 table = "hidden"
 check = 995
-label = "Route 222 - Hidden (Heart Scale)"
+label = "Route 222 - Hidden Item Between Fishermen"
 id = 265
 
 [route_222_heart_scale_0]
@@ -2135,7 +2135,7 @@ original_item = "heart_scale"
 type = "hidden"
 table = "hidden"
 check = 996
-label = "Route 222 - Hidden (Heart Scale) 1"
+label = "Route 222 - Hidden Item in Front of Pikachu House"
 id = 266
 
 [sunyshore_city_thunderstone]
@@ -2143,7 +2143,7 @@ original_item = "thunderstone"
 type = "overworld"
 table = "overworld"
 check = 1191
-label = "Sunyshore City - Overworld (Thunderstone)"
+label = "Sunyshore City - Item Down Stairs Behind Vista Lighthouse"
 id = 177
 
 [sunyshore_city_carbos]
@@ -2151,7 +2151,7 @@ original_item = "carbos"
 type = "hidden"
 table = "hidden"
 check = 841
-label = "Sunyshore City - Hidden (Carbos)"
+label = "Sunyshore City - Hidden Item Near Sunyshore Market"
 id = 111
 
 [sunyshore_city_zap_plate]
@@ -2159,7 +2159,7 @@ original_item = "zap_plate"
 type = "hidden"
 table = "hidden"
 check = 840
-label = "Sunyshore City - Hidden (Zap Plate)"
+label = "Sunyshore City - Hidden Item in Front of Vista Lighthouse"
 id = 110
 
 [route_223_tm18]
@@ -4697,7 +4697,7 @@ original_item = "beacon_badge"
 type = "badge"
 table = "base"
 check = 182
-label = "Sunyshore City Gym - Badge (From Volkner)"
+label = "Sunyshore Gym - Beacon Badge from Volkner"
 id = 14
 
 [sunyshore_city_gym_room_3_tm57]
@@ -4705,7 +4705,7 @@ original_item = "tm57"
 type = "npc_gift"
 table = "base"
 check = 182
-label = "Sunyshore City Gym - TM57 (From Volkner)"
+label = "Sunyshore Gym - TM57 from Volkner"
 id = 15
 
 [eterna_city_hm01]
@@ -4749,7 +4749,7 @@ original_item = "hm07"
 type = "hm"
 table = "base"
 check = 154
-label = "Sunyshore City - HM07 (From Jasmine)"
+label = "Sunyshore City - HM07 from Jasmine"
 id = 20
 
 [route_207_dowsingmachine]
