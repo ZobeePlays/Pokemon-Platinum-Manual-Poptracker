@@ -891,7 +891,7 @@ original_item = "mystic_water"
 type = "overworld"
 table = "overworld"
 check = 1088
-label = "Pastoria City - Overworld (Mystic Water)"
+label = "Pastoria City - Item in Trees Above Boats"
 id = 74
 
 [pastoria_city_zinc]
@@ -899,7 +899,7 @@ original_item = "zinc"
 type = "hidden"
 table = "hidden"
 check = 757
-label = "Pastoria City - Hidden (Zinc)"
+label = "Pastoria City - Hidden Item in Southwest Puddle"
 id = 27
 
 [iron_island_star_piece]
@@ -2223,7 +2223,7 @@ original_item = "tm39"
 type = "overworld"
 table = "overworld"
 check = 1025
-label = "Ravaged Path - Overworld (TM39)"
+label = "Ravaged Path - Item Left of Breakable Rocks"
 id = 11
 
 [ravaged_path_luck_incense]
@@ -2231,7 +2231,7 @@ original_item = "luck_incense"
 type = "overworld"
 table = "overworld"
 check = 1026
-label = "Ravaged Path - Overworld (Luck Incense)"
+label = "Ravaged Path - Item Behind Long Boulder Trail"
 id = 12
 
 [ravaged_path_tm03]
@@ -2239,7 +2239,7 @@ original_item = "tm03"
 type = "overworld"
 table = "overworld"
 check = 1027
-label = "Ravaged Path - Overworld (TM03)"
+label = "Ravaged Path - Item at Water's End"
 id = 13
 
 [ravaged_path_potion]
@@ -2247,7 +2247,7 @@ original_item = "potion"
 type = "overworld"
 table = "overworld"
 check = 1265
-label = "Ravaged Path - Free Item"
+label = "Ravaged Path - First Item"
 id = 251
 
 [route_204_north_tm09]
@@ -2391,7 +2391,7 @@ original_item = "ether"
 type = "overworld"
 table = "overworld"
 check = 1099
-label = "Eterna Forest - Overworld (Ether)"
+label = "Eterna Forest - Item Next to Old Chateau"
 id = 85
 
 [eterna_forest_potion]
@@ -2407,7 +2407,7 @@ original_item = "insect_plate"
 type = "hidden"
 table = "hidden"
 check = 731
-label = "Eterna Forest - Hidden (Insect Plate)"
+label = "Eterna Forest - Hidden Item Next to Old Chateau"
 id = 1
 
 [fuego_ironworks_outside_ultra_ball]
@@ -2511,7 +2511,7 @@ original_item = "old_gateau"
 type = "overworld"
 table = "overworld"
 check = 1036
-label = "Old Chateau - Overworld (Old Gateau)"
+label = "Old Chateau 2F - Item in Room Left of Entrance"
 id = 22
 
 [route_205_north_guard_spec]
@@ -2567,7 +2567,7 @@ original_item = "tm90"
 type = "overworld"
 table = "overworld"
 check = 1262
-label = "Old Chateau - Overworld (TM90)"
+label = "Old Chateau 2F - Item in Easternmost Bedroom"
 id = 248
 
 [old_chateau_back_west_room_dread_plate]
@@ -2575,7 +2575,7 @@ original_item = "dread_plate"
 type = "overworld"
 table = "overworld"
 check = 1261
-label = "Old Chateau - Overworld (Dread Plate)"
+label = "Old Chateau 2F - Item in Westernmost Bedroom"
 id = 247
 
 [stark_mountain_room_2_tm50]
@@ -2815,7 +2815,7 @@ original_item = "full_incense"
 type = "overworld"
 table = "overworld"
 check = 1123
-label = "Veilstone City - Overworld (Full Incense)"
+label = "Veilstone City - Item on Rock Climb Platform"
 id = 109
 
 [veilstone_city_rare_candy]
@@ -2823,7 +2823,7 @@ original_item = "rare_candy"
 type = "overworld"
 table = "overworld"
 check = 1124
-label = "Veilstone City - Overworld (Rare Candy)"
+label = "Veilstone City - Item Next to Galactic Building"
 id = 110
 
 [veilstone_city_star_piece]
@@ -2831,7 +2831,7 @@ original_item = "star_piece"
 type = "overworld"
 table = "overworld"
 check = 1286
-label = "Veilstone City - Overworld (Star Piece)"
+label = "Veilstone City - Item Between Galactic Warehouses"
 id = 271
 
 [veilstone_city_calcium]
@@ -2839,7 +2839,7 @@ original_item = "calcium"
 type = "hidden"
 table = "hidden"
 check = 771
-label = "Veilstone City - Hidden (Calcium)"
+label = "Veilstone City - Hidden Item in Corner of Galactic Warehouses"
 id = 41
 
 [veilstone_city_pp_up]
@@ -2847,7 +2847,7 @@ original_item = "pp_up"
 type = "hidden"
 table = "hidden"
 check = 770
-label = "Veilstone City - Hidden (PP Up)"
+label = "Veilstone City - Hidden Item Between Trees and Dept. Store"
 id = 40
 
 [veilstone_city_star_piece_0]
@@ -2855,7 +2855,7 @@ original_item = "star_piece"
 type = "hidden"
 table = "hidden"
 check = 989
-label = "Veilstone City - Hidden (Star Piece)"
+label = "Veilstone City - Hidden Item in Pit With Two Meteorites"
 id = 259
 
 [old_chateau_dining_area_rare_candy]
@@ -2863,7 +2863,7 @@ original_item = "rare_candy"
 type = "overworld"
 table = "overworld"
 check = 1281
-label = "Old Chateau - Overworld (Rare Candy)"
+label = "Old Chateau 1F - Item on Left of Dining Area"
 id = 266
 
 [old_chateau_dining_area_big_pearl]
@@ -2871,7 +2871,7 @@ original_item = "big_pearl"
 type = "overworld"
 table = "overworld"
 check = 1282
-label = "Old Chateau - Overworld (Big Pearl)"
+label = "Old Chateau 1F - Item on Right of Dining Area"
 id = 267
 
 [old_chateau_dining_area_honey_x3]
@@ -2879,7 +2879,7 @@ original_item = "honey_x3"
 type = "hidden"
 table = "hidden"
 check = 897
-label = "Old Chateau - Hidden (Honey) x3"
+label = "Old Chateau 1F - Hidden Item in Box in Kitchen"
 id = 167
 
 [floaroma_meadow_miracle_seed]
@@ -3057,7 +3057,7 @@ original_item = "tm49"
 type = "overworld"
 table = "overworld"
 check = 1179
-label = "Galactic HQ - Overworld (TM49)"
+label = "Galactic Warehouse - Item in Room With Boxes and Green Warp"
 id = 165
 
 [galactic_hq_1f_dubious_disc]
@@ -3065,7 +3065,7 @@ original_item = "dubious_disc"
 type = "overworld"
 table = "overworld"
 check = 1312
-label = "Galactic HQ - Overworld (Dubious Disc)"
+label = "Galactic Warehouse - Item Next to Table"
 id = 297
 
 [galactic_hq_1f_pp_up]
@@ -3073,7 +3073,7 @@ original_item = "pp_up"
 type = "hidden"
 table = "hidden"
 check = 804
-label = "Galactic HQ - Hidden (PP Up)"
+label = "Galactic HQ - Hidden Item Near Entrance in Green Warp Room"
 id = 74
 
 [galactic_hq_4f_razor_claw]
@@ -3081,7 +3081,7 @@ original_item = "razor_claw"
 type = "hidden"
 table = "hidden"
 check = 810
-label = "Galactic HQ - Hidden (Razor Claw)"
+label = "Galactic HQ - Hidden Item in Room Next to Cyrus"
 id = 80
 
 [galactic_hq_3f_tm21]
@@ -3089,7 +3089,7 @@ original_item = "tm21"
 type = "overworld"
 table = "overworld"
 check = 1180
-label = "Galactic HQ - Overworld (TM21)"
+label = "Galactic Warehouse - Item in Many Generators Room"
 id = 166
 
 [galactic_hq_3f_max_elixir]
@@ -3097,7 +3097,7 @@ original_item = "max_elixir"
 type = "overworld"
 table = "overworld"
 check = 1182
-label = "Galactic HQ - Overworld (Max Elixir)"
+label = "Galactic HQ - Item in Room with Two Tables"
 id = 168
 
 [galactic_hq_3f_protein]
@@ -3105,7 +3105,7 @@ original_item = "protein"
 type = "overworld"
 table = "overworld"
 check = 1310
-label = "Galactic HQ - Overworld (Protein)"
+label = "Galactic HQ - Item Behind Box"
 id = 295
 
 [galactic_hq_3f_elixir]
@@ -3113,7 +3113,7 @@ original_item = "elixir"
 type = "hidden"
 table = "hidden"
 check = 808
-label = "Galactic HQ - Hidden (Elixir)"
+label = "Galactic HQ - Hidden Item in Box in Room with Two Tables"
 id = 78
 
 [galactic_hq_3f_rare_candy]
@@ -3121,7 +3121,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 807
-label = "Galactic HQ - Hidden (Rare Candy)"
+label = "Galactic Warehouse - Hidden Item Near Team Galactic Credo"
 id = 77
 
 [galactic_hq_3f_nugget]
@@ -3129,7 +3129,7 @@ original_item = "nugget"
 type = "hidden"
 table = "hidden"
 check = 809
-label = "Galactic HQ - Hidden (Nugget)"
+label = "Galactic HQ - Hidden Item by Three Teleporters"
 id = 79
 
 [galactic_hq_b2f_tm36]
@@ -3137,7 +3137,7 @@ original_item = "tm36"
 type = "overworld"
 table = "overworld"
 check = 1178
-label = "Galactic HQ - Overworld (TM36)"
+label = "Galactic Warehouse - Item Sitting in Puddle"
 id = 164
 
 [galactic_hq_b2f_galactic_key]
@@ -3145,7 +3145,7 @@ original_item = "galactic_key"
 type = "key_item"
 table = "overworld"
 check = 1251
-label = "Galactic HQ - Overworld (Galactic Key)"
+label = "Galactic Warehouse - Galactic Key Next to Locked Door"
 id = 237
 
 [galactic_hq_b2f_zinc]
@@ -3153,7 +3153,7 @@ original_item = "zinc"
 type = "overworld"
 table = "overworld"
 check = 1258
-label = "Galactic HQ - Overworld (Zinc)"
+label = "Galactic Warehouse - Item By Boxes"
 id = 244
 
 [galactic_hq_laboratory_full_restore]
@@ -3161,7 +3161,7 @@ original_item = "full_restore"
 type = "overworld"
 table = "overworld"
 check = 1311
-label = "Galactic HQ - Overworld (Full Restore)"
+label = "Galactic HQ Secret Lab - Item Next to Three Machines"
 id = 296
 
 [pokemon_mansion_maids_room_luxury_ball]
@@ -3513,7 +3513,7 @@ original_item = "max_revive"
 type = "overworld"
 table = "overworld"
 check = 1181
-label = "Galactic HQ - Overworld (Max Revive)"
+label = "Galactic HQ - Item in Room with Two Generators"
 id = 167
 
 [galactic_hq_2f_green_shard]
@@ -3521,7 +3521,7 @@ original_item = "green_shard"
 type = "overworld"
 table = "overworld"
 check = 1313
-label = "Galactic HQ - Overworld (Green Shard)"
+label = "Galactic HQ - Item in Room with Four Boxes"
 id = 298
 
 [galactic_hq_2f_poke_doll]
@@ -3529,7 +3529,7 @@ original_item = "poke_doll"
 type = "hidden"
 table = "hidden"
 check = 805
-label = "Galactic HQ - Hidden (Poké Doll)"
+label = "Galactic HQ - Hidden Item in Bed"
 id = 75
 
 [galactic_hq_2f_max_potion]
@@ -3537,7 +3537,7 @@ original_item = "max_potion"
 type = "hidden"
 table = "hidden"
 check = 806
-label = "Galactic HQ - Hidden (Max Potion)"
+label = "Galactic HQ - Hidden Item in Room with Four Boxes"
 id = 76
 
 [lake_valor_drained_hp_up]
@@ -4449,7 +4449,7 @@ original_item = "dusk_stone"
 type = "overworld"
 table = "overworld"
 check = 1125
-label = "Veilstone City - Overworld (Dusk Stone)"
+label = "Galactic Warehouse - Item By Computer"
 id = 111
 
 [veilstone_city_galactic_warehouse_hm02]
@@ -4457,7 +4457,7 @@ original_item = "hm02"
 type = "hm"
 table = "overworld"
 check = 1250
-label = "Veilstone City - Overworld (HM02)"
+label = "Galactic Warehouse - HM02 with Looker"
 id = 236
 
 [solaceon_ruins_room_5_southeast_deadend_thunderstone]
@@ -4617,7 +4617,7 @@ original_item = "cobble_badge"
 type = "badge"
 table = "base"
 check = 157
-label = "Veilstone City Gym - Badge (From Maylene)"
+label = "Veilstone Gym - Cobble Badge from Maylene"
 id = 4
 
 [veilstone_city_gym_tm60]
@@ -4625,7 +4625,7 @@ original_item = "tm60"
 type = "npc_gift"
 table = "base"
 check = 157
-label = "Veilstone City Gym - TM60 (From Maylene)"
+label = "Veilstone Gym - TM60 from Maylene"
 id = 5
 
 [pastoria_city_gym_fen_badge]
@@ -4633,7 +4633,7 @@ original_item = "fen_badge"
 type = "badge"
 table = "base"
 check = 156
-label = "Pastoria City Gym - Badge (From Crasher Wake)"
+label = "Pastoria Gym - Fen Badge from Crasher Wake"
 id = 6
 
 [pastoria_city_gym_tm55]
@@ -4641,7 +4641,7 @@ original_item = "tm55"
 type = "npc_gift"
 table = "base"
 check = 156
-label = "Pastoria City Gym - TM55 (From Crasher Wake)"
+label = "Pastoria Gym - TM55 from Crasher Wake"
 id = 7
 
 [hearthome_city_gym_leader_room_relic_badge]
@@ -5277,7 +5277,7 @@ check = 204
 original_item = "tm63"
 type = "npc_gift"
 table = "base"
-label = "Veilstone City - TM63 (From Roughneck)"
+label = "Veilstone City - TM63 from Roughneck Near Gym"
 
 [veilstone_city_southeast_house_coin_case]
 id = 84
@@ -5285,14 +5285,14 @@ check = 188
 original_item = "coin_case"
 type = "key_item"
 table = "base"
-label = "Veilstone City - Coin Case"
+label = "Veilstone City - Coin Case from Clown in House"
 
 [galactic_hq_master_ball]
 id = 85
 original_item = "master_ball"
 type = "npc_gift"
 table = "base"
-label = "Veilstone Galactic HQ - Master Ball (From Cyrus)"
+label = "Galactic HQ - Master Ball from Cyrus"
 
 [galactic_hq_master_ball.check]
 id = 16598
@@ -5328,7 +5328,7 @@ check = 163
 original_item = "matchupchecker"
 type = "poketchapp"
 table = "base"
-label = "Great Marsh - Matchup Checker App"
+label = "Great Marsh - Matchup Checker App from Cowgirl"
 
 [pokemon_mansion_maids_room_soothe_bell]
 id = 90
@@ -5779,7 +5779,7 @@ check = 296
 original_item = "piplup_mask"
 type = "accessory"
 table = "base"
-label = "Pastoria City - Piplup Mask"
+label = "Pastoria City - Gift from Parasol Lady"
 
 [veilstone_store_1f_turtwig_mask]
 id = 117
