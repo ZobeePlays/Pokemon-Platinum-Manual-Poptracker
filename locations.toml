@@ -1343,7 +1343,7 @@ original_item = "full_heal"
 type = "overworld"
 table = "overworld"
 check = 1073
-label = "Route 212 - Overworld (Full Heal)"
+label = "Route 212 South - Item in Bottom Left of West Grass Area"
 id = 59
 
 [route_212_south_tm84]
@@ -1351,7 +1351,7 @@ original_item = "tm84"
 type = "overworld"
 table = "overworld"
 check = 1074
-label = "Route 212 - Overworld (TM84)"
+label = "Route 212 South - Item By Grass Patch in Water"
 id = 60
 
 [route_212_south_tm62]
@@ -1359,7 +1359,7 @@ original_item = "tm62"
 type = "overworld"
 table = "overworld"
 check = 1075
-label = "Route 212 - Overworld (TM62)"
+label = "Route 212 South - Item on Northeast Island Past Bike Bridge"
 id = 61
 
 [route_212_south_zinc]
@@ -1367,7 +1367,7 @@ original_item = "zinc"
 type = "overworld"
 table = "overworld"
 check = 1076
-label = "Route 212 - Overworld (Zinc)"
+label = "Route 212 South - Item on Ledge Above Move Tutor"
 id = 62
 
 [route_212_south_hyper_potion]
@@ -1375,7 +1375,7 @@ original_item = "hyper_potion"
 type = "overworld"
 table = "overworld"
 check = 1077
-label = "Route 212 - Overworld (Hyper Potion)"
+label = "Route 212 South - Item Near Scientist Between Cut Trees"
 id = 63
 
 [route_212_south_tm06]
@@ -1383,7 +1383,7 @@ original_item = "tm06"
 type = "overworld"
 table = "overworld"
 check = 1078
-label = "Route 212 - Overworld (TM06)"
+label = "Route 212 South - Item in SE Corner of Big Mud Patch"
 id = 64
 
 [route_212_south_revive]
@@ -1391,7 +1391,7 @@ original_item = "revive"
 type = "overworld"
 table = "overworld"
 check = 1079
-label = "Route 212 - Overworld (Revive)"
+label = "Route 212 South - Item Under Eastern Bike Bridge"
 id = 65
 
 [route_212_south_elixir]
@@ -1399,7 +1399,7 @@ original_item = "elixir"
 type = "overworld"
 table = "overworld"
 check = 1290
-label = "Route 212 - Overworld (Elixir)"
+label = "Route 212 South - Item Below Honey Tree"
 id = 275
 
 [route_212_south_blue_shard]
@@ -1407,7 +1407,7 @@ original_item = "blue_shard"
 type = "overworld"
 table = "overworld"
 check = 1289
-label = "Route 212 - Overworld (Blue Shard)"
+label = "Route 212 South - Item in Top Left of West Grass Area"
 id = 274
 
 [route_212_south_max_ether]
@@ -1415,7 +1415,7 @@ original_item = "max_ether"
 type = "hidden"
 table = "hidden"
 check = 749
-label = "Route 212 - Hidden (Max Ether)"
+label = "Route 212 South - Hidden Item Below Two Trees on Corner"
 id = 19
 
 [route_212_south_dawn_stone]
@@ -1423,7 +1423,7 @@ original_item = "dawn_stone"
 type = "hidden"
 table = "hidden"
 check = 756
-label = "Route 212 - Hidden (Dawn Stone)"
+label = "Route 212 South - Hidden Item in Mud Near Pastoria 3"
 id = 26
 
 [route_212_south_full_heal_0]
@@ -1431,7 +1431,7 @@ original_item = "full_heal"
 type = "hidden"
 table = "hidden"
 check = 755
-label = "Route 212 - Hidden (Full Heal)"
+label = "Route 212 South - Hidden Item in Deep Mud South of Honey Tree"
 id = 25
 
 [route_212_south_rare_candy]
@@ -1439,7 +1439,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 751
-label = "Route 212 - Hidden (Rare Candy)"
+label = "Route 212 South - Hidden Item in Deep Mud Far South of Honey Tree"
 id = 21
 
 [route_212_south_hyper_potion_0]
@@ -1447,7 +1447,7 @@ original_item = "hyper_potion"
 type = "hidden"
 table = "hidden"
 check = 754
-label = "Route 212 - Hidden (Hyper Potion)"
+label = "Route 212 South - Hidden Item in Mud Near Pastoria 1"
 id = 24
 
 [route_212_south_max_repel]
@@ -1455,7 +1455,7 @@ original_item = "max_repel"
 type = "hidden"
 table = "hidden"
 check = 753
-label = "Route 212 - Hidden (Max Repel)"
+label = "Route 212 South - Hidden Item in Deep Mud West of Honey Tree"
 id = 23
 
 [route_212_south_ultra_ball]
@@ -1463,7 +1463,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 752
-label = "Route 212 - Hidden (Ultra Ball)"
+label = "Route 212 South - Hidden Item in Mud Near Pastoria 2"
 id = 22
 
 [route_212_south_big_mushroom]
@@ -1471,7 +1471,7 @@ original_item = "big_mushroom"
 type = "hidden"
 table = "hidden"
 check = 750
-label = "Route 212 - Hidden (Big Mushroom)"
+label = "Route 212 South - Hidden Item on SW Bike Bridge Island"
 id = 20
 
 [route_212_north_rose_incense]
@@ -1479,7 +1479,7 @@ original_item = "rose_incense"
 type = "overworld"
 table = "overworld"
 check = 1069
-label = "Route 212 - Overworld (Rose Incense)"
+label = "Route 212 North - Item in Flower Patch"
 id = 55
 
 [route_212_north_tm11]
@@ -1487,7 +1487,7 @@ original_item = "tm11"
 type = "overworld"
 table = "overworld"
 check = 1068
-label = "Route 212 - Overworld (TM11)"
+label = "Route 212 North - Item on West Ledge"
 id = 54
 
 [route_212_north_elixir]
@@ -1495,7 +1495,7 @@ original_item = "elixir"
 type = "overworld"
 table = "overworld"
 check = 1070
-label = "Route 212 - Overworld (Elixir) 1"
+label = "Route 212 North - Item Behind Trainer Tips Sign"
 id = 56
 
 [route_212_north_green_shard]
@@ -1503,7 +1503,7 @@ original_item = "green_shard"
 type = "overworld"
 table = "overworld"
 check = 1288
-label = "Route 212 - Overworld (Green Shard)"
+label = "Route 212 North - Item Next to Mansion"
 id = 273
 
 [route_212_north_iron]
@@ -1511,7 +1511,7 @@ original_item = "iron"
 type = "overworld"
 table = "overworld"
 check = 1287
-label = "Route 212 - Overworld (Iron)"
+label = "Route 212 North - Item Next to North Pond"
 id = 272
 
 [route_212_north_ultra_ball]
@@ -1519,7 +1519,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 748
-label = "Route 212 - Hidden (Ultra Ball) 1"
+label = "Route 212 North - Hidden Item in Bush Outside of Mansion Fences"
 id = 18
 
 [route_212_north_pearl]
@@ -1527,7 +1527,7 @@ original_item = "pearl"
 type = "hidden"
 table = "hidden"
 check = 747
-label = "Route 212 - Hidden (Pearl)"
+label = "Route 212 North - Hidden Item in Bush By Mansion Entrance"
 id = 17
 
 [route_208_ether]
@@ -3169,7 +3169,7 @@ original_item = "luxury_ball"
 type = "overworld"
 table = "overworld"
 check = 1072
-label = "Pokémon Mansion - Overworld (Luxury Ball)"
+label = "Pokémon Mansion - Item in West Bedroom"
 id = 58
 
 [pokemon_mansion_maids_room_protein]
@@ -3177,7 +3177,7 @@ original_item = "protein"
 type = "hidden"
 table = "hidden"
 check = 893
-label = "Pokémon Mansion - Hidden (Protein)"
+label = "Pokémon Mansion - Hidden Item in East Bedroom Trash"
 id = 163
 
 [route_206_poison_barb]
@@ -3569,7 +3569,7 @@ original_item = "tm87"
 type = "overworld"
 table = "overworld"
 check = 1071
-label = "Pokémon Mansion - Overworld (TM87)"
+label = "Pokémon Mansion - Item in Mr. Backlot's Office"
 id = 57
 
 [mt_coronet_1f_tunnel_room_green_shard]
@@ -5336,7 +5336,7 @@ check = 313
 original_item = "soothe_bell"
 type = "npc_gift"
 table = "base"
-label = "Pokémon Mansion - Soothe Bell (From Maid)"
+label = "Pokémon Mansion - Soothe Bell from Maid in Center Bedroom"
 
 [canalave_city_southeast_house_tm48]
 id = 91
