@@ -5771,7 +5771,7 @@ check = 317
 original_item = "chimchar_mask"
 type = "accessory"
 table = "base"
-label = "Jubilife TV - Chimchar Mask"
+label = "Jubilife City - Mask from Man in Jubilife TV 2F"
 
 [pastoria_city_piplup_mask]
 id = 116
@@ -5822,7 +5822,7 @@ id = 118
 original_item = "glitter_powder"
 type = "accessory"
 table = "base"
-label = "Hearthome City Contest Hall - Glitter Powder"
+label = "Hearthome City - Glitter Powder gift in Contest Hall"
 
 [contest_hall_lobby_glitter_powder.check]
 id = 16631
@@ -5862,7 +5862,7 @@ check = 298
 original_item = "big_tree"
 type = "accessory"
 table = "base"
-label = "Eterna Forest Outside - Big Tree"
+label = "Eterna Forest Side Route - Big Tree from Woman"
 
 [flower_shop_berry]
 id = 2
@@ -5875,7 +5875,7 @@ original_item = [
 ]
 type = "npc_gift"
 table = "once"
-label = "Floaroma Town Flower Shop - Random Berry"
+label = "Floaroma Town - Daily Berry from Flower Shop"
 
 [flower_shop_berry.check]
 id = 2
