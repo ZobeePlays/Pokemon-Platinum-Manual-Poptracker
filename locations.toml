@@ -4601,7 +4601,7 @@ original_item = "forest_badge"
 type = "badge"
 table = "base"
 check = 116
-label = "Oreburgh City Gym - Forest Badge From Gardenia"
+label = "Eterna City Gym - Forest Badge From Gardenia"
 id = 2
 
 [eterna_city_gym_tm86]
