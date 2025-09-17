@@ -435,7 +435,7 @@ original_item = "lunar_wing"
 type = "key_item"
 table = "overworld"
 check = 2936
-label = "Fullmoon Island - Overworld (Lunar Wing)"
+label = "Fullmoon Island - Item in Clearing after Cresselia has Fled"
 id = 92
 
 [victory_road_b1f_tm59]
@@ -595,7 +595,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 889
-label = "Route 227 - Hidden Item (Rare Candy)"
+label = "Route 226 - Hidden Item in Tree Gap North of Meister's House"
 id = 159
 
 [route_228_protector]
@@ -1135,7 +1135,7 @@ original_item = "pearl"
 type = "hidden"
 table = "hidden"
 check = 758
-label = "Route 213 - Hidden (Pearl)"
+label = "Route 213 - Hidden Item Below Footstep's House 1"
 id = 28
 
 [route_213_hyper_potion]
@@ -1143,7 +1143,7 @@ original_item = "hyper_potion"
 type = "hidden"
 table = "hidden"
 check = 882
-label = "Route 213 - Hidden (Hyper Potion)"
+label = "Route 213 - Hidden Item Next to Honey Tree"
 id = 152
 
 [route_213_pearl_0]
@@ -1151,7 +1151,7 @@ original_item = "pearl"
 type = "hidden"
 table = "hidden"
 check = 894
-label = "Route 213 - Hidden (Pearl) 1"
+label = "Route 213 - Hidden Item in Rock Corner Behind Fisherman"
 id = 164
 
 [route_213_pearl_1]
@@ -1159,7 +1159,7 @@ original_item = "pearl"
 type = "hidden"
 table = "hidden"
 check = 895
-label = "Route 213 - Hidden (Pearl) 2"
+label = "Route 213 - Hidden Item on Beach Near Tubers"
 id = 165
 
 [route_213_max_revive_0]
@@ -1175,7 +1175,7 @@ original_item = "heart_scale"
 type = "hidden"
 table = "hidden"
 check = 914
-label = "Route 213 - Hidden (Heart Scale)"
+label = "Route 213 - Hidden Item on Beach East Side 2"
 id = 184
 
 [route_213_big_pearl_0]
@@ -1191,7 +1191,7 @@ original_item = "heart_scale"
 type = "hidden"
 table = "hidden"
 check = 916
-label = "Route 213 - Hidden (Heart Scale) 1"
+label = "Route 213 - Hidden Item Below Footstep's House 1"
 id = 186
 
 [route_213_suite_key]
@@ -1207,7 +1207,7 @@ original_item = "pearl"
 type = "hidden"
 table = "hidden"
 check = 988
-label = "Route 213 - Hidden (Pearl) 3"
+label = "Route 213 - Hidden Item on Beach East Side 1"
 id = 258
 
 [route_219_antidote]
@@ -1783,7 +1783,7 @@ original_item = "max_revive"
 type = "hidden"
 table = "hidden"
 check = 904
-label = "Grand Lake - Hidden (Max Revive)"
+label = "Route 213 - Hidden Item in Trash Can in Rock Climb House"
 id = 174
 
 [jubilife_city_potion]
@@ -3553,7 +3553,7 @@ original_item = "tm82"
 type = "overworld"
 table = "overworld"
 check = 1042
-label = "Eterna Forest - Overworld (TM82)"
+label = "Eterna Forest Side Route - Rocky Area Right"
 id = 28
 
 [eterna_forest_outside_silverpowder]
@@ -3561,7 +3561,7 @@ original_item = "silverpowder"
 type = "overworld"
 table = "overworld"
 check = 1043
-label = "Eterna Forest - Overworld (SilverPowder)"
+label = "Eterna Forest Side Route - Rocky Area Left"
 id = 29
 
 [pokemon_mansion_office_tm87]
@@ -4161,7 +4161,7 @@ original_item = "x_speed"
 type = "overworld"
 table = "overworld"
 check = 1277
-label = "T.G. Eterna Bldg - Overworld (X Speed)"
+label = "Team Galactic Eterna Building 2F - Item Between Boxes"
 id = 262
 
 [team_galactic_eterna_building_3f_x_special]
@@ -4169,7 +4169,7 @@ original_item = "x_special"
 type = "overworld"
 table = "overworld"
 check = 1278
-label = "T.G. Eterna Bldg - Overworld (X Special)"
+label = "Team Galactic Eterna Building 3F - Item Behind Machines"
 id = 263
 
 [team_galactic_eterna_building_4f_revive]
@@ -4177,7 +4177,7 @@ original_item = "revive"
 type = "overworld"
 table = "overworld"
 check = 1292
-label = "T.G. Eterna Bldg - Overworld (Revive)"
+label = "Team Galactic Eterna Building 4F - Dead End Item 2"
 id = 277
 
 [team_galactic_eterna_building_4f_blue_shard]
@@ -4185,7 +4185,7 @@ original_item = "blue_shard"
 type = "overworld"
 table = "overworld"
 check = 1279
-label = "T.G. Eterna Bldg - Overworld (Blue Shard)"
+label = "Team Galactic Eterna Building 4F - Dead End Item 1"
 id = 264
 
 [team_galactic_eterna_building_4f_upgrade]
@@ -4193,7 +4193,7 @@ original_item = "upgrade"
 type = "overworld"
 table = "overworld"
 check = 1280
-label = "T.G. Eterna Bldg - Overworld (Up-Grade)"
+label = "Team Galactic Eterna Building 4F - Item By Jupiter"
 id = 265
 
 [wayward_cave_1f_tm26]
@@ -4201,7 +4201,7 @@ original_item = "tm26"
 type = "overworld"
 table = "overworld"
 check = 1052
-label = "Wayward Cave - Overworld (TM26)"
+label = "Wayward Cave Secret Basement - Item in Final Room"
 id = 38
 
 [wayward_cave_1f_tm32]
@@ -4209,7 +4209,7 @@ original_item = "tm32"
 type = "overworld"
 table = "overworld"
 check = 1048
-label = "Wayward Cave - Overworld (TM32)"
+label = "Wayward Cave - Item in Southwest Corner"
 id = 34
 
 [wayward_cave_1f_revive]
@@ -4217,7 +4217,7 @@ original_item = "revive"
 type = "overworld"
 table = "overworld"
 check = 1049
-label = "Wayward Cave - Overworld (Revive)"
+label = "Wayward Cave - Item in Northwest Corner"
 id = 35
 
 [wayward_cave_1f_escape_rope]
@@ -4225,7 +4225,7 @@ original_item = "escape_rope"
 type = "overworld"
 table = "overworld"
 check = 1050
-label = "Wayward Cave - Overworld (Escape Rope)"
+label = "Wayward Cave - Item Next to Five Rocks"
 id = 36
 
 [wayward_cave_1f_yellow_shard]
@@ -4233,7 +4233,7 @@ original_item = "yellow_shard"
 type = "hidden"
 table = "hidden"
 check = 736
-label = "Wayward Cave - Hidden (Yellow Shard)"
+label = "Wayward Cave - Hidden Item in Rock Next to Mira"
 id = 6
 
 [wayward_cave_1f_great_ball]
@@ -4241,7 +4241,7 @@ original_item = "great_ball"
 type = "hidden"
 table = "hidden"
 check = 739
-label = "Wayward Cave - Hidden (Great Ball)"
+label = "Wayward Cave - Hidden Item in Rock Below Picnicker on East Side"
 id = 9
 
 [wayward_cave_1f_red_shard]
@@ -4249,7 +4249,7 @@ original_item = "red_shard"
 type = "hidden"
 table = "hidden"
 check = 738
-label = "Wayward Cave - Hidden (Red Shard)"
+label = "Route 207 or Wayward Cave - Hidden Item That's Either South of Hikers in Wayward Cave or Above Rock Climb Slope on Route 207"
 id = 8
 
 [wayward_cave_1f_green_shard]
@@ -4257,7 +4257,7 @@ original_item = "green_shard"
 type = "hidden"
 table = "hidden"
 check = 892
-label = "Wayward Cave - Hidden (Green Shard)"
+label = "Wayward Cave - Hidden Item in Center Boulder"
 id = 162
 
 [wayward_cave_1f_super_potion]
@@ -4265,7 +4265,7 @@ original_item = "super_potion"
 type = "hidden"
 table = "hidden"
 check = 938
-label = "Wayward Cave - Hidden (Super Potion)"
+label = "Wayward Cave - Hidden Item in Corner With Breakable Rock"
 id = 208
 
 [wayward_cave_1f_blue_shard]
@@ -4273,7 +4273,7 @@ original_item = "blue_shard"
 type = "hidden"
 table = "hidden"
 check = 939
-label = "Wayward Cave - Hidden (Blue Shard)"
+label = "Wayward Cave - Hidden Item in Southeast Corner"
 id = 209
 
 [wayward_cave_b1f_grip_claw]
@@ -4281,7 +4281,7 @@ original_item = "grip_claw"
 type = "overworld"
 table = "overworld"
 check = 1056
-label = "Wayward Cave - Overworld (Grip Claw)"
+label = "Wayward Cave Secret Basement - Item Between Bike Bridges"
 id = 42
 
 [wayward_cave_b1f_max_ether]
@@ -4289,7 +4289,7 @@ original_item = "max_ether"
 type = "overworld"
 table = "overworld"
 check = 1054
-label = "Wayward Cave - Overworld (Max Ether)"
+label = "Wayward Cave Secret Basement - Item After Four Bike Jumps"
 id = 40
 
 [wayward_cave_b1f_rare_candy]
@@ -4297,7 +4297,7 @@ original_item = "rare_candy"
 type = "overworld"
 table = "overworld"
 check = 1055
-label = "Wayward Cave - Overworld (Rare Candy)"
+label = "Wayward Cave Secret Basement - Item Next to Bike Ramp on Ledges"
 id = 41
 
 [wayward_cave_b1f_stardust]
@@ -4305,7 +4305,7 @@ original_item = "stardust"
 type = "hidden"
 table = "hidden"
 check = 741
-label = "Wayward Cave - Hidden (Stardust)"
+label = "Wayward Cave Secret Basement - Hidden Item Against Northwest Wall"
 id = 11
 
 [wayward_cave_b1f_dusk_stone]
@@ -4313,7 +4313,7 @@ original_item = "dusk_stone"
 type = "hidden"
 table = "hidden"
 check = 740
-label = "Wayward Cave - Hidden (Dusk Stone)"
+label = "Wayward Cave Secret Basement - Hidden Item in Rock Before First Bike Slope"
 id = 10
 
 [solaceon_ruins_room_3_southwest_dead_end_water_stone]
@@ -4337,7 +4337,7 @@ original_item = "tm12"
 type = "overworld"
 table = "overworld"
 check = 1041
-label = "Route 211 - Overworld (TM12)"
+label = "Route 211 West - Item Under Bridge"
 id = 27
 
 [route_211_west_great_ball]
@@ -4409,7 +4409,7 @@ original_item = "tm01"
 type = "overworld"
 table = "overworld"
 check = 1017
-label = "Oreburgh Gate - Overworld (TM01)"
+label = "Oreburgh Gate B1F - Item in Pit North"
 id = 3
 
 [oreburgh_gate_b1f_earth_plate]
@@ -4417,7 +4417,7 @@ original_item = "earth_plate"
 type = "overworld"
 table = "overworld"
 check = 1020
-label = "Oreburgh Gate - Overworld (Earth Plate)"
+label = "Oreburgh Gate B1F - Item in Pit South"
 id = 6
 
 [oreburgh_gate_b1f_tm31]
@@ -4425,7 +4425,7 @@ original_item = "tm31"
 type = "overworld"
 table = "overworld"
 check = 1018
-label = "Oreburgh Gate - Overworld (TM31)"
+label = "Oreburgh Gate B1F - Item After Ramps"
 id = 4
 
 [oreburgh_gate_b1f_tm70]
@@ -4433,7 +4433,7 @@ original_item = "tm70"
 type = "hm"
 table = "overworld"
 check = 1019
-label = "Oreburgh Gate - Overworld (TM70)"
+label = "Oreburgh Gate B1F - Item on East Ledges"
 id = 5
 
 [oreburgh_gate_b1f_big_pearl]
@@ -4441,7 +4441,7 @@ original_item = "big_pearl"
 type = "overworld"
 table = "overworld"
 check = 1183
-label = "Oreburgh Gate - Overworld (Big Pearl)"
+label = "Oreburgh Gate B1F - Item Next to Cyclist"
 id = 169
 
 [veilstone_city_galactic_warehouse_dusk_stone]
@@ -4665,7 +4665,7 @@ original_item = "mine_badge"
 type = "badge"
 table = "base"
 check = 146
-label = "Canalave City Gym - Badge (From Byron)"
+label = "Canalave Gym - Mine Badge from Byron"
 id = 10
 
 [canalave_city_gym_tm91]
@@ -4673,7 +4673,7 @@ original_item = "tm91"
 type = "npc_gift"
 table = "base"
 check = 146
-label = "Canalave City Gym - TM91 (From Byron)"
+label = "Canalave Gym - TM91 from Byron"
 id = 11
 
 [snowpoint_city_gym_icicle_badge]
@@ -4712,7 +4712,7 @@ id = 15
 original_item = "hm01"
 type = "hm"
 table = "base"
-label = "Eterna City - HM01 From Cynthia"
+label = "Eterna City - HM01 from Cynthia"
 id = 16
 
 [eterna_city_hm01.check]
@@ -4725,7 +4725,7 @@ original_item = "hm06"
 type = "hm"
 table = "base"
 check = 147
-label = "Oreburgh Gate - HM06 From Hiker"
+label = "Oreburgh Gate - HM06 from Hiker"
 id = 17
 
 [celestic_town_cave_hm03]
@@ -4805,7 +4805,7 @@ original_item = "journal"
 type = "key_item"
 table = "base"
 check = 143
-label = "Twinleaf Town - Journal From Mom"
+label = "Twinleaf Town - Journal from Mom"
 id = 26
 
 [twinleaf_town_player_house_1f_parcel]
@@ -4813,7 +4813,7 @@ original_item = "parcel"
 type = "key_item"
 table = "base"
 check = 143
-label = "Twinleaf Town - Parcel From Rival's Mom"
+label = "Twinleaf Town - Parcel from Rival's Mom"
 id = 27
 
 [route_201_potion]
@@ -4837,7 +4837,7 @@ original_item = "pokedex"
 type = "pokedex"
 table = "base"
 check = 2914
-label = "Sandgem Town Pokemon Research Lab - National Pokédex From Prof Oak"
+label = "Sandgem Town Pokemon Research Lab - National Pokédex from Prof Oak"
 id = 30
 
 [sandgem_town_pokemon_research_lab_poke_radar]
@@ -4845,7 +4845,7 @@ original_item = "poke_radar"
 type = "key_item"
 table = "base"
 check = 2914
-label = "Sandgem Town Pokemon Research Lab - Poké Radar From Rowan"
+label = "Sandgem Town Pokemon Research Lab - Poké Radar from Rowan"
 id = 31
 
 [sandgem_town_tm27]
@@ -4984,7 +4984,7 @@ original_item = "bicycle"
 type = "bicycle"
 table = "base"
 check = 130
-label = "Cycle Shop - Bicycle"
+label = "Eterna City - Bike from Rad Rickshaw"
 id = 47
 
 [oreburgh_city_northwest_house_2f_dusk_ball]
@@ -5140,7 +5140,7 @@ original_item = "black_flute"
 type = "npc_gift"
 table = "base"
 check = 352
-label = "Mt. Coronet 2F - Black Flute (From Looker)"
+label = "Mt. Coronet 2F - Gift from Looker"
 id = 66
 
 [route_208_odd_keystone]
@@ -5269,7 +5269,7 @@ check = 205
 original_item = "tm66"
 type = "npc_gift"
 table = "base"
-label = "Route 215 - TM66 (From Black Belt)"
+label = "Route 215 - TM66 from Black Belt"
 
 [veilstone_city_tm63]
 id = 83
@@ -5352,7 +5352,7 @@ check = 285
 original_item = "metal_coat"
 type = "npc_gift"
 table = "base"
-label = "Iron Island - Metal Coat (From Byron)"
+label = "Iron Island - Metal Coat from Byron"
 
 [route_217_west_house_icicle_plate]
 id = 93
@@ -5392,7 +5392,7 @@ check = 206
 original_item = "tm56"
 type = "npc_gift"
 table = "base"
-label = "Route 222 - TM56 (From Rich Boy)"
+label = "Route 222 - Gift From Rich Boy Above Pikachu House"
 
 [sunyshore_city_east_house_roulette]
 id = 96
