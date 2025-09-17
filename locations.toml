@@ -3577,7 +3577,7 @@ original_item = "green_shard"
 type = "hidden"
 table = "hidden"
 check = 835
-label = "Mt. Coronet - Hidden (Green Shard)"
+label = "Mt. Coronet Tunnel to 1F - Hidden Item Behind Breakable Rock on Left"
 id = 105
 
 [mt_coronet_1f_tunnel_room_stardust]
@@ -3585,7 +3585,7 @@ original_item = "stardust"
 type = "hidden"
 table = "hidden"
 check = 833
-label = "Mt. Coronet - Hidden (Stardust) 2"
+label = "Mt. Coronet Tunnel to 1F - Hidden Item on Corner White Rock Before Exit"
 id = 103
 
 [mt_coronet_1f_tunnel_room_heal_powder]
@@ -3593,7 +3593,7 @@ original_item = "heal_powder"
 type = "hidden"
 table = "hidden"
 check = 834
-label = "Mt. Coronet - Hidden (Heal Powder) 1"
+label = "Mt. Coronet Tunnel to 1F - Hidden Item Above Big White Rock"
 id = 104
 
 [mt_coronet_1f_tunnel_room_max_potion]
@@ -3601,7 +3601,7 @@ original_item = "max_potion"
 type = "hidden"
 table = "hidden"
 check = 837
-label = "Mt. Coronet - Hidden (Max Potion) 1"
+label = "Mt. Coronet Tunnel to 1F - Hidden Item Before Exit"
 id = 107
 
 [mt_coronet_1f_tunnel_room_rare_candy]
@@ -3609,7 +3609,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 836
-label = "Mt. Coronet - Hidden (Rare Candy)"
+label = "Mt. Coronet Tunnel to 1F - Hidden Item on Right Path"
 id = 106
 
 [mt_coronet_1f_tunnel_room_green_shard_0]
@@ -3617,7 +3617,7 @@ original_item = "green_shard"
 type = "hidden"
 table = "hidden"
 check = 838
-label = "Mt. Coronet - Hidden (Green Shard) 1"
+label = "Mt. Coronet Tunnel to 1F - Hidden Item in White Rock on South Ledge"
 id = 108
 
 [mt_coronet_1f_north_room_1_rare_candy]
@@ -3625,7 +3625,7 @@ original_item = "rare_candy"
 type = "overworld"
 table = "overworld"
 check = 1164
-label = "Mt. Coronet - Overworld (Rare Candy)"
+label = "Mt. Coronet (Route 211 Tunnel Room) - Item Behind Two Breakable Rocks"
 id = 150
 
 [mt_coronet_1f_north_room_1_tm69]
@@ -3633,7 +3633,7 @@ original_item = "tm69"
 type = "overworld"
 table = "overworld"
 check = 1162
-label = "Mt. Coronet - Overworld (TM69)"
+label = "Mt. Coronet (Route 211 Tunnel Room) - Item in Corner Above Ledge"
 id = 148
 
 [mt_coronet_1f_north_room_1_escape_rope]
@@ -3641,7 +3641,7 @@ original_item = "escape_rope"
 type = "overworld"
 table = "overworld"
 check = 1163
-label = "Mt. Coronet - Overworld (Escape Rope) 1"
+label = "Mt. Coronet (Route 211 Tunnel Room) - Item Below East Exit"
 id = 149
 
 [mt_coronet_1f_north_room_1_tm02]
@@ -3649,7 +3649,7 @@ original_item = "tm02"
 type = "overworld"
 table = "overworld"
 check = 1188
-label = "Mt. Coronet - Overworld (TM02)"
+label = "Mt. Coronet (Route 211 Tunnel Room) - Item in Bottom Corridor"
 id = 174
 
 [mt_coronet_1f_north_room_1_ice_heal]
@@ -3657,7 +3657,7 @@ original_item = "ice_heal"
 type = "overworld"
 table = "overworld"
 check = 1276
-label = "Mt. Coronet - Overworld (Ice Heal)"
+label = "Mt. Coronet (Route 211 Tunnel Room) - Item in Center"
 id = 261
 
 [mt_coronet_1f_north_room_1_red_shard]
@@ -3665,7 +3665,7 @@ original_item = "red_shard"
 type = "hidden"
 table = "hidden"
 check = 795
-label = "Mt. Coronet - Hidden (Red Shard) 1"
+label = "Mt. Coronet (Route 211 Tunnel Room) - Hidden Item on Boulder Before Stairs"
 id = 65
 
 [mt_coronet_1f_north_room_1_star_piece]
@@ -3673,7 +3673,7 @@ original_item = "star_piece"
 type = "hidden"
 table = "hidden"
 check = 796
-label = "Mt. Coronet - Hidden (Star Piece) 5"
+label = "Mt. Coronet (Route 211 Tunnel Room) - Hidden Item on Right Boulder"
 id = 66
 
 [mt_coronet_1f_north_room_1_stardust]
@@ -3681,7 +3681,7 @@ original_item = "stardust"
 type = "hidden"
 table = "hidden"
 check = 794
-label = "Mt. Coronet - Hidden (Stardust) 3"
+label = "Mt. Coronet (Route 211 Tunnel Room) - Hidden Item on Center Boulder"
 id = 64
 
 [mt_coronet_1f_north_room_1_energypowder]
@@ -3697,7 +3697,7 @@ original_item = "nugget"
 type = "hidden"
 table = "hidden"
 check = 793
-label = "Mt. Coronet - Hidden (Nugget)"
+label = "Mt. Coronet (Route 211 Tunnel Room) - Hidden Item Above Item in Bottom Corridor"
 id = 63
 
 [mt_coronet_b1f_revive]
@@ -3705,7 +3705,7 @@ original_item = "revive"
 type = "overworld"
 table = "overworld"
 check = 1170
-label = "Mt. Coronet - Overworld (Revive)"
+label = "Mt. Coronet B1F - Item Behind Boulder"
 id = 156
 
 [mt_coronet_b1f_soft_sand]
@@ -3713,7 +3713,7 @@ original_item = "soft_sand"
 type = "overworld"
 table = "overworld"
 check = 1165
-label = "Mt. Coronet - Overworld (Soft Sand)"
+label = "Mt. Coronet B1F - Item Behind West Boulder"
 id = 151
 
 [mt_coronet_b1f_light_clay]
@@ -3721,7 +3721,7 @@ original_item = "light_clay"
 type = "overworld"
 table = "overworld"
 check = 1166
-label = "Mt. Coronet - Overworld (Light Clay)"
+label = "Mt. Coronet B1F - Item in Middle of Lake"
 id = 152
 
 [mt_coronet_b1f_max_elixir]
@@ -3729,7 +3729,7 @@ original_item = "max_elixir"
 type = "overworld"
 table = "overworld"
 check = 1169
-label = "Mt. Coronet - Overworld (Max Elixir)"
+label = "Mt. Coronet B1F - Item in Northeast Corner of Lake"
 id = 155
 
 [mt_coronet_b1f_full_restore]
@@ -3737,7 +3737,7 @@ original_item = "full_restore"
 type = "overworld"
 table = "overworld"
 check = 1168
-label = "Mt. Coronet - Overworld (Full Restore)"
+label = "Mt. Coronet B1F - Item Against East Wall"
 id = 154
 
 [mt_coronet_b1f_ultra_ball]
@@ -3745,7 +3745,7 @@ original_item = "ultra_ball"
 type = "overworld"
 table = "overworld"
 check = 1167
-label = "Mt. Coronet - Overworld (Ultra Ball)"
+label = "Mt. Coronet B1F - Item in SW Corner"
 id = 153
 
 [mt_coronet_b1f_star_piece]
@@ -3753,7 +3753,7 @@ original_item = "star_piece"
 type = "hidden"
 table = "hidden"
 check = 800
-label = "Mt. Coronet - Hidden (Star Piece) 6"
+label = "Mt. Coronet B1F - Hidden Item Between White Rocks in North"
 id = 70
 
 [mt_coronet_b1f_rare_candy]
@@ -3761,7 +3761,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 799
-label = "Mt. Coronet - Hidden (Rare Candy) 1"
+label = "Mt. Coronet B1F - Hidden Item in Front of North Stairs"
 id = 69
 
 [mt_coronet_b1f_blue_shard]
@@ -3769,7 +3769,7 @@ original_item = "blue_shard"
 type = "hidden"
 table = "hidden"
 check = 798
-label = "Mt. Coronet - Hidden (Blue Shard) 1"
+label = "Mt. Coronet B1F - Hidden Item Behind Breakable Rock West of Lake"
 id = 68
 
 [mt_coronet_b1f_green_shard]
@@ -3777,7 +3777,7 @@ original_item = "green_shard"
 type = "hidden"
 table = "hidden"
 check = 797
-label = "Mt. Coronet - Hidden (Green Shard) 2"
+label = "Mt. Coronet B1F - Hidden Item in SW White Rock"
 id = 67
 
 [mt_coronet_1f_north_room_2_yellow_shard]
@@ -3785,7 +3785,7 @@ original_item = "yellow_shard"
 type = "hidden"
 table = "hidden"
 check = 791
-label = "Mt. Coronet - Hidden (Yellow Shard) 1"
+label = "Mt. Coronet (Exit to Route 216 Room) - Hidden Item on Left White Rock"
 id = 61
 
 [route_216_tm13]
@@ -3873,7 +3873,7 @@ original_item = "nevermeltice"
 type = "overworld"
 table = "overworld"
 check = 1338
-label = "Mt. Coronet - Overworld (NeverMeltIce)"
+label = "Iceberg Ruins - Item in Center"
 id = 323
 
 [mt_coronet_iceberg_ruins_nugget]
@@ -3881,7 +3881,7 @@ original_item = "nugget"
 type = "hidden"
 table = "hidden"
 check = 1005
-label = "Mt. Coronet - Hidden (Nugget) 1"
+label = "Iceberg Ruins - Hidden Item Up and Left of Center"
 id = 275
 
 [route_217_hm08]
