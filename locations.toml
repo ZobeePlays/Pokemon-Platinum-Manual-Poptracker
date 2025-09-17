@@ -435,7 +435,7 @@ original_item = "lunar_wing"
 type = "key_item"
 table = "overworld"
 check = 2936
-label = "Fullmoon Island - Overworld (Lunar Wing)"
+label = "Fullmoon Island - Item in Clearing after Cresselia has Fled"
 id = 92
 
 [victory_road_b1f_tm59]
@@ -595,7 +595,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 889
-label = "Route 227 - Hidden Item (Rare Candy)"
+label = "Route 226 - Hidden Item in Tree Gap North of Meister's House"
 id = 159
 
 [route_228_protector]
@@ -1135,7 +1135,7 @@ original_item = "pearl"
 type = "hidden"
 table = "hidden"
 check = 758
-label = "Route 213 - Hidden (Pearl)"
+label = "Route 213 - Hidden Item Below Footstep's House 1"
 id = 28
 
 [route_213_hyper_potion]
@@ -1143,7 +1143,7 @@ original_item = "hyper_potion"
 type = "hidden"
 table = "hidden"
 check = 882
-label = "Route 213 - Hidden (Hyper Potion)"
+label = "Route 213 - Hidden Item Next to Honey Tree"
 id = 152
 
 [route_213_pearl_0]
@@ -1151,7 +1151,7 @@ original_item = "pearl"
 type = "hidden"
 table = "hidden"
 check = 894
-label = "Route 213 - Hidden (Pearl) 1"
+label = "Route 213 - Hidden Item in Rock Corner Behind Fisherman"
 id = 164
 
 [route_213_pearl_1]
@@ -1159,7 +1159,7 @@ original_item = "pearl"
 type = "hidden"
 table = "hidden"
 check = 895
-label = "Route 213 - Hidden (Pearl) 2"
+label = "Route 213 - Hidden Item on Beach Near Tubers"
 id = 165
 
 [route_213_max_revive_0]
@@ -1175,7 +1175,7 @@ original_item = "heart_scale"
 type = "hidden"
 table = "hidden"
 check = 914
-label = "Route 213 - Hidden (Heart Scale)"
+label = "Route 213 - Hidden Item on Beach East Side 2"
 id = 184
 
 [route_213_big_pearl_0]
@@ -1191,7 +1191,7 @@ original_item = "heart_scale"
 type = "hidden"
 table = "hidden"
 check = 916
-label = "Route 213 - Hidden (Heart Scale) 1"
+label = "Route 213 - Hidden Item Below Footstep's House 1"
 id = 186
 
 [route_213_suite_key]
@@ -1207,7 +1207,7 @@ original_item = "pearl"
 type = "hidden"
 table = "hidden"
 check = 988
-label = "Route 213 - Hidden (Pearl) 3"
+label = "Route 213 - Hidden Item on Beach East Side 1"
 id = 258
 
 [route_219_antidote]
@@ -1783,7 +1783,7 @@ original_item = "max_revive"
 type = "hidden"
 table = "hidden"
 check = 904
-label = "Grand Lake - Hidden (Max Revive)"
+label = "Route 213 - Hidden Item in Trash Can in Rock Climb House"
 id = 174
 
 [jubilife_city_potion]
@@ -5352,7 +5352,7 @@ check = 285
 original_item = "metal_coat"
 type = "npc_gift"
 table = "base"
-label = "Iron Island - Metal Coat (From Byron)"
+label = "Iron Island - Metal Coat from Byron"
 
 [route_217_west_house_icicle_plate]
 id = 93
