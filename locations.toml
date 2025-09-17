@@ -3,7 +3,7 @@ original_item = "great_ball"
 type = "overworld"
 table = "overworld"
 check = 1084
-label = "Great Marsh - Overworld (Great Ball)"
+label = "Great Marsh Area 3 - Item in Front of Man"
 id = 70
 
 [great_marsh_3_leaf_stone]
@@ -11,7 +11,7 @@ original_item = "leaf_stone"
 type = "hidden"
 table = "hidden"
 check = 942
-label = "Great Marsh - Hidden (Leaf Stone)"
+label = "Great Marsh Area 3 - Hidden Item in Center of East Mud Puddle"
 id = 212
 
 [route_225_razor_fang]
@@ -19,7 +19,7 @@ original_item = "razor_fang"
 type = "overworld"
 table = "overworld"
 check = 1212
-label = "Route 225 - Overworld (Razor Fang)"
+label = "Route 225 - Item on SW Hill"
 id = 198
 
 [route_225_rare_candy]
@@ -27,7 +27,7 @@ original_item = "rare_candy"
 type = "overworld"
 table = "overworld"
 check = 1213
-label = "Route 225 - Overworld (Rare Candy)"
+label = "Route 225 - Item Behind Cut Trees Near Trainer Trio"
 id = 199
 
 [route_225_hp_up]
@@ -35,7 +35,7 @@ original_item = "hp_up"
 type = "overworld"
 table = "overworld"
 check = 1214
-label = "Route 225 - Overworld (HP Up)"
+label = "Route 225 - Item SW in Bridge Section"
 id = 200
 
 [route_225_lax_incense]
@@ -43,7 +43,7 @@ original_item = "lax_incense"
 type = "overworld"
 table = "overworld"
 check = 1215
-label = "Route 225 - Overworld (Lax Incense)"
+label = "Route 225 - Item Behind Cut Trees Next to House"
 id = 201
 
 [route_225_dubious_disc]
@@ -51,7 +51,7 @@ original_item = "dubious_disc"
 type = "overworld"
 table = "overworld"
 check = 1216
-label = "Route 225 - Overworld (Dubious Disc)"
+label = "Route 225 - Item Across Lake Above House"
 id = 202
 
 [route_225_dawn_stone]
@@ -59,7 +59,7 @@ original_item = "dawn_stone"
 type = "overworld"
 table = "overworld"
 check = 1217
-label = "Route 225 - Overworld (Dawn Stone)"
+label = "Route 225 - Item on Northern Rock Climb Ledge"
 id = 203
 
 [route_225_revive]
@@ -67,7 +67,7 @@ original_item = "revive"
 type = "overworld"
 table = "overworld"
 check = 1218
-label = "Route 225 - Overworld (Revive)"
+label = "Route 225 - Item West of Bridge Section"
 id = 204
 
 [route_225_green_shard]
@@ -75,7 +75,7 @@ original_item = "green_shard"
 type = "overworld"
 table = "overworld"
 check = 1321
-label = "Route 225 - Overworld (Green Shard)"
+label = "Route 225 - Item in Grass Corner on North Side"
 id = 306
 
 [route_225_rare_candy_0]
@@ -83,7 +83,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 860
-label = "Route 225 - Hidden (Rare Candy)"
+label = "Route 225 - Hidden Item Between Two Bridges Below An Ace Trainer"
 id = 130
 
 [route_225_big_mushroom]
@@ -91,7 +91,7 @@ original_item = "big_mushroom"
 type = "hidden"
 table = "hidden"
 check = 903
-label = "Route 225 - Hidden (Big Mushroom)"
+label = "Route 225 - Hidden Item in Grass NE in Bridge Section"
 id = 173
 
 [route_225_leaf_stone]
@@ -99,7 +99,7 @@ original_item = "leaf_stone"
 type = "hidden"
 table = "hidden"
 check = 933
-label = "Route 225 - Hidden (Leaf Stone)"
+label = "Route 225 - Hidden Item in Corner of Grass Below House"
 id = 203
 
 [route_225_ultra_ball]
@@ -107,7 +107,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 934
-label = "Route 225 - Hidden (Ultra Ball)"
+label = "Route 225 - Hidden Item in Center of Northernmost Grass Patch"
 id = 204
 
 [great_marsh_4_green_shard]
@@ -115,7 +115,7 @@ original_item = "green_shard"
 type = "overworld"
 table = "overworld"
 check = 1085
-label = "Great Marsh - Overworld (Green Shard)"
+label = "Great Marsh Area 4 - Item Above Bug Catcher"
 id = 71
 
 [great_marsh_4_poke_ball]
@@ -123,7 +123,7 @@ original_item = "poke_ball"
 type = "overworld"
 table = "overworld"
 check = 1083
-label = "Great Marsh - Overworld (Poké Ball)"
+label = "Great Marsh Area 6 - Item Below Bug Catcher"
 id = 69
 
 [great_marsh_4_hyper_potion]
@@ -131,7 +131,7 @@ original_item = "hyper_potion"
 type = "hidden"
 table = "hidden"
 check = 943
-label = "Great Marsh - Hidden (Hyper Potion)"
+label = "Great Marsh Area 4 - Hidden Item in SW Corner of Muddy Grass"
 id = 213
 
 [victory_road_1f_rare_candy]
@@ -139,7 +139,7 @@ original_item = "rare_candy"
 type = "overworld"
 table = "overworld"
 check = 1197
-label = "Victory Road - Overworld (Rare Candy)"
+label = "Victory Road 1F - Item from Southern B1F Stairs"
 id = 183
 
 [victory_road_1f_max_repel]
@@ -147,7 +147,7 @@ original_item = "max_repel"
 type = "overworld"
 table = "overworld"
 check = 1196
-label = "Victory Road - Overworld (Max Repel)"
+label = "Victory Road 1F - Item Across Bridge"
 id = 182
 
 [victory_road_1f_tm41]
@@ -155,7 +155,7 @@ original_item = "tm41"
 type = "overworld"
 table = "overworld"
 check = 1195
-label = "Victory Road - Overworld (TM41)"
+label = "Victory Road 1F - First Item on Left"
 id = 181
 
 [victory_road_1f_razor_claw]
@@ -163,7 +163,7 @@ original_item = "razor_claw"
 type = "overworld"
 table = "overworld"
 check = 1199
-label = "Victory Road - Overworld (Razor Claw)"
+label = "Victory Road 1F - Item Down Rock-Filled Path"
 id = 185
 
 [victory_road_1f_zinc]
@@ -171,7 +171,7 @@ original_item = "zinc"
 type = "overworld"
 table = "overworld"
 check = 1198
-label = "Victory Road - Overworld (Zinc)"
+label = "Victory Road 1F - Item in Front of Foggy Basement Entrance"
 id = 184
 
 [victory_road_1f_ultra_ball]
@@ -179,7 +179,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 844
-label = "Victory Road - Hidden (Ultra Ball)"
+label = "Victory Road 1F - Hidden Item Between Black Belt and Stairs"
 id = 114
 
 [victory_road_1f_max_revive]
@@ -187,7 +187,7 @@ original_item = "max_revive"
 type = "hidden"
 table = "hidden"
 check = 845
-label = "Victory Road - Hidden (Max Revive)"
+label = "Victory Road 1F - Hidden Item on Rock Climb Hill Before Northern 2F Stairs"
 id = 115
 
 [victory_road_1f_nugget]
@@ -195,7 +195,7 @@ original_item = "nugget"
 type = "hidden"
 table = "hidden"
 check = 843
-label = "Victory Road - Hidden (Nugget)"
+label = "Victory Road 1F - Hidden Item Before First Staircase to 2F"
 id = 113
 
 [pokemon_league_sky_plate]
@@ -211,7 +211,7 @@ original_item = "tm79"
 type = "overworld"
 table = "overworld"
 check = 1202
-label = "Victory Road - Overworld (TM79)"
+label = "Victory Road 2F - Item From Northern 1F Stairs"
 id = 188
 
 [victory_road_2f_max_elixir]
@@ -219,7 +219,7 @@ original_item = "max_elixir"
 type = "overworld"
 table = "overworld"
 check = 1200
-label = "Victory Road - Overworld (Max Elixir)"
+label = "Victory Road 2F - NW Item"
 id = 186
 
 [victory_road_2f_full_restore]
@@ -227,7 +227,7 @@ original_item = "full_restore"
 type = "overworld"
 table = "overworld"
 check = 1201
-label = "Victory Road - Overworld (Full Restore)"
+label = "Victory Road 2F - Item Above Ledge"
 id = 187
 
 [victory_road_2f_tm71]
@@ -235,7 +235,7 @@ original_item = "tm71"
 type = "overworld"
 table = "overworld"
 check = 1203
-label = "Victory Road - Overworld (TM71)"
+label = "Victory Road 2F - Item in NE"
 id = 189
 
 [victory_road_2f_full_restore_0]
@@ -243,7 +243,7 @@ original_item = "full_restore"
 type = "hidden"
 table = "hidden"
 check = 846
-label = "Victory Road - Hidden (Full Restore)"
+label = "Victory Road 2F - Hidden Item in SE Corner"
 id = 116
 
 [victory_road_2f_rare_candy]
@@ -251,7 +251,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 847
-label = "Victory Road - Hidden (Rare Candy)"
+label = "Victory Road 2F - Hidden Item Between Ace Trainer and Ledge"
 id = 117
 
 [route_224_razor_claw]
@@ -371,7 +371,7 @@ original_item = "yellow_shard"
 type = "overworld"
 table = "overworld"
 check = 1080
-label = "Great Marsh - Overworld (Yellow Shard)"
+label = "Great Marsh Area 1 - Upper Item Between Mud Patches"
 id = 66
 
 [great_marsh_1_poke_ball]
@@ -379,7 +379,7 @@ original_item = "poke_ball"
 type = "overworld"
 table = "overworld"
 check = 1081
-label = "Great Marsh - Overworld (Poké Ball) 1"
+label = "Great Marsh Area 1 - Lower Item Between Mud Patches"
 id = 67
 
 [great_marsh_1_rare_candy]
@@ -387,7 +387,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 940
-label = "Great Marsh - Hidden (Rare Candy)"
+label = "Great Marsh Area 1 - Hidden Item in Northwest Corner of Deep Mud"
 id = 210
 
 [survival_area_rare_candy]
@@ -419,7 +419,7 @@ original_item = "great_ball"
 type = "overworld"
 table = "overworld"
 check = 1086
-label = "Great Marsh - Overworld (Great Ball) 1"
+label = "Great Marsh Area 5 - Item in Southwest Area"
 id = 72
 
 [great_marsh_5_big_mushroom]
@@ -427,7 +427,7 @@ original_item = "big_mushroom"
 type = "hidden"
 table = "hidden"
 check = 944
-label = "Great Marsh - Hidden (Big Mushroom)"
+label = "Great Marsh Area 5 - Hidden Item in Bottom Right Corner of SW Muddy Grass"
 id = 214
 
 [fullmoon_island_forest_lunar_wing]
@@ -443,7 +443,7 @@ original_item = "tm59"
 type = "overworld"
 table = "overworld"
 check = 1204
-label = "Victory Road - Overworld (TM59)"
+label = "Victory Road B1F - Item on Ledge"
 id = 190
 
 [victory_road_b1f_ultra_ball]
@@ -451,7 +451,7 @@ original_item = "ultra_ball"
 type = "overworld"
 table = "overworld"
 check = 1327
-label = "Victory Road - Overworld (Ultra Ball)"
+label = "Victory Road B1F - Item in Top Right"
 id = 312
 
 [victory_road_b1f_calcium]
@@ -459,7 +459,7 @@ original_item = "calcium"
 type = "overworld"
 table = "overworld"
 check = 1328
-label = "Victory Road - Overworld (Calcium)"
+label = "Victory Road B1F - Item in Bottom Right"
 id = 313
 
 [victory_road_b1f_heart_scale]
@@ -467,7 +467,7 @@ original_item = "heart_scale"
 type = "hidden"
 table = "hidden"
 check = 848
-label = "Victory Road - Hidden (Heart Scale)"
+label = "Victory Road B1F - Hidden Item on Rock Below Corner of Water"
 id = 118
 
 [victory_road_b1f_max_elixir]
@@ -475,7 +475,7 @@ original_item = "max_elixir"
 type = "hidden"
 table = "hidden"
 check = 849
-label = "Victory Road - Hidden (Max Elixir)"
+label = "Victory Road B1F - Hidden Item in Front of North Stairs"
 id = 119
 
 [great_marsh_2_blue_shard]
@@ -483,7 +483,7 @@ original_item = "blue_shard"
 type = "overworld"
 table = "overworld"
 check = 1082
-label = "Great Marsh - Overworld (Blue Shard)"
+label = "Great Marsh Area 2 - Item Above Ledge"
 id = 68
 
 [great_marsh_2_toxic_plate]
@@ -491,7 +491,7 @@ original_item = "toxic_plate"
 type = "hidden"
 table = "hidden"
 check = 941
-label = "Great Marsh - Hidden (Toxic Plate)"
+label = "Great Marsh Area 2 - Hidden Item in Deep Mud Behind Parasol Lady"
 id = 211
 
 [route_226_tm53]
@@ -499,7 +499,7 @@ original_item = "tm53"
 type = "overworld"
 table = "overworld"
 check = 1219
-label = "Route 226 - Overworld (TM53)"
+label = "Route 226 - Item on Ledge Below Ace Trainers"
 id = 205
 
 [route_226_carbos]
@@ -507,7 +507,7 @@ original_item = "carbos"
 type = "overworld"
 table = "overworld"
 check = 1221
-label = "Route 226 - Overworld (Carbos)"
+label = "Route 226 - Item in SW Trees"
 id = 207
 
 [route_226_lagging_tail]
@@ -515,7 +515,7 @@ original_item = "lagging_tail"
 type = "overworld"
 table = "overworld"
 check = 1220
-label = "Route 226 - Overworld (Lagging Tail)"
+label = "Route 226 - Item on Ledge Below Berry Patch"
 id = 206
 
 [route_226_heart_scale]
@@ -523,7 +523,7 @@ original_item = "heart_scale"
 type = "hidden"
 table = "hidden"
 check = 865
-label = "Route 226 - Hidden (Heart Scale)"
+label = "Route 226 - Hidden Item on Beach Below Rock Climb Area"
 id = 135
 
 [route_226_tinymushroom]
@@ -531,7 +531,7 @@ original_item = "tinymushroom"
 type = "hidden"
 table = "hidden"
 check = 862
-label = "Route 226 - Hidden (TinyMushroom)"
+label = "Route 226 - Hidden Item on Grassy Plateau Near Lake 1"
 id = 132
 
 [route_226_big_mushroom]
@@ -539,7 +539,7 @@ original_item = "big_mushroom"
 type = "hidden"
 table = "hidden"
 check = 864
-label = "Route 226 - Hidden (Big Mushroom)"
+label = "Route 226 - Hidden Item on Grassy Plateau Near Lake 2"
 id = 134
 
 [route_226_pp_max]
@@ -547,7 +547,7 @@ original_item = "pp_max"
 type = "hidden"
 table = "hidden"
 check = 863
-label = "Route 226 - Hidden (PP Max)"
+label = "Route 226 - Hidden Item on Grassy Plateau Near Lake 3"
 id = 133
 
 [route_227_charcoal]
@@ -555,7 +555,7 @@ original_item = "charcoal"
 type = "overworld"
 table = "overworld"
 check = 1222
-label = "Route 227 - Overworld (Charcoal)"
+label = "Route 227 - Item Next to East Pond"
 id = 208
 
 [route_227_zinc]
@@ -563,7 +563,7 @@ original_item = "zinc"
 type = "overworld"
 table = "overworld"
 check = 1223
-label = "Route 227 - Overworld (Zinc)"
+label = "Route 227 - Item Across from Ace Trainer on Ledge"
 id = 209
 
 [route_227_yellow_shard]
@@ -571,7 +571,7 @@ original_item = "yellow_shard"
 type = "overworld"
 table = "overworld"
 check = 1322
-label = "Route 227 - Overworld (Yellow Shard)"
+label = "Route 227 - Item By Grass on Ledges"
 id = 307
 
 [route_227_star_piece]
@@ -579,7 +579,7 @@ original_item = "star_piece"
 type = "hidden"
 table = "hidden"
 check = 866
-label = "Route 227 - Hidden (Star Piece)"
+label = "Route 227 - Hidden Item on Rock West of Grass on Ledges"
 id = 136
 
 [route_227_max_repel]
@@ -595,7 +595,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 889
-label = "Route 227 - Hidden (Rare Candy)"
+label = "Route 227 - Hidden Item Northeast of West Pond"
 id = 159
 
 [route_228_protector]
@@ -603,7 +603,7 @@ original_item = "protector"
 type = "overworld"
 table = "overworld"
 check = 1238
-label = "Route 228 - Overworld (Protector)"
+label = "Route 228 - Item in Northernmost Pit"
 id = 224
 
 [route_228_iron]
@@ -611,7 +611,7 @@ original_item = "iron"
 type = "overworld"
 table = "overworld"
 check = 1239
-label = "Route 228 - Overworld (Iron)"
+label = "Route 228 - Item Northeast of Move Tutor's House"
 id = 225
 
 [route_228_shiny_stone]
@@ -619,7 +619,7 @@ original_item = "shiny_stone"
 type = "overworld"
 table = "overworld"
 check = 1240
-label = "Route 228 - Overworld (Shiny Stone)"
+label = "Route 228 - Item Across Bike Rail Above Vents"
 id = 226
 
 [route_228_shed_shell]
@@ -627,7 +627,7 @@ original_item = "shed_shell"
 type = "overworld"
 table = "overworld"
 check = 1241
-label = "Route 228 - Overworld (Shed Shell)"
+label = "Route 228 - Item Behind Breakable Rocks"
 id = 227
 
 [route_228_tm37]
@@ -635,7 +635,7 @@ original_item = "tm37"
 type = "overworld"
 table = "overworld"
 check = 1242
-label = "Route 228 - Overworld (TM37)"
+label = "Route 228 - Item Southwest of Two Trainers"
 id = 228
 
 [route_228_calcium]
@@ -643,7 +643,7 @@ original_item = "calcium"
 type = "hidden"
 table = "hidden"
 check = 872
-label = "Route 228 - Hidden (Calcium)"
+label = "Route 228 - Hidden Item in SE Corner by Rock"
 id = 142
 
 [route_228_full_restore]
@@ -651,7 +651,7 @@ original_item = "full_restore"
 type = "hidden"
 table = "hidden"
 check = 874
-label = "Route 228 - Hidden (Full Restore)"
+label = "Route 228 - Hidden Item in Grass West of Move Tutor's House"
 id = 144
 
 [route_228_star_piece]
@@ -659,7 +659,7 @@ original_item = "star_piece"
 type = "hidden"
 table = "hidden"
 check = 873
-label = "Route 228 - Hidden (Star Piece)"
+label = "Route 228 - Hidden Item on Small Rock Near Two-Tree Pond"
 id = 143
 
 [route_228_rare_candy]
@@ -667,7 +667,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 935
-label = "Route 228 - Hidden (Rare Candy)"
+label = "Route 228 - Hidden Item Above Rock Peak Ruins Left Bike Slope"
 id = 205
 
 [route_228_max_repel]
@@ -675,7 +675,7 @@ original_item = "max_repel"
 type = "hidden"
 table = "hidden"
 check = 936
-label = "Route 228 - Hidden (Max Repel)"
+label = "Route 228 - Hidden Item By North Trainer"
 id = 206
 
 [route_228_pp_max]
@@ -683,7 +683,7 @@ original_item = "pp_max"
 type = "hidden"
 table = "hidden"
 check = 937
-label = "Route 228 - Hidden (PP Max)"
+label = "Route 228 - Hidden Item in SW Grass"
 id = 207
 
 [route_230_rare_candy]
@@ -691,7 +691,7 @@ original_item = "rare_candy"
 type = "overworld"
 table = "overworld"
 check = 1247
-label = "Route 230 - Overworld (Rare Candy)"
+label = "Route 230 - Item on Island East Side"
 id = 233
 
 [route_230_blue_shard]
@@ -699,7 +699,7 @@ original_item = "blue_shard"
 type = "overworld"
 table = "overworld"
 check = 1323
-label = "Route 230 - Overworld (Blue Shard)"
+label = "Route 230 - Item on Island West Side"
 id = 308
 
 [route_230_ultra_ball]
@@ -707,7 +707,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 877
-label = "Route 230 - Hidden (Ultra Ball)"
+label = "Route 230 - Hidden Island on Island North Side"
 id = 147
 
 [route_230_water_stone]
@@ -715,7 +715,7 @@ original_item = "water_stone"
 type = "hidden"
 table = "hidden"
 check = 878
-label = "Route 230 - Hidden (Water Stone)"
+label = "Route 230 - Hidden Item on Island East Side Behind Breakable Rock"
 id = 148
 
 [celestic_town_dragon_fang]
@@ -739,7 +739,7 @@ original_item = "nugget"
 type = "overworld"
 table = "overworld"
 check = 1207
-label = "Victory Road - Overworld (Nugget)"
+label = "Victory Road Foggy Basement - Item Above Stairs to Left of Exit"
 id = 193
 
 [victory_road_1f_room_2_full_restore]
@@ -747,7 +747,7 @@ original_item = "full_restore"
 type = "overworld"
 table = "overworld"
 check = 1205
-label = "Victory Road - Overworld (Full Restore) 1"
+label = "Victory Road Foggy Basement - NW Strength Boulders Item 1"
 id = 191
 
 [victory_road_1f_room_2_dusk_stone]
@@ -755,7 +755,7 @@ original_item = "dusk_stone"
 type = "overworld"
 table = "overworld"
 check = 1206
-label = "Victory Road - Overworld (Dusk Stone)"
+label = "Victory Road Foggy Basement - NW Strength Boulders Item 2"
 id = 192
 
 [victory_road_1f_room_2_leftovers]
@@ -763,7 +763,7 @@ original_item = "leftovers"
 type = "overworld"
 table = "overworld"
 check = 1211
-label = "Victory Road - Overworld (Leftovers)"
+label = "Victory Road Foggy Basement - Item in Bottom Right Corner of SW Pool"
 id = 197
 
 [victory_road_1f_room_2_heart_scale]
@@ -771,7 +771,7 @@ original_item = "heart_scale"
 type = "hidden"
 table = "hidden"
 check = 853
-label = "Victory Road - Hidden (Heart Scale) 1"
+label = "Victory Road Foggy Basement - Hidden Item on Center Rock Below North Pool"
 id = 123
 
 [victory_road_1f_room_2_hp_up]
@@ -779,7 +779,7 @@ original_item = "hp_up"
 type = "hidden"
 table = "hidden"
 check = 852
-label = "Victory Road - Hidden (HP Up)"
+label = "Victory Road Foggy Basement - Hidden Item Before Exit"
 id = 122
 
 [victory_road_1f_room_2_ultra_ball]
@@ -787,7 +787,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 851
-label = "Victory Road - Hidden (Ultra Ball) 1"
+label = "Victory Road Foggy Basement - Hidden Item in Top Middle of Rock Maze"
 id = 121
 
 [victory_road_1f_room_2_rare_candy]
@@ -795,7 +795,7 @@ original_item = "rare_candy"
 type = "hidden"
 table = "hidden"
 check = 859
-label = "Victory Road - Hidden (Rare Candy) 1"
+label = "Victory Road Foggy Basement - Hidden Item in Bottom Right of Rock Maze"
 id = 129
 
 [victory_road_1f_room_2_ultra_ball_0]
@@ -803,7 +803,7 @@ original_item = "ultra_ball"
 type = "hidden"
 table = "hidden"
 check = 858
-label = "Victory Road - Hidden (Ultra Ball) 2"
+label = "Victory Road Foggy Basement - Hidden Item in Top Right Corner of SW Pool"
 id = 128
 
 [route_229_reaper_cloth]
@@ -811,7 +811,7 @@ original_item = "reaper_cloth"
 type = "overworld"
 table = "overworld"
 check = 1243
-label = "Route 229 - Overworld (Reaper Cloth)"
+label = "Route 229 - Item in Center Behind Cut Tree"
 id = 229
 
 [route_229_full_restore]
@@ -819,7 +819,7 @@ original_item = "full_restore"
 type = "overworld"
 table = "overworld"
 check = 1245
-label = "Route 229 - Overworld (Full Restore)"
+label = "Route 229 - Item in NE Corner"
 id = 231
 
 [route_229_protein]
@@ -827,7 +827,7 @@ original_item = "protein"
 type = "overworld"
 table = "overworld"
 check = 1244
-label = "Route 229 - Overworld (Protein)"
+label = "Route 229 - Item Northeast of Pond"
 id = 230
 
 [route_229_thunderstone]
@@ -835,7 +835,7 @@ original_item = "thunderstone"
 type = "hidden"
 table = "hidden"
 check = 875
-label = "Route 229 - Hidden (Thunderstone)"
+label = "Route 229 - Hidden Item Southwest of Pond"
 id = 145
 
 [resort_area_nugget]
@@ -867,7 +867,7 @@ original_item = "red_shard"
 type = "overworld"
 table = "overworld"
 check = 1087
-label = "Great Marsh - Overworld (Red Shard)"
+label = "Great Marsh Area 6 - Item Below Pond"
 id = 73
 
 [great_marsh_6_max_repel]
@@ -875,7 +875,7 @@ original_item = "max_repel"
 type = "hidden"
 table = "hidden"
 check = 945
-label = "Great Marsh - Hidden (Max Repel)"
+label = "Great Marsh Area 6 - Hidden Item in Southeast Deep Mud"
 id = 215
 
 [verity_lakefront_tinymushroom]
@@ -907,7 +907,7 @@ original_item = "star_piece"
 type = "hidden"
 table = "hidden"
 check = 781
-label = "Iron Island - Hidden (Star Piece)"
+label = "Iron Island - Hidden Item on Rock Outside"
 id = 51
 
 [iron_island_b3f_shiny_stone]
@@ -915,7 +915,7 @@ original_item = "shiny_stone"
 type = "overworld"
 table = "overworld"
 check = 1158
-label = "Iron Island - Overworld (Shiny Stone)"
+label = "Iron Island B3F - Item in Front of Iron Ruins"
 id = 144
 
 [iron_island_b2f_left_room_ultra_ball]
@@ -1311,7 +1311,7 @@ original_item = "protector"
 type = "overworld"
 table = "overworld"
 check = 1149
-label = "Iron Island - Overworld (Protector)"
+label = "Iron Island B1F Left - Item in Center"
 id = 135
 
 [iron_island_b1f_left_room_yellow_shard]
@@ -1319,7 +1319,7 @@ original_item = "yellow_shard"
 type = "overworld"
 table = "overworld"
 check = 1302
-label = "Iron Island - Overworld (Yellow Shard)"
+label = "Iron Island B1F Left - Item on Raised Walkway"
 id = 287
 
 [iron_island_iron_ruins_metal_coat]
@@ -1327,7 +1327,7 @@ original_item = "metal_coat"
 type = "overworld"
 table = "overworld"
 check = 1337
-label = "Iron Island - Overworld (Metal Coat)"
+label = "Iron Ruins - Item in Center"
 id = 322
 
 [iron_island_iron_ruins_nugget]
@@ -1335,7 +1335,7 @@ original_item = "nugget"
 type = "hidden"
 table = "hidden"
 check = 1004
-label = "Iron Island - Hidden (Nugget)"
+label = "Iron Ruins - Hidden Item on Left"
 id = 274
 
 [route_212_south_full_heal]
@@ -1623,7 +1623,7 @@ original_item = "hard_stone"
 type = "overworld"
 table = "overworld"
 check = 1339
-label = "Route 228 - Overworld (Hard Stone)"
+label = "Rock Peak Ruins - Item in Center"
 id = 324
 
 [route_228_rock_peak_ruins_nugget]
@@ -1631,7 +1631,7 @@ original_item = "nugget"
 type = "hidden"
 table = "hidden"
 check = 1006
-label = "Route 228 - Hidden (Nugget)"
+label = "Rock Peak Ruins - Hidden Item Near Top Right"
 id = 276
 
 [lake_verity_tm38]
@@ -1639,7 +1639,7 @@ original_item = "tm38"
 type = "overworld"
 table = "overworld"
 check = 1253
-label = "Lake Verity - Overworld (TM38) 1"
+label = "Lake Verity - Item in Southwest Grass Patch"
 id = 239
 
 [route_220_carbos]
@@ -4741,7 +4741,7 @@ original_item = "hm04"
 type = "hm"
 table = "base"
 check = 532
-label = "Iron Island - HM04 (From Riley)"
+label = "Iron Island - HM04 from Riley"
 id = 19
 
 [sunyshore_city_hm07]
@@ -5731,7 +5731,7 @@ check = 218
 original_item = "nugget"
 type = "npc_gift"
 table = "base"
-label = "Fight Area - Nugget (From man in middle of route)"
+label = "Route 229 - First Gift from Nugget Man"
 
 [route_229_nugget_0]
 id = 111
@@ -5739,7 +5739,7 @@ check = 218
 original_item = "nugget"
 type = "npc_gift"
 table = "base"
-label = "Fight Area - Nugget 1 (From man in middle of route)"
+label = "Route 229 - Second Gift from Nugget Man"
 
 [survival_area_south_house_tm42]
 id = 112
