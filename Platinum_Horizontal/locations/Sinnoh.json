@@ -12,6 +12,12 @@
 						"name": "Journal from Mom",
 						"item_count": 1
 					},
+                    {
+                        "name": "Running Shoes from Mom",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
 					{
 						"name": "Parcel from Rival's Mom",
 						"item_count": 1
@@ -78,6 +84,18 @@
 						"name": "TM27 from Professor Rowan",
 						"item_count": 1
 					},
+                    {
+                        "name": "Sandgem Town - National Pokedex from Prof Oak",
+                        "visibility_rules": [""],
+                        "access_rules": ["$champ"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sandgem Town - Poké Radar from Prof Rowan",
+                        "visibility_rules": [""],
+                        "access_rules": ["$champ"],
+                        "item_count": 1
+                    },
 					{
 						"name": "Pokemon Center Basement - Pal Pad from Teala",
 						"item_count": 1
@@ -296,6 +314,24 @@
 						"access_rules": ["$coupon"],
 						"item_count": 1
 					},
+                    {
+                        "name": "Calculator App from CEO",
+                        "visibility_rules": [""],
+                        "access_rules": ["$coupon"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pedometer App from CEO",
+                        "visibility_rules": [""],
+                        "access_rules": ["$coupon"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Party Status App from CEO",
+                        "visibility_rules": [""],
+                        "access_rules": ["$coupon"],
+                        "item_count": 1
+                    },
 					{
 						"name": "Memo Pad App from CEO",
 						"access_rules": ["$coupon, $badges|1"],
@@ -535,7 +571,13 @@
 						"visibility_rules": ["$hidden_on"],
 						"access_rules": ["[$hidden]"],
 						"item_count": 1
-					}
+					},
+                    {
+                        "name": "Metal Coat from Byron",
+                        "visibility_rules": [""],
+                        "access_rules": ["ProgDex3"],
+                        "item_count": 1
+                    }
 				]
 			},
 			{
@@ -599,6 +641,12 @@
 						"name": "Lass in Northwest Building",
 						"item_count": 1
 					},
+                    {
+                        "name": "Gift from Overalls Man for Showing Geodude in North House",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
 					{
 						"name": "Youngster in Southeast Building",
 						"item_count": 1
@@ -2455,6 +2503,12 @@
                         "access_rules": [""],
                         "item_count": 1
                     },
+                    {
+                        "name": "Random Berry",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
 					{
 						"name": "Berry Tree 1",
 						"chest_unopened_img": "/images/items/EnigmaBerry.png",
@@ -2629,6 +2683,12 @@
                     },
                     {
                         "name": "(Right) Item Behind Bench",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "(Right) Random Berry or Accessory",
                         "visibility_rules": [""],
                         "access_rules": [""],
                         "item_count": 1
@@ -2976,6 +3036,174 @@
                         "visibility_rules": [""],
                         "access_rules": ["^$pastoria"],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Unown File A",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File B",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File C",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File D",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File E",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File F",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File G",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File H",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File I",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File J",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File K",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File L",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File M",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File N",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File O",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File P",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File Q",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File R",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File S",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File T",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File U",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File V",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File W",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File X",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File Y",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File Z",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File !",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Unown File ?",
+                        "visibility_rules": [""],
+                        "access_rules": ["[$hidden]"],
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -3264,6 +3492,12 @@
                         "item_count": 1
                     },
                     {
+                        "name": "Dept. Store - Turtwig Mask",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Dept. Store - Buy TM70 from Department Store",
                         "visibility_rules": ["opt_flash_on"],
                         "access_rules": [""],
@@ -3271,6 +3505,12 @@
                     },
                     {
                         "name": "Dept. Store - Gift from Two Buff Guys Standing Side By Side",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Random Accessory",
                         "visibility_rules": [""],
                         "access_rules": [""],
                         "item_count": 1
@@ -7055,16 +7295,32 @@
                         "size": 22
                     }
                 ]
+            },
+            {
+                "name": "Fullmoon Island",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$champ,ProgDex3"
+                ],
+                "sections": [
+                    {
+                        "name": "Item in Clearing after Cresselia has Fled",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sinnoh",
+                        "x": 138,
+                        "y": 190,
+                        "size": 22
+                    }
+                ]
             }
         ]
     }
 ]
-
-
-
-
-
-
-
-
-
