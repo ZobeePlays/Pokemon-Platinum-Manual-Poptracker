@@ -26,36 +26,48 @@
 				"h_alignment": "left",
 				"item_h_alignment": "center",
 				"item_v_alignment": "center",
-				"item_height": 36,
-				"item_width": 36,
+				"item_height": 72,
+				"item_width": 72,
 				"rows": [
 					[
+						"opt_overworlds",
 						"opt_hidden",
+						"opt_gifts",
+						"opt_accessories",
+						"opt_badges",
+						"opt_hms",
+						"opt_keyitems",
+						"opt_apps"
+					],
+					[
 						"opt_dowsing",
-						"opt_217",
-						"opt_bz",
-						"opt_victory"
-					],
-					[
-						"opt_flash",
 						"opt_fly_north",
-						"opt_fly_early",
-						"opt_defog_cross",
-						"opt_defog_items",
-					],
-					[
 						"opt_open_sshore",
 						"opt_extra_blocks",
-						"opt_skey",
-						"opt_marsh",
-						"event_toggle"
+						"opt_defog_cross",
+						"opt_defog_items",
+						"",
+						"opt_bz"
 					],
 					[
+						"opt_skey",
+						"opt_marsh",
+						"event_toggle",
 						"",
-						"opt_berry_trees",
 						"",
-						"opt_berry_shop",
+						"",
+						"",
 						""
+					],
+					[
+						"opt_cutreq",
+						"opt_flyreq",
+						"opt_surfreq",
+						"opt_strengthreq",
+						"opt_defogreq",
+						"opt_smashreq",
+						"opt_waterfallreq",
+						"opt_climbreq"
 					]
 				]
 			}
