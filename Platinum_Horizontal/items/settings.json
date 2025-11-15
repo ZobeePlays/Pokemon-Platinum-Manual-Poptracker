@@ -134,7 +134,7 @@
 		"name": "Shuffle Hiddens",
 		"type": "progressive",
 		"codes": "opt_hidden",
-		"loop": false,
+		"loop": true,
 		"inherit_codes": false,
 		"allow_disabled": false,
 		"stages": [
@@ -156,7 +156,7 @@
 		"name": "Dowsing App Option",
 		"type": "progressive",
 		"codes": "opt_dowsing",
-		"loop": false,
+		"loop": true,
 		"inherit_codes": false,
 		"allow_disabled": false,
 		"stages": [
@@ -179,7 +179,7 @@
 		"name": "Route 217 Dowsing App",
 		"type": "progressive",
 		"codes": "opt_217",
-		"loop": false,
+		"loop": true,
 		"inherit_codes": false,
 		"allow_disabled": false,
 		"stages": [
@@ -203,7 +203,7 @@
 		"name": "Open Sunyshore",
 		"type": "progressive",
 		"codes": "opt_open_sshore",
-		"loop": false,
+		"loop": true,
 		"inherit_codes": false,
 		"allow_disabled": false,
 		"stages": [
@@ -226,7 +226,7 @@
 		"name": "Add Roadblocks",
 		"codes": "opt_extra_blocks",
 		"type": "progressive",
-		"loop": false,
+		"loop": true,
 		"inherit_codes": false,
 		"allow_disabled": false,
 		"stages": [
@@ -248,7 +248,7 @@
 	{
 		"name": "Storage Key in Pool",
 		"type": "progressive",
-		"loop": false,
+		"loop": true,
 		"inherit_codes": false,
 		"allow_disabled": false,
 		"codes": "opt_skey",
@@ -271,7 +271,7 @@
 	{
 		"name": "Marsh Pass in Pool",
 		"type": "progressive",
-		"loop": false,
+		"loop": true,
 		"inherit_codes": false,
 		"allow_disabled": false,
 		"codes": "opt_marsh",
@@ -295,7 +295,7 @@
 		"name": "Early Fly Logic",
 		"type": "progressive",
 		"codes": "opt_fly_early",
-		"loop": false,
+		"loop": true,
 		"inherit_codes": false,
 		"allow_disabled": false,
 		"stages": [
@@ -356,6 +356,342 @@
 				"codes": "opt_berry_shop_on",
 				"inherit_codes": false,
 				"name": "Accessory Shop On"
+			}
+		]
+	},
+	{
+		"name": "Accessories Shuffled",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": true,
+		"codes": "opt_accessories",
+		"stages": [
+			{
+				"img": "/images/Items/AccessoriesOff2.png",
+				"img_mods": "@disabled",
+				"codes": "opt_accessories_off",
+				"inherit_codes": false,
+				"name": "Accessory Off"
+			},
+			{
+				"img": "/images/Items/AccessoriesOn2.png",
+				"codes": "opt_accessories_on",
+				"inherit_codes": false,
+				"name": "Accessory On"
+			}
+		]
+	},
+	{
+		"name": "Cut Badge Requirment",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": true,
+		"codes": "opt_cutreq",
+		"stages": [
+			{
+				"img": "/images/Items/CutWithoutBadge.png",
+				"img_mods": "@disabled",
+				"codes": "opt_cut_off",
+				"inherit_codes": false,
+				"name": "Cut Does NOT Need Badge to use"
+			},
+			{
+				"img": "/images/Items/CutNeedsBadge.png",
+				"codes": "opt_cut_on",
+				"inherit_codes": false,
+				"name": "Cut Needs Badge to use"
+			}
+		]
+	},
+	{
+		"name": "Fly Badge Requirment",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": true,
+		"codes": "opt_flyreq",
+		"stages": [
+			{
+				"img": "/images/Items/FlyWithoutBadge.png",
+				"img_mods": "@disabled",
+				"codes": "opt_fly_off",
+				"inherit_codes": false,
+				"name": "Fly Does NOT Need Badge to use"
+			},
+			{
+				"img": "/images/Items/FlyNeedsBadge.png",
+				"codes": "opt_fly_on",
+				"inherit_codes": false,
+				"name": "Fly Needs Badge to use"
+			}
+		]
+	},
+	{
+		"name": "Surf Badge Requirment",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": true,
+		"codes": "opt_surfreq",
+		"stages": [
+			{
+				"img": "/images/Items/SurfWithoutBadge.png",
+				"img_mods": "@disabled",
+				"codes": "opt_surf_off",
+				"inherit_codes": false,
+				"name": "Surf Does NOT Need Badge to use"
+			},
+			{
+				"img": "/images/Items/SurfNeedsBadge.png",
+				"codes": "opt_surf_on",
+				"inherit_codes": false,
+				"name": "Surf Needs Badge to use"
+			}
+		]
+	},
+	{
+		"name": "Strength Badge Requirment",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": true,
+		"codes": "opt_strengthreq",
+		"stages": [
+			{
+				"img": "/images/Items/StrengthWithoutBadge.png",
+				"img_mods": "@disabled",
+				"codes": "opt_strength_off",
+				"inherit_codes": false,
+				"name": "Strength Does NOT Need Badge to use"
+			},
+			{
+				"img": "/images/Items/StrengthNeedsBadge.png",
+				"codes": "opt_strength_on",
+				"inherit_codes": false,
+				"name": "Strength Needs Badge to use"
+			}
+		]
+	},
+	{
+		"name": "Defog Badge Requirment",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": true,
+		"codes": "opt_defogreq",
+		"stages": [
+			{
+				"img": "/images/Items/DefogWithoutBadge.png",
+				"img_mods": "@disabled",
+				"codes": "opt_defog_off",
+				"inherit_codes": false,
+				"name": "Defog Does NOT Need Badge to use"
+			},
+			{
+				"img": "/images/Items/DefogNeedsBadge.png",
+				"codes": "opt_defog_on",
+				"inherit_codes": false,
+				"name": "Defog Needs Badge to use"
+			}
+		]
+	},
+	{
+		"name": "Rock Smash Badge Requirment",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": true,
+		"codes": "opt_smashreq",
+		"stages": [
+			{
+				"img": "/images/Items/SmashWithoutBadge.png",
+				"img_mods": "@disabled",
+				"codes": "opt_smash_off",
+				"inherit_codes": false,
+				"name": "Rock Smash Does NOT Need Badge to use"
+			},
+			{
+				"img": "/images/Items/SmashNeedsBadge.png",
+				"codes": "opt_smash_on",
+				"inherit_codes": false,
+				"name": "Rock Smash Needs Badge to use"
+			}
+		]
+	},
+	{
+		"name": "Waterfall Badge Requirment",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": true,
+		"codes": "opt_waterfallreq",
+		"stages": [
+			{
+				"img": "/images/Items/WaterfallWithoutBadge.png",
+				"img_mods": "@disabled",
+				"codes": "opt_waterfall_off",
+				"inherit_codes": false,
+				"name": "Waterfall Does NOT Need Badge to use"
+			},
+			{
+				"img": "/images/Items/WaterfallNeedsBadge.png",
+				"codes": "opt_waterfall_on",
+				"inherit_codes": false,
+				"name": "Waterfall Needs Badge to use"
+			}
+		]
+	},
+	{
+		"name": "Rock Climb Badge Requirment",
+		"type": "progressive",
+		"allow_disabled": false,
+		"loop": true,
+		"codes": "opt_climbreq",
+		"stages": [
+			{
+				"img": "/images/Items/ClimbWithoutBadge.png",
+				"img_mods": "@disabled",
+				"codes": "opt_climb_off",
+				"inherit_codes": false,
+				"name": "Rock Climb Does NOT Need Badge to use"
+			},
+			{
+				"img": "/images/Items/ClimbNeedsBadge.png",
+				"codes": "opt_climb_on",
+				"inherit_codes": false,
+				"name": "Rock Climb Needs Badge to use"
+			}
+		]
+	},
+	{
+		"name": "Shuffle Overworlds",
+		"type": "progressive",
+		"codes": "opt_overworlds",
+		"loop": true,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Overworld Items Not Randomized",
+				"img": "/images/Items/OverworldsOff.png",
+				"codes": "opt_overworlds_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Overworld Items Randomized",
+				"img": "/images/Items/OverworldsOn.png",
+				"codes": "opt_overworlds_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Shuffle Key Items",
+		"type": "progressive",
+		"codes": "opt_keyitems",
+		"loop": true,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "All Key Items Randomized",
+				"img": "/images/Items/AllKeyItems.png",
+				"codes": "opt_keyitems_all",
+				"inherit_codes": false
+			},
+			{
+				"name": "Most Key Items Randomized",
+				"img": "/images/Items/MostKeyItems.png",
+				"codes": "opt_keyitems_most",
+				"inherit_codes": false
+			},
+			{
+				"name": "No Key Items Randomized",
+				"img": "/images/Items/NoKeyItems.png",
+				"codes": "opt_keyitems_off",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Shuffle Badges",
+		"type": "progressive",
+		"codes": "opt_badges",
+		"loop": true,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Badges Randomized",
+				"img": "/images/Items/BadgesOn.png",
+				"codes": "opt_badges_off",
+				"inherit_codes": false
+			},
+			{
+				"name": "Badges Randomized",
+				"img": "/images/Items/BadgesOff.png",
+				"codes": "opt_badges_on",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Shuffle HMs",
+		"type": "progressive",
+		"codes": "opt_hms",
+		"loop": true,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "HMs Randomized",
+				"img": "/images/Items/HMsOn.png",
+				"codes": "opt_hms_on",
+				"inherit_codes": false
+			},
+			{
+				"name": "HMs Randomized",
+				"img": "/images/Items/HMsOff.png",
+				"codes": "opt_hms_off",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Shuffle Gifts",
+		"type": "progressive",
+		"codes": "opt_gifts",
+		"loop": true,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Gifts Randomized",
+				"img": "/images/Items/GiftsOn.png",
+				"codes": "opt_gifts_on",
+				"inherit_codes": false
+			},
+			{
+				"name": "Gifts Randomized",
+				"img": "/images/Items/GiftsOff.png",
+				"codes": "opt_gifts_off",
+				"inherit_codes": false
+			}
+		]
+	},
+	{
+		"name": "Shuffle Apps",
+		"type": "progressive",
+		"codes": "opt_apps",
+		"loop": true,
+		"inherit_codes": false,
+		"allow_disabled": false,
+		"stages": [
+			{
+				"name": "Apps Randomized",
+				"img": "/images/Items/poketch.png",
+				"codes": "opt_apps_on",
+				"inherit_codes": false
+			},
+			{
+				"name": "Apps Randomized",
+				"img": "/images/Items/AppsOff.png",
+				"codes": "opt_apps_off",
+				"inherit_codes": false
 			}
 		]
 	}
