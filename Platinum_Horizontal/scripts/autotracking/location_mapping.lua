@@ -1,5 +1,4 @@
-LOCATION_MAPPING =
-{
+LOCATION_MAPPING = {
     -- NPC Items
 [1] = {"@Sinnoh/Oreburgh City/Gym - TM76 from Roark"},
 [2] = {"@Sinnoh/Eterna City/Gym - Forest Badge from Gardenia"},
@@ -11,7 +10,7 @@ LOCATION_MAPPING =
 [8] = {"@Sinnoh/Hearthome City/Gym - Relic Badge from Fantina"},
 [9] = {"@Sinnoh/Hearthome City/Gym - TM65 from Fantina"},
 [10] = {"@Sinnoh/Canalave City/Gym - Mine Badge from Byron"},
-[11] = {"@Sinnoh/Canalave City/Gym - TM91 from Byron"},\
+[11] = {"@Sinnoh/Canalave City/Gym - TM91 from Byron"},
 [12] = {"@Sinnoh/Snowpoint City/Gym - Icicle Badge from Candice"},
 [13] = {"@Sinnoh/Snowpoint City/Gym - TM72 from Candice"},
 [14] = {"@Sinnoh/Sunyshore City/Gym - Beacon Badge from Volkner"},
@@ -225,7 +224,7 @@ LOCATION_MAPPING =
 [65626] = {"@Sinnoh/Route 209/Item Down River in Southeast"},
 [65627] = {"@Sinnoh/Lost Tower/2F - Item in Front of Youngster"},
     -- New item
-[65628] = {"@Sinnog/Fullmoon Island/Item in Clearing after Cresselia has Fled"}
+[65628] = {"@Sinnoh/Fullmoon Island/Item in Clearing after Cresselia has Fled"},
 [65629] = {"@Sinnoh/Lost Tower/3F - Item in Southwest Corner"},
 [65630] = {"@Sinnoh/Lost Tower/4F - Item on South Path"},
 [65631] = {"@Sinnoh/Solaceon Ruins/B5F - FRIENDSHIP Room Item 4"}, --apworld has this as FRIENDSHIP Room Bottom Left Item
@@ -463,7 +462,7 @@ LOCATION_MAPPING =
 [131077] = {"@Sinnoh/Route 206/Hidden Item Below Berry Patch"},
 [131078] = {"@Sinnoh/Wayward Cave/Hidden Item in Rock Next to Mira"},
 [131079] = {"@Sinnoh/Route 222/Hidden Item in Corner of Northwest Trees"}, --apworld has Valor Lakefront - Hidden Item in Corner of Route 222's NW Trees
-[131080] = {"@Sinnoh/Route 207/Hidden Item That's Either South of Hikers in Wayward Cave or Next to Rock Climb Slope on Route 207","@Sinnoh/Wayward Cave/Hidden Item That's Either South of Hikers in Wayward Cave or Next to Rock Climb Slope on Route 207"},
+[131080] = {"@Sinnoh/Route 207/Hidden Item That's Either South of Hikers in Wayward Cave or Next to Rock Climb Slope on Route 207", "@Sinnoh/Wayward Cave/Hidden Item That's Either South of Hikers in Wayward Cave or Next to Rock Climb Slope on Route 207"},
 [131081] = {"@Sinnoh/Wayward Cave/Hidden Item in Rock Below Picnicker on East Side"},
 [131082] = {"@Sinnoh/Wayward Cave/Secret Basement - Hidden Item in Rock Before First Bike Slope"},
 [131083] = {"@Sinnoh/Wayward Cave/Secret Basement - Hidden Item Against Northwest Wall"},
@@ -903,8 +902,5 @@ LOCATION_MAPPING =
 [0] = {"@Sinnoh/Floaroma Flower Shop/Fluffy Bed"},
 [0] = {"@Sinnoh/Floaroma Flower Shop/Mirror Ball"},
 [0] = {"@Sinnoh/Floaroma Flower Shop/Photo Board"},
-[0] = {"@Sinnoh/Floaroma Town/Daily Berry from Flower Shop"},
+[0] = {"@Sinnoh/Floaroma Town/Daily Berry from Flower Shop"}
 }
-
-
-

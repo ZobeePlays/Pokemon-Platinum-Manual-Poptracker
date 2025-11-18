@@ -1,5 +1,4 @@
-LOCATION_MAPPING =
-{
+LOCATION_MAPPING = {
 [1] = {"@Sinnoh/Pokemon League/Become Champion"},
 [2] = {"@Sinnoh/Twinleaf Town/Journal from Mom"},
 [3] = {"@Sinnoh/Twinleaf Town/Parcel from Rival's Mom"},
@@ -843,4 +842,3 @@ LOCATION_MAPPING =
 [841] = {"@Sinnoh/Floaroma Flower Shop/Photo Board"},
 [842] = {"@Sinnoh/Floaroma Town/Daily Berry from Flower Shop"}
 }
-
